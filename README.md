@@ -1,5 +1,19 @@
 # tailwind-to-object
 
+<p align="center">
+<img width="439" alt="image" src="https://github.com/finom/tailwind-to-object/assets/1082083/4e21b15c-0a16-405d-9f9a-06cbf8926f37">
+ <br />
+<a href="https://www.npmjs.com/package/tailwind-to-object">
+<img src="https://badge.fury.io/js/tailwind-to-object.svg" alt="npm version" /> 
+</a>
+<a href="https://www.typescriptlang.org/">
+<img src="https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg" alt="TypeScript" /> 
+</a>
+<a href="https://github.com/finom/tailwind-to-object/actions/workflows/main.yml">
+<img src="https://github.com/finom/tailwind-to-object/actions/workflows/main.yml/badge.svg" alt="Build status" />
+</a>
+</p>
+
 Fast and simple one-file zero-dependency library of one function that converts Tailwind classes with default configuration to CSS style objects. Perfect for email libraries based on React. Copied from an old project and published because it works too good. Works on front-end, back-end and your microwave.
 
 ```sh
