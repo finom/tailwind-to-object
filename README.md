@@ -5,7 +5,7 @@
   <source width="600" media="(prefers-color-scheme: light)" srcset="./.assets/dark.png">
   <img width="600" alt="next-smoothie" src="./.assets/dark.png">
 </picture>
- <br />
+ <br /> <br />
 
 <a href="https://www.npmjs.com/package/tailwind-to-object">
 <img src="https://badge.fury.io/js/tailwind-to-object.svg" alt="npm version" /> 
