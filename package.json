@@ -1,0 +1,41 @@
+{
+  "name": "tailwind-to-object",
+  "version": "0.0.0",
+  "description": "Convert Tailwind classNames into CSS objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node test",
+    "prettier": "prettier --write \"**/*.ts\"",
+    "build": "tsc index.ts",
+    "patch": "npm t && npm version patch && npm run build && npm publish && git push && git push --tags",
+    "minor": "npm t && npm version minor && npm run build && npm publish && git push && git push --tags",
+    "BREAKING-major": "npm t && npm version major && npm run build && npm publish && git push && git push --tags"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": true,
+    "singleQuote": true,
+    "printWidth": 120
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finom/tailwind-to-object.git"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "style"
+  ],
+  "author": "Andrii Gubanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finom/tailwind-to-object/issues"
+  },
+  "homepage": "https://github.com/finom/tailwind-to-object#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "prettier": "3.0.3",
+    "ts-node": "^10.9.1"
+  }
+}
