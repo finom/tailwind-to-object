@@ -1,7 +1,11 @@
-# tailwind-to-object
+# tailwind-to-object - Tailwind for email
 
 <p align="center">
-<img width="439" alt="image" src="https://github.com/finom/tailwind-to-object/assets/1082083/4e21b15c-0a16-405d-9f9a-06cbf8926f37">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.assets/white.png">
+  <source media="(prefers-color-scheme: light)" srcset="./.assets/dark.png">
+  <img alt="next-smoothie" src="./.assets/text-smoothie-dark.png">
+</picture>
  <br />
 <a href="https://www.npmjs.com/package/tailwind-to-object">
 <img src="https://badge.fury.io/js/tailwind-to-object.svg" alt="npm version" /> 
@@ -14,7 +18,7 @@
 </a>
 </p>
 
-Fast and simple one-file zero-dependency library of one function that converts Tailwind classes with default configuration to CSS style objects. Perfect for email libraries based on React. Copied from an old project and published because it works too good. Works on front-end, back-end and your microwave.
+Fast and simple one-file zero-dependency library of one function that converts Tailwind classes with default configuration to CSS style objects. Perfect for email libraries based on React. Copied from an old project and published because it works too good. Can be used on front-end, back-end and your microwave if it runs JavaScript.
 
 ```sh
 npm i tailwind-to-object
@@ -31,18 +35,24 @@ Accepts string of tailwind classes as first argument and returns an object of st
 ```ts
 import tailwindToObject from 'tailwind-to-object';
 
-const style = tailwindToObject('text-2xl font-bold text-center text-red-200 bg-[#FFFFFF] !px-3');
+const style = tailwindToObject('text-2xl font-bold text-center !px-3 text-red-200 bg-[#FFFFFF]');
 
 console.log(style);
 /*
-{
+{   
+    // text-2xl
     fontSize: '1.5rem',
-    fontWeight: '700',
     lineHeight: '2rem',
+    // font-bold
+    fontWeight: '700',
+    // text-center
     textAlign: 'center',
+    // !px-3
     paddingLeft: '0.75rem !important', 
     paddingRight: '0.75rem !important',
+    // text-red-200
     color: '#FECACA',
+    // bg-[#FFFFFF] 
     background: '#FFFFFF',
 }
 */
@@ -83,3 +93,41 @@ Now you can use this component like that:
     Hello World
 </Div>
 ```
+
+You can build a collection of such components for your taste. Here is a random copy-paste:
+
+```tsx
+<Table className="w-full border-collapse mt-8 border-t border-l-0 border-r-0 border-b-0 border-solid">
+    <tbody>
+        {products.map((product) => (
+            <tr key={product.id}>
+                <Td className="py-4 border-b border-t-0 border-l-0 border-r-0 border-solid">
+                <Div className="whitespace-nowrap">
+                    <Div className='pt-7 mt-px inline-block mr-4 align-top'>
+                        {order.quantityMap[product.id]}
+                    </Div>
+                    <Div className='pt-4 inline-block mr-4 align-top'>
+                    <Div className='inline-block relative'>
+                        <Img src={product.images[0].url} width={64} alt="Product image" />
+                    </Div>
+                    </Div>
+                    <Div className="inline-block align-top">
+                    <Div className="mb-2">
+                        {product.collection.title ?? <em>Unknown type</em>}
+                    </Div>
+                    <Div className="mb-2">{product.title}</Div>
+                    <Div>
+                        {product.description?.split(/\n/).map((desc, i) => (
+                            <Div key={i}>{desc}</Div>
+                        ))}
+                    </Div>
+                    </Div>
+                </Div>
+                </Td>
+            </tr>
+        ))}
+    </tbody>
+</Table>
+```
+
+Enjoy!
