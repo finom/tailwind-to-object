@@ -6,8 +6,9 @@
   <source width="600" media="(prefers-color-scheme: light)" srcset="./.assets/dark.png">
   <img width="600" alt="next-smoothie" src="./.assets/dark.png">
 </picture>
- <br /> <br />
-
+ <br />
+ <strong>Tailwind for email libraries</strong>
+<br /><br />
 <a href="https://www.npmjs.com/package/tailwind-to-object">
 <img src="https://badge.fury.io/js/tailwind-to-object.svg" alt="npm version" /> 
 </a>
@@ -19,7 +20,7 @@
 </a>
 </p>
 
-Fast and simple one-file zero-dependency library of one function that converts Tailwind classes with default configuration to CSS style objects. Perfect for email libraries based on React. Can be used on front-end, back-end and your microwave if it runs JavaScript.
+Fast and simple one-file zero-dependency library of one single-argument function that converts Tailwind classes with default configuration to CSS style objects. Perfect for email libraries based on React. Can be used on front-end, back-end and your microwave if it runs JavaScript.
 
 ```sh
 npm i tailwind-to-object
