@@ -9,15 +9,9 @@
  <br />
  <strong>Tailwind for email libraries</strong>
 <br /><br />
-<a href="https://www.npmjs.com/package/tailwind-to-object">
-<img src="https://badge.fury.io/js/tailwind-to-object.svg" alt="npm version" /> 
-</a>
-<a href="https://www.typescriptlang.org/">
-<img src="https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg" alt="TypeScript" /> 
-</a>
-<a href="https://github.com/finom/tailwind-to-object/actions/workflows/main.yml">
-<img src="https://github.com/finom/tailwind-to-object/actions/workflows/main.yml/badge.svg" alt="Build status" />
-</a>
+<a href="https://www.npmjs.com/package/tailwind-to-object"><img src="https://badge.fury.io/js/tailwind-to-object.svg" alt="npm version" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg" alt="TypeScript" /></a>
+<a href="https://github.com/finom/tailwind-to-object/actions/workflows/main.yml"><img src="https://github.com/finom/tailwind-to-object/actions/workflows/main.yml/badge.svg" alt="Build status" /></a>
 </p>
 
 Fast and simple one-file zero-dependency library of one single-argument function that converts Tailwind classes with default configuration to CSS style objects. Perfect for email libraries based on React. Can be used on front-end, back-end and your microwave if it runs JavaScript.
