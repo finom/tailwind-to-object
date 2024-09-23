@@ -1,7 +1,7 @@
-import expect from 'expect.js';
+import assert from 'node:assert';
 import tailwindToObject from '.';
 
-expect(tailwindToObject('text-2xl font-bold text-center text-red-200 bg-[#FFFFFF] !px-3')).to.eql({
+assert.deepStrictEqual(tailwindToObject('text-2xl font-bold text-center text-red-200 bg-[#FFFFFF] !px-3'), {
   fontSize: '1.5rem',
   fontWeight: '700',
   lineHeight: '2rem',

@@ -34,8 +34,7 @@
   },
   "homepage": "https://github.com/finom/tailwind-to-object#readme",
   "devDependencies": {
-    "expect.js": "^0.3.1",
-    "prettier": "3.0.3",
-    "ts-node": "^10.9.1"
+    "prettier": "3.3.3",
+    "ts-node": "^10.9.2"
   }
 }
