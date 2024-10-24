@@ -43,7 +43,7 @@ fs.readFile(path.join(__dirname, 'output.css'), 'utf8', (err, css) => {
         }
       });
 
-      const utilityStyles = {};
+      let utilityStyles = {};
 
       root.walkRules((rule) => {
         const selector = rule.selector;
@@ -115,6 +115,8 @@ fs.readFile(path.join(__dirname, 'output.css'), 'utf8', (err, css) => {
           utilityStyles[className] = resolvedDeclarations;
         }
       });
+
+      utilityStyles = Object.fromEntries(Object.entries(utilityStyles).filter(([, value]) => Object.keys(value).length > 0));
 
       fs.writeFile(
         path.join(__dirname, '../src/generated.json'),
