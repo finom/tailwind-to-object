@@ -35,7 +35,7 @@ const arbitrarySupportedClasses = {
   left: 'left',
   right: 'right',
   bg: 'background',
-  text: 'color',
+  text: (value: string) => value.startsWith('rgb') || value.startsWith('#') ? 'text-color' : 'font-size',
   'min-w': 'min-width',
   'max-w': 'max-width',
   border: 'border-width',
@@ -58,9 +58,10 @@ export default function tailwindToObject(selector: string) {
       if (s.includes('[')) {
         const property = s.split('-[')[0].replace('.', '') as keyof typeof arbitrarySupportedClasses;
         const properyValue = s.match(/(?<=\[)[^\][]*(?=])/g)?.[0];
-        if (arbitrarySupportedClasses[property]) {
+        const value = arbitrarySupportedClasses[property];
+        if (value) {
           Object.assign(styleAttr, {
-            [camelCase(arbitrarySupportedClasses[property])]: properyValue + (important ? ' !important' : ''),
+            [camelCase(typeof value === 'function' ? value(properyValue ?? '') : value)]: properyValue + (important ? ' !important' : ''),
           });
         } else {
           throw new Error(`No style found for selector: ${s}`);
