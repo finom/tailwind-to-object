@@ -3,7 +3,11 @@ const fs = require('fs');
 const utilities = require('../src/generated.json');
 
 // Start building the markdown content
-let markdownContent = '# Supported Tailwind CSS Utility Classes\n\n';
+let markdownContent = `# Supported Tailwind CSS Utility Classes
+
+Total number of classes: ${Object.keys(utilities).length}
+
+`;
 
 // Start the HTML table
 markdownContent += '<table>\n';

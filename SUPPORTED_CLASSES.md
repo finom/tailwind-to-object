@@ -1,5 +1,7 @@
 # Supported Tailwind CSS Utility Classes
 
+Total number of classes: 8419
+
 <table>
   <tr>
     <th>Class Name</th>
