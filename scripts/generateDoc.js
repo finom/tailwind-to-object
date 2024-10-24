@@ -1,33 +1,40 @@
 // generateMarkdown.js
 const fs = require('fs');
-const utilities = require('../src/generated.json')
+const utilities = require('../src/generated.json');
 
+// Start building the markdown content
+let markdownContent = '# Supported Tailwind CSS Utility Classes\n\n';
 
-  // Start building the markdown content
-  let markdownContent = '# Supported Tailwind CSS Utility Classes\n\n';
+// Start the HTML table
+markdownContent += '<table>\n';
+markdownContent += '  <tr>\n';
+markdownContent += '    <th>Class Name</th>\n';
+markdownContent += '    <th>Styles</th>\n';
+markdownContent += '  </tr>\n';
 
-  // Add the table header
-  markdownContent += '| Class Name | Styles |\n';
-  markdownContent += '|------------|--------|\n';
+// Iterate over each utility class
+for (const [className, styles] of Object.entries(utilities)) {
+  // Prepare the styles string with <br> tags for line breaks
+  const stylesList = Object.entries(styles)
+    .map(([prop, value]) => `${prop}: ${value}`)
+    .join('<br>'); // Use <br> tag for line breaks
 
-  // Iterate over each utility class
-  for (const [className, styles] of Object.entries(utilities)) {
-    // Prepare the styles string
-    const stylesList = Object.entries(styles)
-      .map(([prop, value]) => `${prop}: ${value}`)
-      .join('  \n'); // Use two spaces and a newline for Markdown line break
+  // Escape special HTML characters
+  const escapedClassName = className.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  const escapedStylesList = stylesList.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
-    // Escape pipe characters in className and stylesList
-    const escapedClassName = className.replace(/\|/g, '\\|');
-    const escapedStylesList = stylesList.replace(/\|/g, '\\|');
+  // Add the row to the HTML table
+  markdownContent += '  <tr>\n';
+  markdownContent += `    <td><code>${escapedClassName}</code></td>\n`;
+  markdownContent += `    <td>${escapedStylesList}</td>\n`;
+  markdownContent += '  </tr>\n';
+}
 
-    // Add the row to the markdown table
-    markdownContent += `| \`${escapedClassName}\` | ${escapedStylesList} |\n`;
-  }
+// End the HTML table
+markdownContent += '</table>\n';
 
-  // Write the markdown content to a file
-  fs.writeFile('SUPPORTED_CLASSES.md', markdownContent, (err) => {
-    if (err) throw err;
-    console.log('Markdown file has been generated: tailwindUtilities.md');
-  });
-
+// Write the markdown content to a file
+fs.writeFile('SUPPORTED_CLASSES.md', markdownContent, (err) => {
+  if (err) throw err;
+  console.log('Markdown file has been generated: SUPPORTED_CLASSES.md');
+});
