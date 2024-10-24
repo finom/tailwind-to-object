@@ -1,8 +1,8 @@
 {
   "name": "tailwind-to-object",
   "version": "0.0.7",
-  "description": "Convert Tailwind classNames into CSS objects",
-  "main": "dist/index.js",
+  "description": "Convert Tailwind class names into a CSS object",
+  "main": "./dist/index.js",
   "scripts": {
     "ncu": "npx npm-check-updates -u && npm i",
     "test": "npm run build && ts-node test",
