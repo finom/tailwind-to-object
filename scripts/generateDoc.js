@@ -16,8 +16,8 @@ markdownContent += '  </tr>\n';
 for (const [className, styles] of Object.entries(utilities)) {
   // Prepare the styles string with <br> tags for line breaks
   const stylesList = Object.entries(styles)
-    .map(([prop, value]) => `${prop}: ${value}`)
-    .join('\n'); // Use <br> tag for line breaks
+    .map(([prop, value]) => `<code>${prop}: ${value}</code>`)
+    .join(';\n'); // Use <br> tag for line breaks
 
   // Escape special HTML characters
   const escapedClassName = className.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -26,7 +26,7 @@ for (const [className, styles] of Object.entries(utilities)) {
   // Add the row to the HTML table
   markdownContent += '  <tr>\n';
   markdownContent += `    <td><code>${escapedClassName}</code></td>\n`;
-  markdownContent += `    <td><code>${escapedStylesList}</code></td>\n`;
+  markdownContent += `    <td>${escapedStylesList}</td>\n`;
   markdownContent += '  </tr>\n';
 }
 
