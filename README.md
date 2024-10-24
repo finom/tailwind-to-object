@@ -26,12 +26,21 @@ yarn add tailwind-to-object
 
 ### tailwindToObject
 
-Accepts string of tailwind classes as first argument and returns an object of styles.
+Accepts a space-delimited string of Tailwind classes as the only argument and returns an object of camel-cased styles.
 
 ```ts
 import tailwindToObject from 'tailwind-to-object';
 
-const style = tailwindToObject('text-2xl font-bold text-center !px-3 text-red-200 bg-[#FFFFFF] border-[5px] -top-4');
+const style = tailwindToObject(`
+  text-2xl 
+  font-bold 
+  text-center 
+  !px-3 
+  text-red-200 
+  bg-[#FFFFFF] 
+  border-[5px] 
+  -top-4
+`);
 
 console.log(style);
 /*
@@ -60,7 +69,7 @@ console.log(style);
 
 #### Example usage with React
 
-You can simulate normal classNames in your React components that are going to be converted into a normal style object.
+You can simulate the regular className property in your React component that is going to be converted and applied as a style object. Optionally, install [tailwind-merge](https://www.npmjs.com/package/tailwind-merge) to avoid potential conflicts. Since the library is not related to any framework, you can create something with similar idea for your own environment. Feel free to create a PR to add more examples.
 
 ```ts
 // tailwindComponents.ts
