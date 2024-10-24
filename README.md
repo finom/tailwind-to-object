@@ -14,7 +14,7 @@
 <a href="https://github.com/finom/tailwind-to-object/actions/workflows/main.yml"><img src="https://github.com/finom/tailwind-to-object/actions/workflows/main.yml/badge.svg" alt="Build status" /></a>
 </p>
 
-Fast and simple one-file zero-dependency library of one single-argument function that converts Tailwind classes with default configuration to CSS style objects. Perfect for email libraries based on React. Can be used on front-end, back-end and your microwave if it runs JavaScript.
+Fast and simple zero-dependency library of one single-argument function that converts Tailwind classes with default configuration to CSS style objects. Perfect for email rendering. Can be used on front-end, back-end and your microwave if it supports JavaScript. Check [SUPPORTED_CLASSES.md](./SUPPORTED_CLASSES.md) to see all supported classes.
 
 ```sh
 npm i tailwind-to-object
@@ -31,7 +31,7 @@ Accepts string of tailwind classes as first argument and returns an object of st
 ```ts
 import tailwindToObject from 'tailwind-to-object';
 
-const style = tailwindToObject('text-2xl font-bold text-center !px-3 text-red-200 bg-[#FFFFFF]');
+const style = tailwindToObject('text-2xl font-bold text-center !px-3 text-red-200 bg-[#FFFFFF] border-[5px] -top-4');
 
 console.log(style);
 /*
@@ -50,80 +50,73 @@ console.log(style);
     color: '#FECACA',
     // bg-[#FFFFFF] 
     background: '#FFFFFF',
+    // border-[5px]
+    borderWidth: '5px',
+    // -top-4
+    top: '-1rem',
 }
 */
 ```
 
-#### Example usage
+#### Example usage with React
 
-You can simulate normal classNames in your React components without actually using them.
-
-Let's create `Div` component that behaves like a normal div with `className` attribute that uses `style` attribute for styling.
+You can simulate normal classNames in your React components that are going to be converted into a normal style object.
 
 ```tsx
-import React, { CSSProperties, ReactNode } from 'react';
+// tailwindComponents.ts
+import { ComponentProps, createElement } from 'react';
+import { twMerge } from 'tailwind-merge';
 import tailwindToObject from 'tailwind-to-object';
 
-interface Props {
-  className?: string;
-  style?: CSSProperties;
-  children?: ReactNode;
+function createTag<T extends keyof JSX.IntrinsicElements>(tag: T) {
+  const component = ({ className, style, ...rest }: ComponentProps<T>) =>
+    createElement(tag, {
+      style: {
+        ...(className ? tailwindToObject(twMerge(className)) : {}),
+        ...(style ?? {}),
+      },
+      ...rest,
+    });
+
+  component.displayName = tag;
+
+  return component;
 }
 
-const Div = ({ className, style, children }: Props) => (
-    <div style={{
-      ...(className ? tailwindToObject(className) : {}),
-      ...(style ?? {}),
-    }}>
-      {children}
-    </div>
-);
+export const Div = createTag('div');
+export const Span = createTag('span');
+export const Table = createTag('table');
+export const Tbody = createTag('tbody');
+export const Thead = createTag('thead');
+export const Tr = createTag('tr');
+export const Td = createTag('td');
+export const Th = createTag('th');
+export const Ul = createTag('ul');
+export const Ol = createTag('ol');
+export const Li = createTag('li');
+export const P = createTag('p');
+export const A = createTag('a');
+export const Button = createTag('button');
+export const Img = createTag('img');
+export const H1 = createTag('h1');
+export const H2 = createTag('h2');
+export const H3 = createTag('h3');
+export const H4 = createTag('h4');
+export const H5 = createTag('h5');
+export const H6 = createTag('h6');
 
-export default Div;
+export default createTag;
+
 ```
 
-Now you can use this component like that:
+Now you can use the new components like that:
 
 ```tsx
+import { Div } from './tailwindComponents';
+// ...
 <Div className="mt-6 leading-6 bg-red-400 font-semibold" style={{ ...someOtherStyles }}>
     Hello World
 </Div>
 ```
 
-You can build a collection of such components for your taste. Here is a random copy-paste:
-
-```tsx
-<Table className="w-full border-collapse mt-8 border-t border-l-0 border-r-0 border-b-0 border-solid">
-    <tbody>
-        {products.map((product) => (
-            <tr key={product.id}>
-                <Td className="py-4 border-b border-t-0 border-l-0 border-r-0 border-solid">
-                <Div className="whitespace-nowrap">
-                    <Div className='pt-7 mt-px inline-block mr-4 align-top'>
-                        {order.quantityMap[product.id]}
-                    </Div>
-                    <Div className='pt-4 inline-block mr-4 align-top'>
-                    <Div className='inline-block relative'>
-                        <Img src={product.images[0].url} width={64} alt="Product image" />
-                    </Div>
-                    </Div>
-                    <Div className="inline-block align-top">
-                    <Div className="mb-2">
-                        {product.collection.title ?? <em>Unknown type</em>}
-                    </Div>
-                    <Div className="mb-2">{product.title}</Div>
-                    <Div>
-                        {product.description?.split(/\n/).map((desc, i) => (
-                            <Div key={i}>{desc}</Div>
-                        ))}
-                    </Div>
-                    </Div>
-                </Div>
-                </Td>
-            </tr>
-        ))}
-    </tbody>
-</Table>
-```
-
-Enjoy!
+By default, if Tailwind class is not supported, `tailwindToObject` is going to throw an error. If you need support of other classes you can create your custom function that wraps `tailwindToObject`.

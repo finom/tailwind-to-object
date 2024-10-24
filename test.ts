@@ -1,7 +1,7 @@
 import assert from 'node:assert';
-import tailwindToObject from '.';
+import tailwindToObject from './src';
 
-assert.deepStrictEqual(tailwindToObject('text-2xl font-bold text-center text-red-200 bg-[#FFFFFF] !px-3'), {
+assert.deepStrictEqual(tailwindToObject('text-2xl font-bold text-center text-red-200 bg-[#FFFFFF] !px-3 border-[5px] -top-4'), {
   fontSize: '1.5rem',
   fontWeight: '700',
   lineHeight: '2rem',
@@ -10,16 +10,6 @@ assert.deepStrictEqual(tailwindToObject('text-2xl font-bold text-center text-red
   paddingRight: '0.75rem !important',
   color: '#FECACA',
   background: '#FFFFFF',
+  borderWidth: '5px',
+  top: '-1rem',
 });
-
-// NOT IMPLEMENTED
-// Feel free to pull request
-/*
-// Exact font size
-expect(tailwindToObject('text-[12px]')).to.eql({
-    fontSize: '12px',
-});
-
-// Using negative values
-expect(tailwindToObject('-px-3')).to.eql({ paddingLeft: '-0.75rem', paddingRight: '-0.75rem' });
-*/
