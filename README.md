@@ -14,7 +14,7 @@
 <a href="https://github.com/finom/tailwind-to-object/actions/workflows/main.yml"><img src="https://github.com/finom/tailwind-to-object/actions/workflows/main.yml/badge.svg" alt="Build status" /></a>
 </p>
 
-Fast and simple zero-dependency library of a single-argument function that converts Tailwind classes with default configuration to CSS style objects. Perfect for email rendering. Can be used on front-end, back-end and your microwave if it supports JavaScript. Check [SUPPORTED_CLASSES.md](./SUPPORTED_CLASSES.md) to see all supported classes.
+Fast and simple zero-dependency library of a single-argument function that converts Tailwind classes of default configuration to style objects using pre-compiled key-value pairs of class names and corresponding styles. Perfect for email rendering! Can be used on front-end, back-end and your microwave if it supports JavaScript. Check [SUPPORTED_CLASSES.md](./SUPPORTED_CLASSES.md) to see all supported classes.
 
 ```sh
 npm i tailwind-to-object
