@@ -17,16 +17,12 @@ for (const [className, styles] of Object.entries(utilities)) {
   // Prepare the styles string with <br> tags for line breaks
   const stylesList = Object.entries(styles)
     .map(([prop, value]) => `<code>${prop}: ${value};</code>`)
-    .join(';'); // Use <br> tag for line breaks
-
-  // Escape special HTML characters
-  const escapedClassName = className.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-  const escapedStylesList = stylesList.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    .join('\n'); // Use <br> tag for line breaks
 
   // Add the row to the HTML table
   markdownContent += '  <tr>\n';
-  markdownContent += `    <td><code>${escapedClassName}</code></td>\n`;
-  markdownContent += `    <td>${escapedStylesList}</td>\n`;
+  markdownContent += `    <td><code>${className}</code></td>\n`;
+  markdownContent += `    <td>${stylesList}</td>\n`;
   markdownContent += '  </tr>\n';
 }
 
