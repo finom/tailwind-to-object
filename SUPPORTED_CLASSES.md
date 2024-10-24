@@ -11,26 +11,11 @@
   </tr>
   <tr>
     <td><code>sr-only</code></td>
-    <td><code>position: absolute;</code>
-<code>width: 1px;</code>
-<code>height: 1px;</code>
-<code>padding: 0;</code>
-<code>margin: -1px;</code>
-<code>overflow: hidden;</code>
-<code>clip: rect(0, 0, 0, 0);</code>
-<code>whiteSpace: nowrap;</code>
-<code>borderWidth: 0;</code></td>
+    <td><code>position: absolute;</code><br><code>width: 1px;</code><br><code>height: 1px;</code><br><code>padding: 0;</code><br><code>margin: -1px;</code><br><code>overflow: hidden;</code><br><code>clip: rect(0, 0, 0, 0);</code><br><code>whiteSpace: nowrap;</code><br><code>borderWidth: 0;</code></td>
   </tr>
   <tr>
     <td><code>not-sr-only</code></td>
-    <td><code>position: static;</code>
-<code>width: auto;</code>
-<code>height: auto;</code>
-<code>padding: 0;</code>
-<code>margin: 0;</code>
-<code>overflow: visible;</code>
-<code>clip: auto;</code>
-<code>whiteSpace: normal;</code></td>
+    <td><code>position: static;</code><br><code>width: auto;</code><br><code>height: auto;</code><br><code>padding: 0;</code><br><code>margin: 0;</code><br><code>overflow: visible;</code><br><code>clip: auto;</code><br><code>whiteSpace: normal;</code></td>
   </tr>
   <tr>
     <td><code>pointer-events-none</code></td>
@@ -334,653 +319,523 @@
   </tr>
   <tr>
     <td><code>-inset-x-0</code></td>
-    <td><code>left: -0px;</code>
-<code>right: -0px;</code></td>
+    <td><code>left: -0px;</code><br><code>right: -0px;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-1</code></td>
-    <td><code>left: -0.25rem;</code>
-<code>right: -0.25rem;</code></td>
+    <td><code>left: -0.25rem;</code><br><code>right: -0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-10</code></td>
-    <td><code>left: -2.5rem;</code>
-<code>right: -2.5rem;</code></td>
+    <td><code>left: -2.5rem;</code><br><code>right: -2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-11</code></td>
-    <td><code>left: -2.75rem;</code>
-<code>right: -2.75rem;</code></td>
+    <td><code>left: -2.75rem;</code><br><code>right: -2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-12</code></td>
-    <td><code>left: -3rem;</code>
-<code>right: -3rem;</code></td>
+    <td><code>left: -3rem;</code><br><code>right: -3rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-14</code></td>
-    <td><code>left: -3.5rem;</code>
-<code>right: -3.5rem;</code></td>
+    <td><code>left: -3.5rem;</code><br><code>right: -3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-16</code></td>
-    <td><code>left: -4rem;</code>
-<code>right: -4rem;</code></td>
+    <td><code>left: -4rem;</code><br><code>right: -4rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-2</code></td>
-    <td><code>left: -0.5rem;</code>
-<code>right: -0.5rem;</code></td>
+    <td><code>left: -0.5rem;</code><br><code>right: -0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-20</code></td>
-    <td><code>left: -5rem;</code>
-<code>right: -5rem;</code></td>
+    <td><code>left: -5rem;</code><br><code>right: -5rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-24</code></td>
-    <td><code>left: -6rem;</code>
-<code>right: -6rem;</code></td>
+    <td><code>left: -6rem;</code><br><code>right: -6rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-28</code></td>
-    <td><code>left: -7rem;</code>
-<code>right: -7rem;</code></td>
+    <td><code>left: -7rem;</code><br><code>right: -7rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-3</code></td>
-    <td><code>left: -0.75rem;</code>
-<code>right: -0.75rem;</code></td>
+    <td><code>left: -0.75rem;</code><br><code>right: -0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-32</code></td>
-    <td><code>left: -8rem;</code>
-<code>right: -8rem;</code></td>
+    <td><code>left: -8rem;</code><br><code>right: -8rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-36</code></td>
-    <td><code>left: -9rem;</code>
-<code>right: -9rem;</code></td>
+    <td><code>left: -9rem;</code><br><code>right: -9rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-4</code></td>
-    <td><code>left: -1rem;</code>
-<code>right: -1rem;</code></td>
+    <td><code>left: -1rem;</code><br><code>right: -1rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-40</code></td>
-    <td><code>left: -10rem;</code>
-<code>right: -10rem;</code></td>
+    <td><code>left: -10rem;</code><br><code>right: -10rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-44</code></td>
-    <td><code>left: -11rem;</code>
-<code>right: -11rem;</code></td>
+    <td><code>left: -11rem;</code><br><code>right: -11rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-48</code></td>
-    <td><code>left: -12rem;</code>
-<code>right: -12rem;</code></td>
+    <td><code>left: -12rem;</code><br><code>right: -12rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-5</code></td>
-    <td><code>left: -1.25rem;</code>
-<code>right: -1.25rem;</code></td>
+    <td><code>left: -1.25rem;</code><br><code>right: -1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-52</code></td>
-    <td><code>left: -13rem;</code>
-<code>right: -13rem;</code></td>
+    <td><code>left: -13rem;</code><br><code>right: -13rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-56</code></td>
-    <td><code>left: -14rem;</code>
-<code>right: -14rem;</code></td>
+    <td><code>left: -14rem;</code><br><code>right: -14rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-6</code></td>
-    <td><code>left: -1.5rem;</code>
-<code>right: -1.5rem;</code></td>
+    <td><code>left: -1.5rem;</code><br><code>right: -1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-60</code></td>
-    <td><code>left: -15rem;</code>
-<code>right: -15rem;</code></td>
+    <td><code>left: -15rem;</code><br><code>right: -15rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-64</code></td>
-    <td><code>left: -16rem;</code>
-<code>right: -16rem;</code></td>
+    <td><code>left: -16rem;</code><br><code>right: -16rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-7</code></td>
-    <td><code>left: -1.75rem;</code>
-<code>right: -1.75rem;</code></td>
+    <td><code>left: -1.75rem;</code><br><code>right: -1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-72</code></td>
-    <td><code>left: -18rem;</code>
-<code>right: -18rem;</code></td>
+    <td><code>left: -18rem;</code><br><code>right: -18rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-8</code></td>
-    <td><code>left: -2rem;</code>
-<code>right: -2rem;</code></td>
+    <td><code>left: -2rem;</code><br><code>right: -2rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-80</code></td>
-    <td><code>left: -20rem;</code>
-<code>right: -20rem;</code></td>
+    <td><code>left: -20rem;</code><br><code>right: -20rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-9</code></td>
-    <td><code>left: -2.25rem;</code>
-<code>right: -2.25rem;</code></td>
+    <td><code>left: -2.25rem;</code><br><code>right: -2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-96</code></td>
-    <td><code>left: -24rem;</code>
-<code>right: -24rem;</code></td>
+    <td><code>left: -24rem;</code><br><code>right: -24rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-full</code></td>
-    <td><code>left: -100%;</code>
-<code>right: -100%;</code></td>
+    <td><code>left: -100%;</code><br><code>right: -100%;</code></td>
   </tr>
   <tr>
     <td><code>-inset-x-px</code></td>
-    <td><code>left: -1px;</code>
-<code>right: -1px;</code></td>
+    <td><code>left: -1px;</code><br><code>right: -1px;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-0</code></td>
-    <td><code>top: -0px;</code>
-<code>bottom: -0px;</code></td>
+    <td><code>top: -0px;</code><br><code>bottom: -0px;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-1</code></td>
-    <td><code>top: -0.25rem;</code>
-<code>bottom: -0.25rem;</code></td>
+    <td><code>top: -0.25rem;</code><br><code>bottom: -0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-10</code></td>
-    <td><code>top: -2.5rem;</code>
-<code>bottom: -2.5rem;</code></td>
+    <td><code>top: -2.5rem;</code><br><code>bottom: -2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-11</code></td>
-    <td><code>top: -2.75rem;</code>
-<code>bottom: -2.75rem;</code></td>
+    <td><code>top: -2.75rem;</code><br><code>bottom: -2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-12</code></td>
-    <td><code>top: -3rem;</code>
-<code>bottom: -3rem;</code></td>
+    <td><code>top: -3rem;</code><br><code>bottom: -3rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-14</code></td>
-    <td><code>top: -3.5rem;</code>
-<code>bottom: -3.5rem;</code></td>
+    <td><code>top: -3.5rem;</code><br><code>bottom: -3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-16</code></td>
-    <td><code>top: -4rem;</code>
-<code>bottom: -4rem;</code></td>
+    <td><code>top: -4rem;</code><br><code>bottom: -4rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-2</code></td>
-    <td><code>top: -0.5rem;</code>
-<code>bottom: -0.5rem;</code></td>
+    <td><code>top: -0.5rem;</code><br><code>bottom: -0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-20</code></td>
-    <td><code>top: -5rem;</code>
-<code>bottom: -5rem;</code></td>
+    <td><code>top: -5rem;</code><br><code>bottom: -5rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-24</code></td>
-    <td><code>top: -6rem;</code>
-<code>bottom: -6rem;</code></td>
+    <td><code>top: -6rem;</code><br><code>bottom: -6rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-28</code></td>
-    <td><code>top: -7rem;</code>
-<code>bottom: -7rem;</code></td>
+    <td><code>top: -7rem;</code><br><code>bottom: -7rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-3</code></td>
-    <td><code>top: -0.75rem;</code>
-<code>bottom: -0.75rem;</code></td>
+    <td><code>top: -0.75rem;</code><br><code>bottom: -0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-32</code></td>
-    <td><code>top: -8rem;</code>
-<code>bottom: -8rem;</code></td>
+    <td><code>top: -8rem;</code><br><code>bottom: -8rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-36</code></td>
-    <td><code>top: -9rem;</code>
-<code>bottom: -9rem;</code></td>
+    <td><code>top: -9rem;</code><br><code>bottom: -9rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-4</code></td>
-    <td><code>top: -1rem;</code>
-<code>bottom: -1rem;</code></td>
+    <td><code>top: -1rem;</code><br><code>bottom: -1rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-40</code></td>
-    <td><code>top: -10rem;</code>
-<code>bottom: -10rem;</code></td>
+    <td><code>top: -10rem;</code><br><code>bottom: -10rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-44</code></td>
-    <td><code>top: -11rem;</code>
-<code>bottom: -11rem;</code></td>
+    <td><code>top: -11rem;</code><br><code>bottom: -11rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-48</code></td>
-    <td><code>top: -12rem;</code>
-<code>bottom: -12rem;</code></td>
+    <td><code>top: -12rem;</code><br><code>bottom: -12rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-5</code></td>
-    <td><code>top: -1.25rem;</code>
-<code>bottom: -1.25rem;</code></td>
+    <td><code>top: -1.25rem;</code><br><code>bottom: -1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-52</code></td>
-    <td><code>top: -13rem;</code>
-<code>bottom: -13rem;</code></td>
+    <td><code>top: -13rem;</code><br><code>bottom: -13rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-56</code></td>
-    <td><code>top: -14rem;</code>
-<code>bottom: -14rem;</code></td>
+    <td><code>top: -14rem;</code><br><code>bottom: -14rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-6</code></td>
-    <td><code>top: -1.5rem;</code>
-<code>bottom: -1.5rem;</code></td>
+    <td><code>top: -1.5rem;</code><br><code>bottom: -1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-60</code></td>
-    <td><code>top: -15rem;</code>
-<code>bottom: -15rem;</code></td>
+    <td><code>top: -15rem;</code><br><code>bottom: -15rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-64</code></td>
-    <td><code>top: -16rem;</code>
-<code>bottom: -16rem;</code></td>
+    <td><code>top: -16rem;</code><br><code>bottom: -16rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-7</code></td>
-    <td><code>top: -1.75rem;</code>
-<code>bottom: -1.75rem;</code></td>
+    <td><code>top: -1.75rem;</code><br><code>bottom: -1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-72</code></td>
-    <td><code>top: -18rem;</code>
-<code>bottom: -18rem;</code></td>
+    <td><code>top: -18rem;</code><br><code>bottom: -18rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-8</code></td>
-    <td><code>top: -2rem;</code>
-<code>bottom: -2rem;</code></td>
+    <td><code>top: -2rem;</code><br><code>bottom: -2rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-80</code></td>
-    <td><code>top: -20rem;</code>
-<code>bottom: -20rem;</code></td>
+    <td><code>top: -20rem;</code><br><code>bottom: -20rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-9</code></td>
-    <td><code>top: -2.25rem;</code>
-<code>bottom: -2.25rem;</code></td>
+    <td><code>top: -2.25rem;</code><br><code>bottom: -2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-96</code></td>
-    <td><code>top: -24rem;</code>
-<code>bottom: -24rem;</code></td>
+    <td><code>top: -24rem;</code><br><code>bottom: -24rem;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-full</code></td>
-    <td><code>top: -100%;</code>
-<code>bottom: -100%;</code></td>
+    <td><code>top: -100%;</code><br><code>bottom: -100%;</code></td>
   </tr>
   <tr>
     <td><code>-inset-y-px</code></td>
-    <td><code>top: -1px;</code>
-<code>bottom: -1px;</code></td>
+    <td><code>top: -1px;</code><br><code>bottom: -1px;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-0</code></td>
-    <td><code>left: 0px;</code>
-<code>right: 0px;</code></td>
+    <td><code>left: 0px;</code><br><code>right: 0px;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-1</code></td>
-    <td><code>left: 0.25rem;</code>
-<code>right: 0.25rem;</code></td>
+    <td><code>left: 0.25rem;</code><br><code>right: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-10</code></td>
-    <td><code>left: 2.5rem;</code>
-<code>right: 2.5rem;</code></td>
+    <td><code>left: 2.5rem;</code><br><code>right: 2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-11</code></td>
-    <td><code>left: 2.75rem;</code>
-<code>right: 2.75rem;</code></td>
+    <td><code>left: 2.75rem;</code><br><code>right: 2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-12</code></td>
-    <td><code>left: 3rem;</code>
-<code>right: 3rem;</code></td>
+    <td><code>left: 3rem;</code><br><code>right: 3rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-14</code></td>
-    <td><code>left: 3.5rem;</code>
-<code>right: 3.5rem;</code></td>
+    <td><code>left: 3.5rem;</code><br><code>right: 3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-16</code></td>
-    <td><code>left: 4rem;</code>
-<code>right: 4rem;</code></td>
+    <td><code>left: 4rem;</code><br><code>right: 4rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-2</code></td>
-    <td><code>left: 0.5rem;</code>
-<code>right: 0.5rem;</code></td>
+    <td><code>left: 0.5rem;</code><br><code>right: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-20</code></td>
-    <td><code>left: 5rem;</code>
-<code>right: 5rem;</code></td>
+    <td><code>left: 5rem;</code><br><code>right: 5rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-24</code></td>
-    <td><code>left: 6rem;</code>
-<code>right: 6rem;</code></td>
+    <td><code>left: 6rem;</code><br><code>right: 6rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-28</code></td>
-    <td><code>left: 7rem;</code>
-<code>right: 7rem;</code></td>
+    <td><code>left: 7rem;</code><br><code>right: 7rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-3</code></td>
-    <td><code>left: 0.75rem;</code>
-<code>right: 0.75rem;</code></td>
+    <td><code>left: 0.75rem;</code><br><code>right: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-32</code></td>
-    <td><code>left: 8rem;</code>
-<code>right: 8rem;</code></td>
+    <td><code>left: 8rem;</code><br><code>right: 8rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-36</code></td>
-    <td><code>left: 9rem;</code>
-<code>right: 9rem;</code></td>
+    <td><code>left: 9rem;</code><br><code>right: 9rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-4</code></td>
-    <td><code>left: 1rem;</code>
-<code>right: 1rem;</code></td>
+    <td><code>left: 1rem;</code><br><code>right: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-40</code></td>
-    <td><code>left: 10rem;</code>
-<code>right: 10rem;</code></td>
+    <td><code>left: 10rem;</code><br><code>right: 10rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-44</code></td>
-    <td><code>left: 11rem;</code>
-<code>right: 11rem;</code></td>
+    <td><code>left: 11rem;</code><br><code>right: 11rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-48</code></td>
-    <td><code>left: 12rem;</code>
-<code>right: 12rem;</code></td>
+    <td><code>left: 12rem;</code><br><code>right: 12rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-5</code></td>
-    <td><code>left: 1.25rem;</code>
-<code>right: 1.25rem;</code></td>
+    <td><code>left: 1.25rem;</code><br><code>right: 1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-52</code></td>
-    <td><code>left: 13rem;</code>
-<code>right: 13rem;</code></td>
+    <td><code>left: 13rem;</code><br><code>right: 13rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-56</code></td>
-    <td><code>left: 14rem;</code>
-<code>right: 14rem;</code></td>
+    <td><code>left: 14rem;</code><br><code>right: 14rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-6</code></td>
-    <td><code>left: 1.5rem;</code>
-<code>right: 1.5rem;</code></td>
+    <td><code>left: 1.5rem;</code><br><code>right: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-60</code></td>
-    <td><code>left: 15rem;</code>
-<code>right: 15rem;</code></td>
+    <td><code>left: 15rem;</code><br><code>right: 15rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-64</code></td>
-    <td><code>left: 16rem;</code>
-<code>right: 16rem;</code></td>
+    <td><code>left: 16rem;</code><br><code>right: 16rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-7</code></td>
-    <td><code>left: 1.75rem;</code>
-<code>right: 1.75rem;</code></td>
+    <td><code>left: 1.75rem;</code><br><code>right: 1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-72</code></td>
-    <td><code>left: 18rem;</code>
-<code>right: 18rem;</code></td>
+    <td><code>left: 18rem;</code><br><code>right: 18rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-8</code></td>
-    <td><code>left: 2rem;</code>
-<code>right: 2rem;</code></td>
+    <td><code>left: 2rem;</code><br><code>right: 2rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-80</code></td>
-    <td><code>left: 20rem;</code>
-<code>right: 20rem;</code></td>
+    <td><code>left: 20rem;</code><br><code>right: 20rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-9</code></td>
-    <td><code>left: 2.25rem;</code>
-<code>right: 2.25rem;</code></td>
+    <td><code>left: 2.25rem;</code><br><code>right: 2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-96</code></td>
-    <td><code>left: 24rem;</code>
-<code>right: 24rem;</code></td>
+    <td><code>left: 24rem;</code><br><code>right: 24rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-auto</code></td>
-    <td><code>left: auto;</code>
-<code>right: auto;</code></td>
+    <td><code>left: auto;</code><br><code>right: auto;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-full</code></td>
-    <td><code>left: 100%;</code>
-<code>right: 100%;</code></td>
+    <td><code>left: 100%;</code><br><code>right: 100%;</code></td>
   </tr>
   <tr>
     <td><code>inset-x-px</code></td>
-    <td><code>left: 1px;</code>
-<code>right: 1px;</code></td>
+    <td><code>left: 1px;</code><br><code>right: 1px;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-0</code></td>
-    <td><code>top: 0px;</code>
-<code>bottom: 0px;</code></td>
+    <td><code>top: 0px;</code><br><code>bottom: 0px;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-1</code></td>
-    <td><code>top: 0.25rem;</code>
-<code>bottom: 0.25rem;</code></td>
+    <td><code>top: 0.25rem;</code><br><code>bottom: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-10</code></td>
-    <td><code>top: 2.5rem;</code>
-<code>bottom: 2.5rem;</code></td>
+    <td><code>top: 2.5rem;</code><br><code>bottom: 2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-11</code></td>
-    <td><code>top: 2.75rem;</code>
-<code>bottom: 2.75rem;</code></td>
+    <td><code>top: 2.75rem;</code><br><code>bottom: 2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-12</code></td>
-    <td><code>top: 3rem;</code>
-<code>bottom: 3rem;</code></td>
+    <td><code>top: 3rem;</code><br><code>bottom: 3rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-14</code></td>
-    <td><code>top: 3.5rem;</code>
-<code>bottom: 3.5rem;</code></td>
+    <td><code>top: 3.5rem;</code><br><code>bottom: 3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-16</code></td>
-    <td><code>top: 4rem;</code>
-<code>bottom: 4rem;</code></td>
+    <td><code>top: 4rem;</code><br><code>bottom: 4rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-2</code></td>
-    <td><code>top: 0.5rem;</code>
-<code>bottom: 0.5rem;</code></td>
+    <td><code>top: 0.5rem;</code><br><code>bottom: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-20</code></td>
-    <td><code>top: 5rem;</code>
-<code>bottom: 5rem;</code></td>
+    <td><code>top: 5rem;</code><br><code>bottom: 5rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-24</code></td>
-    <td><code>top: 6rem;</code>
-<code>bottom: 6rem;</code></td>
+    <td><code>top: 6rem;</code><br><code>bottom: 6rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-28</code></td>
-    <td><code>top: 7rem;</code>
-<code>bottom: 7rem;</code></td>
+    <td><code>top: 7rem;</code><br><code>bottom: 7rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-3</code></td>
-    <td><code>top: 0.75rem;</code>
-<code>bottom: 0.75rem;</code></td>
+    <td><code>top: 0.75rem;</code><br><code>bottom: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-32</code></td>
-    <td><code>top: 8rem;</code>
-<code>bottom: 8rem;</code></td>
+    <td><code>top: 8rem;</code><br><code>bottom: 8rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-36</code></td>
-    <td><code>top: 9rem;</code>
-<code>bottom: 9rem;</code></td>
+    <td><code>top: 9rem;</code><br><code>bottom: 9rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-4</code></td>
-    <td><code>top: 1rem;</code>
-<code>bottom: 1rem;</code></td>
+    <td><code>top: 1rem;</code><br><code>bottom: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-40</code></td>
-    <td><code>top: 10rem;</code>
-<code>bottom: 10rem;</code></td>
+    <td><code>top: 10rem;</code><br><code>bottom: 10rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-44</code></td>
-    <td><code>top: 11rem;</code>
-<code>bottom: 11rem;</code></td>
+    <td><code>top: 11rem;</code><br><code>bottom: 11rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-48</code></td>
-    <td><code>top: 12rem;</code>
-<code>bottom: 12rem;</code></td>
+    <td><code>top: 12rem;</code><br><code>bottom: 12rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-5</code></td>
-    <td><code>top: 1.25rem;</code>
-<code>bottom: 1.25rem;</code></td>
+    <td><code>top: 1.25rem;</code><br><code>bottom: 1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-52</code></td>
-    <td><code>top: 13rem;</code>
-<code>bottom: 13rem;</code></td>
+    <td><code>top: 13rem;</code><br><code>bottom: 13rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-56</code></td>
-    <td><code>top: 14rem;</code>
-<code>bottom: 14rem;</code></td>
+    <td><code>top: 14rem;</code><br><code>bottom: 14rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-6</code></td>
-    <td><code>top: 1.5rem;</code>
-<code>bottom: 1.5rem;</code></td>
+    <td><code>top: 1.5rem;</code><br><code>bottom: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-60</code></td>
-    <td><code>top: 15rem;</code>
-<code>bottom: 15rem;</code></td>
+    <td><code>top: 15rem;</code><br><code>bottom: 15rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-64</code></td>
-    <td><code>top: 16rem;</code>
-<code>bottom: 16rem;</code></td>
+    <td><code>top: 16rem;</code><br><code>bottom: 16rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-7</code></td>
-    <td><code>top: 1.75rem;</code>
-<code>bottom: 1.75rem;</code></td>
+    <td><code>top: 1.75rem;</code><br><code>bottom: 1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-72</code></td>
-    <td><code>top: 18rem;</code>
-<code>bottom: 18rem;</code></td>
+    <td><code>top: 18rem;</code><br><code>bottom: 18rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-8</code></td>
-    <td><code>top: 2rem;</code>
-<code>bottom: 2rem;</code></td>
+    <td><code>top: 2rem;</code><br><code>bottom: 2rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-80</code></td>
-    <td><code>top: 20rem;</code>
-<code>bottom: 20rem;</code></td>
+    <td><code>top: 20rem;</code><br><code>bottom: 20rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-9</code></td>
-    <td><code>top: 2.25rem;</code>
-<code>bottom: 2.25rem;</code></td>
+    <td><code>top: 2.25rem;</code><br><code>bottom: 2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-96</code></td>
-    <td><code>top: 24rem;</code>
-<code>bottom: 24rem;</code></td>
+    <td><code>top: 24rem;</code><br><code>bottom: 24rem;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-auto</code></td>
-    <td><code>top: auto;</code>
-<code>bottom: auto;</code></td>
+    <td><code>top: auto;</code><br><code>bottom: auto;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-full</code></td>
-    <td><code>top: 100%;</code>
-<code>bottom: 100%;</code></td>
+    <td><code>top: 100%;</code><br><code>bottom: 100%;</code></td>
   </tr>
   <tr>
     <td><code>inset-y-px</code></td>
-    <td><code>top: 1px;</code>
-<code>bottom: 1px;</code></td>
+    <td><code>top: 1px;</code><br><code>bottom: 1px;</code></td>
   </tr>
   <tr>
     <td><code>-bottom-0</code></td>
@@ -3564,633 +3419,507 @@
   </tr>
   <tr>
     <td><code>-mx-0</code></td>
-    <td><code>marginLeft: -0px;</code>
-<code>marginRight: -0px;</code></td>
+    <td><code>marginLeft: -0px;</code><br><code>marginRight: -0px;</code></td>
   </tr>
   <tr>
     <td><code>-mx-1</code></td>
-    <td><code>marginLeft: -0.25rem;</code>
-<code>marginRight: -0.25rem;</code></td>
+    <td><code>marginLeft: -0.25rem;</code><br><code>marginRight: -0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-10</code></td>
-    <td><code>marginLeft: -2.5rem;</code>
-<code>marginRight: -2.5rem;</code></td>
+    <td><code>marginLeft: -2.5rem;</code><br><code>marginRight: -2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-11</code></td>
-    <td><code>marginLeft: -2.75rem;</code>
-<code>marginRight: -2.75rem;</code></td>
+    <td><code>marginLeft: -2.75rem;</code><br><code>marginRight: -2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-12</code></td>
-    <td><code>marginLeft: -3rem;</code>
-<code>marginRight: -3rem;</code></td>
+    <td><code>marginLeft: -3rem;</code><br><code>marginRight: -3rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-14</code></td>
-    <td><code>marginLeft: -3.5rem;</code>
-<code>marginRight: -3.5rem;</code></td>
+    <td><code>marginLeft: -3.5rem;</code><br><code>marginRight: -3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-16</code></td>
-    <td><code>marginLeft: -4rem;</code>
-<code>marginRight: -4rem;</code></td>
+    <td><code>marginLeft: -4rem;</code><br><code>marginRight: -4rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-2</code></td>
-    <td><code>marginLeft: -0.5rem;</code>
-<code>marginRight: -0.5rem;</code></td>
+    <td><code>marginLeft: -0.5rem;</code><br><code>marginRight: -0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-20</code></td>
-    <td><code>marginLeft: -5rem;</code>
-<code>marginRight: -5rem;</code></td>
+    <td><code>marginLeft: -5rem;</code><br><code>marginRight: -5rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-24</code></td>
-    <td><code>marginLeft: -6rem;</code>
-<code>marginRight: -6rem;</code></td>
+    <td><code>marginLeft: -6rem;</code><br><code>marginRight: -6rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-28</code></td>
-    <td><code>marginLeft: -7rem;</code>
-<code>marginRight: -7rem;</code></td>
+    <td><code>marginLeft: -7rem;</code><br><code>marginRight: -7rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-3</code></td>
-    <td><code>marginLeft: -0.75rem;</code>
-<code>marginRight: -0.75rem;</code></td>
+    <td><code>marginLeft: -0.75rem;</code><br><code>marginRight: -0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-32</code></td>
-    <td><code>marginLeft: -8rem;</code>
-<code>marginRight: -8rem;</code></td>
+    <td><code>marginLeft: -8rem;</code><br><code>marginRight: -8rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-36</code></td>
-    <td><code>marginLeft: -9rem;</code>
-<code>marginRight: -9rem;</code></td>
+    <td><code>marginLeft: -9rem;</code><br><code>marginRight: -9rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-4</code></td>
-    <td><code>marginLeft: -1rem;</code>
-<code>marginRight: -1rem;</code></td>
+    <td><code>marginLeft: -1rem;</code><br><code>marginRight: -1rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-40</code></td>
-    <td><code>marginLeft: -10rem;</code>
-<code>marginRight: -10rem;</code></td>
+    <td><code>marginLeft: -10rem;</code><br><code>marginRight: -10rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-44</code></td>
-    <td><code>marginLeft: -11rem;</code>
-<code>marginRight: -11rem;</code></td>
+    <td><code>marginLeft: -11rem;</code><br><code>marginRight: -11rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-48</code></td>
-    <td><code>marginLeft: -12rem;</code>
-<code>marginRight: -12rem;</code></td>
+    <td><code>marginLeft: -12rem;</code><br><code>marginRight: -12rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-5</code></td>
-    <td><code>marginLeft: -1.25rem;</code>
-<code>marginRight: -1.25rem;</code></td>
+    <td><code>marginLeft: -1.25rem;</code><br><code>marginRight: -1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-52</code></td>
-    <td><code>marginLeft: -13rem;</code>
-<code>marginRight: -13rem;</code></td>
+    <td><code>marginLeft: -13rem;</code><br><code>marginRight: -13rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-56</code></td>
-    <td><code>marginLeft: -14rem;</code>
-<code>marginRight: -14rem;</code></td>
+    <td><code>marginLeft: -14rem;</code><br><code>marginRight: -14rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-6</code></td>
-    <td><code>marginLeft: -1.5rem;</code>
-<code>marginRight: -1.5rem;</code></td>
+    <td><code>marginLeft: -1.5rem;</code><br><code>marginRight: -1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-60</code></td>
-    <td><code>marginLeft: -15rem;</code>
-<code>marginRight: -15rem;</code></td>
+    <td><code>marginLeft: -15rem;</code><br><code>marginRight: -15rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-64</code></td>
-    <td><code>marginLeft: -16rem;</code>
-<code>marginRight: -16rem;</code></td>
+    <td><code>marginLeft: -16rem;</code><br><code>marginRight: -16rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-7</code></td>
-    <td><code>marginLeft: -1.75rem;</code>
-<code>marginRight: -1.75rem;</code></td>
+    <td><code>marginLeft: -1.75rem;</code><br><code>marginRight: -1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-72</code></td>
-    <td><code>marginLeft: -18rem;</code>
-<code>marginRight: -18rem;</code></td>
+    <td><code>marginLeft: -18rem;</code><br><code>marginRight: -18rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-8</code></td>
-    <td><code>marginLeft: -2rem;</code>
-<code>marginRight: -2rem;</code></td>
+    <td><code>marginLeft: -2rem;</code><br><code>marginRight: -2rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-80</code></td>
-    <td><code>marginLeft: -20rem;</code>
-<code>marginRight: -20rem;</code></td>
+    <td><code>marginLeft: -20rem;</code><br><code>marginRight: -20rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-9</code></td>
-    <td><code>marginLeft: -2.25rem;</code>
-<code>marginRight: -2.25rem;</code></td>
+    <td><code>marginLeft: -2.25rem;</code><br><code>marginRight: -2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-96</code></td>
-    <td><code>marginLeft: -24rem;</code>
-<code>marginRight: -24rem;</code></td>
+    <td><code>marginLeft: -24rem;</code><br><code>marginRight: -24rem;</code></td>
   </tr>
   <tr>
     <td><code>-mx-px</code></td>
-    <td><code>marginLeft: -1px;</code>
-<code>marginRight: -1px;</code></td>
+    <td><code>marginLeft: -1px;</code><br><code>marginRight: -1px;</code></td>
   </tr>
   <tr>
     <td><code>-my-0</code></td>
-    <td><code>marginTop: -0px;</code>
-<code>marginBottom: -0px;</code></td>
+    <td><code>marginTop: -0px;</code><br><code>marginBottom: -0px;</code></td>
   </tr>
   <tr>
     <td><code>-my-1</code></td>
-    <td><code>marginTop: -0.25rem;</code>
-<code>marginBottom: -0.25rem;</code></td>
+    <td><code>marginTop: -0.25rem;</code><br><code>marginBottom: -0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-10</code></td>
-    <td><code>marginTop: -2.5rem;</code>
-<code>marginBottom: -2.5rem;</code></td>
+    <td><code>marginTop: -2.5rem;</code><br><code>marginBottom: -2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-11</code></td>
-    <td><code>marginTop: -2.75rem;</code>
-<code>marginBottom: -2.75rem;</code></td>
+    <td><code>marginTop: -2.75rem;</code><br><code>marginBottom: -2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-12</code></td>
-    <td><code>marginTop: -3rem;</code>
-<code>marginBottom: -3rem;</code></td>
+    <td><code>marginTop: -3rem;</code><br><code>marginBottom: -3rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-14</code></td>
-    <td><code>marginTop: -3.5rem;</code>
-<code>marginBottom: -3.5rem;</code></td>
+    <td><code>marginTop: -3.5rem;</code><br><code>marginBottom: -3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-16</code></td>
-    <td><code>marginTop: -4rem;</code>
-<code>marginBottom: -4rem;</code></td>
+    <td><code>marginTop: -4rem;</code><br><code>marginBottom: -4rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-2</code></td>
-    <td><code>marginTop: -0.5rem;</code>
-<code>marginBottom: -0.5rem;</code></td>
+    <td><code>marginTop: -0.5rem;</code><br><code>marginBottom: -0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-20</code></td>
-    <td><code>marginTop: -5rem;</code>
-<code>marginBottom: -5rem;</code></td>
+    <td><code>marginTop: -5rem;</code><br><code>marginBottom: -5rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-24</code></td>
-    <td><code>marginTop: -6rem;</code>
-<code>marginBottom: -6rem;</code></td>
+    <td><code>marginTop: -6rem;</code><br><code>marginBottom: -6rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-28</code></td>
-    <td><code>marginTop: -7rem;</code>
-<code>marginBottom: -7rem;</code></td>
+    <td><code>marginTop: -7rem;</code><br><code>marginBottom: -7rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-3</code></td>
-    <td><code>marginTop: -0.75rem;</code>
-<code>marginBottom: -0.75rem;</code></td>
+    <td><code>marginTop: -0.75rem;</code><br><code>marginBottom: -0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-32</code></td>
-    <td><code>marginTop: -8rem;</code>
-<code>marginBottom: -8rem;</code></td>
+    <td><code>marginTop: -8rem;</code><br><code>marginBottom: -8rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-36</code></td>
-    <td><code>marginTop: -9rem;</code>
-<code>marginBottom: -9rem;</code></td>
+    <td><code>marginTop: -9rem;</code><br><code>marginBottom: -9rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-4</code></td>
-    <td><code>marginTop: -1rem;</code>
-<code>marginBottom: -1rem;</code></td>
+    <td><code>marginTop: -1rem;</code><br><code>marginBottom: -1rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-40</code></td>
-    <td><code>marginTop: -10rem;</code>
-<code>marginBottom: -10rem;</code></td>
+    <td><code>marginTop: -10rem;</code><br><code>marginBottom: -10rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-44</code></td>
-    <td><code>marginTop: -11rem;</code>
-<code>marginBottom: -11rem;</code></td>
+    <td><code>marginTop: -11rem;</code><br><code>marginBottom: -11rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-48</code></td>
-    <td><code>marginTop: -12rem;</code>
-<code>marginBottom: -12rem;</code></td>
+    <td><code>marginTop: -12rem;</code><br><code>marginBottom: -12rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-5</code></td>
-    <td><code>marginTop: -1.25rem;</code>
-<code>marginBottom: -1.25rem;</code></td>
+    <td><code>marginTop: -1.25rem;</code><br><code>marginBottom: -1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-52</code></td>
-    <td><code>marginTop: -13rem;</code>
-<code>marginBottom: -13rem;</code></td>
+    <td><code>marginTop: -13rem;</code><br><code>marginBottom: -13rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-56</code></td>
-    <td><code>marginTop: -14rem;</code>
-<code>marginBottom: -14rem;</code></td>
+    <td><code>marginTop: -14rem;</code><br><code>marginBottom: -14rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-6</code></td>
-    <td><code>marginTop: -1.5rem;</code>
-<code>marginBottom: -1.5rem;</code></td>
+    <td><code>marginTop: -1.5rem;</code><br><code>marginBottom: -1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-60</code></td>
-    <td><code>marginTop: -15rem;</code>
-<code>marginBottom: -15rem;</code></td>
+    <td><code>marginTop: -15rem;</code><br><code>marginBottom: -15rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-64</code></td>
-    <td><code>marginTop: -16rem;</code>
-<code>marginBottom: -16rem;</code></td>
+    <td><code>marginTop: -16rem;</code><br><code>marginBottom: -16rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-7</code></td>
-    <td><code>marginTop: -1.75rem;</code>
-<code>marginBottom: -1.75rem;</code></td>
+    <td><code>marginTop: -1.75rem;</code><br><code>marginBottom: -1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-72</code></td>
-    <td><code>marginTop: -18rem;</code>
-<code>marginBottom: -18rem;</code></td>
+    <td><code>marginTop: -18rem;</code><br><code>marginBottom: -18rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-8</code></td>
-    <td><code>marginTop: -2rem;</code>
-<code>marginBottom: -2rem;</code></td>
+    <td><code>marginTop: -2rem;</code><br><code>marginBottom: -2rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-80</code></td>
-    <td><code>marginTop: -20rem;</code>
-<code>marginBottom: -20rem;</code></td>
+    <td><code>marginTop: -20rem;</code><br><code>marginBottom: -20rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-9</code></td>
-    <td><code>marginTop: -2.25rem;</code>
-<code>marginBottom: -2.25rem;</code></td>
+    <td><code>marginTop: -2.25rem;</code><br><code>marginBottom: -2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-96</code></td>
-    <td><code>marginTop: -24rem;</code>
-<code>marginBottom: -24rem;</code></td>
+    <td><code>marginTop: -24rem;</code><br><code>marginBottom: -24rem;</code></td>
   </tr>
   <tr>
     <td><code>-my-px</code></td>
-    <td><code>marginTop: -1px;</code>
-<code>marginBottom: -1px;</code></td>
+    <td><code>marginTop: -1px;</code><br><code>marginBottom: -1px;</code></td>
   </tr>
   <tr>
     <td><code>mx-0</code></td>
-    <td><code>marginLeft: 0px;</code>
-<code>marginRight: 0px;</code></td>
+    <td><code>marginLeft: 0px;</code><br><code>marginRight: 0px;</code></td>
   </tr>
   <tr>
     <td><code>mx-1</code></td>
-    <td><code>marginLeft: 0.25rem;</code>
-<code>marginRight: 0.25rem;</code></td>
+    <td><code>marginLeft: 0.25rem;</code><br><code>marginRight: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-10</code></td>
-    <td><code>marginLeft: 2.5rem;</code>
-<code>marginRight: 2.5rem;</code></td>
+    <td><code>marginLeft: 2.5rem;</code><br><code>marginRight: 2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-11</code></td>
-    <td><code>marginLeft: 2.75rem;</code>
-<code>marginRight: 2.75rem;</code></td>
+    <td><code>marginLeft: 2.75rem;</code><br><code>marginRight: 2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-12</code></td>
-    <td><code>marginLeft: 3rem;</code>
-<code>marginRight: 3rem;</code></td>
+    <td><code>marginLeft: 3rem;</code><br><code>marginRight: 3rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-14</code></td>
-    <td><code>marginLeft: 3.5rem;</code>
-<code>marginRight: 3.5rem;</code></td>
+    <td><code>marginLeft: 3.5rem;</code><br><code>marginRight: 3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-16</code></td>
-    <td><code>marginLeft: 4rem;</code>
-<code>marginRight: 4rem;</code></td>
+    <td><code>marginLeft: 4rem;</code><br><code>marginRight: 4rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-2</code></td>
-    <td><code>marginLeft: 0.5rem;</code>
-<code>marginRight: 0.5rem;</code></td>
+    <td><code>marginLeft: 0.5rem;</code><br><code>marginRight: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-20</code></td>
-    <td><code>marginLeft: 5rem;</code>
-<code>marginRight: 5rem;</code></td>
+    <td><code>marginLeft: 5rem;</code><br><code>marginRight: 5rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-24</code></td>
-    <td><code>marginLeft: 6rem;</code>
-<code>marginRight: 6rem;</code></td>
+    <td><code>marginLeft: 6rem;</code><br><code>marginRight: 6rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-28</code></td>
-    <td><code>marginLeft: 7rem;</code>
-<code>marginRight: 7rem;</code></td>
+    <td><code>marginLeft: 7rem;</code><br><code>marginRight: 7rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-3</code></td>
-    <td><code>marginLeft: 0.75rem;</code>
-<code>marginRight: 0.75rem;</code></td>
+    <td><code>marginLeft: 0.75rem;</code><br><code>marginRight: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-32</code></td>
-    <td><code>marginLeft: 8rem;</code>
-<code>marginRight: 8rem;</code></td>
+    <td><code>marginLeft: 8rem;</code><br><code>marginRight: 8rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-36</code></td>
-    <td><code>marginLeft: 9rem;</code>
-<code>marginRight: 9rem;</code></td>
+    <td><code>marginLeft: 9rem;</code><br><code>marginRight: 9rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-4</code></td>
-    <td><code>marginLeft: 1rem;</code>
-<code>marginRight: 1rem;</code></td>
+    <td><code>marginLeft: 1rem;</code><br><code>marginRight: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-40</code></td>
-    <td><code>marginLeft: 10rem;</code>
-<code>marginRight: 10rem;</code></td>
+    <td><code>marginLeft: 10rem;</code><br><code>marginRight: 10rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-44</code></td>
-    <td><code>marginLeft: 11rem;</code>
-<code>marginRight: 11rem;</code></td>
+    <td><code>marginLeft: 11rem;</code><br><code>marginRight: 11rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-48</code></td>
-    <td><code>marginLeft: 12rem;</code>
-<code>marginRight: 12rem;</code></td>
+    <td><code>marginLeft: 12rem;</code><br><code>marginRight: 12rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-5</code></td>
-    <td><code>marginLeft: 1.25rem;</code>
-<code>marginRight: 1.25rem;</code></td>
+    <td><code>marginLeft: 1.25rem;</code><br><code>marginRight: 1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-52</code></td>
-    <td><code>marginLeft: 13rem;</code>
-<code>marginRight: 13rem;</code></td>
+    <td><code>marginLeft: 13rem;</code><br><code>marginRight: 13rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-56</code></td>
-    <td><code>marginLeft: 14rem;</code>
-<code>marginRight: 14rem;</code></td>
+    <td><code>marginLeft: 14rem;</code><br><code>marginRight: 14rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-6</code></td>
-    <td><code>marginLeft: 1.5rem;</code>
-<code>marginRight: 1.5rem;</code></td>
+    <td><code>marginLeft: 1.5rem;</code><br><code>marginRight: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-60</code></td>
-    <td><code>marginLeft: 15rem;</code>
-<code>marginRight: 15rem;</code></td>
+    <td><code>marginLeft: 15rem;</code><br><code>marginRight: 15rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-64</code></td>
-    <td><code>marginLeft: 16rem;</code>
-<code>marginRight: 16rem;</code></td>
+    <td><code>marginLeft: 16rem;</code><br><code>marginRight: 16rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-7</code></td>
-    <td><code>marginLeft: 1.75rem;</code>
-<code>marginRight: 1.75rem;</code></td>
+    <td><code>marginLeft: 1.75rem;</code><br><code>marginRight: 1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-72</code></td>
-    <td><code>marginLeft: 18rem;</code>
-<code>marginRight: 18rem;</code></td>
+    <td><code>marginLeft: 18rem;</code><br><code>marginRight: 18rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-8</code></td>
-    <td><code>marginLeft: 2rem;</code>
-<code>marginRight: 2rem;</code></td>
+    <td><code>marginLeft: 2rem;</code><br><code>marginRight: 2rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-80</code></td>
-    <td><code>marginLeft: 20rem;</code>
-<code>marginRight: 20rem;</code></td>
+    <td><code>marginLeft: 20rem;</code><br><code>marginRight: 20rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-9</code></td>
-    <td><code>marginLeft: 2.25rem;</code>
-<code>marginRight: 2.25rem;</code></td>
+    <td><code>marginLeft: 2.25rem;</code><br><code>marginRight: 2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-96</code></td>
-    <td><code>marginLeft: 24rem;</code>
-<code>marginRight: 24rem;</code></td>
+    <td><code>marginLeft: 24rem;</code><br><code>marginRight: 24rem;</code></td>
   </tr>
   <tr>
     <td><code>mx-auto</code></td>
-    <td><code>marginLeft: auto;</code>
-<code>marginRight: auto;</code></td>
+    <td><code>marginLeft: auto;</code><br><code>marginRight: auto;</code></td>
   </tr>
   <tr>
     <td><code>mx-px</code></td>
-    <td><code>marginLeft: 1px;</code>
-<code>marginRight: 1px;</code></td>
+    <td><code>marginLeft: 1px;</code><br><code>marginRight: 1px;</code></td>
   </tr>
   <tr>
     <td><code>my-0</code></td>
-    <td><code>marginTop: 0px;</code>
-<code>marginBottom: 0px;</code></td>
+    <td><code>marginTop: 0px;</code><br><code>marginBottom: 0px;</code></td>
   </tr>
   <tr>
     <td><code>my-1</code></td>
-    <td><code>marginTop: 0.25rem;</code>
-<code>marginBottom: 0.25rem;</code></td>
+    <td><code>marginTop: 0.25rem;</code><br><code>marginBottom: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>my-10</code></td>
-    <td><code>marginTop: 2.5rem;</code>
-<code>marginBottom: 2.5rem;</code></td>
+    <td><code>marginTop: 2.5rem;</code><br><code>marginBottom: 2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>my-11</code></td>
-    <td><code>marginTop: 2.75rem;</code>
-<code>marginBottom: 2.75rem;</code></td>
+    <td><code>marginTop: 2.75rem;</code><br><code>marginBottom: 2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>my-12</code></td>
-    <td><code>marginTop: 3rem;</code>
-<code>marginBottom: 3rem;</code></td>
+    <td><code>marginTop: 3rem;</code><br><code>marginBottom: 3rem;</code></td>
   </tr>
   <tr>
     <td><code>my-14</code></td>
-    <td><code>marginTop: 3.5rem;</code>
-<code>marginBottom: 3.5rem;</code></td>
+    <td><code>marginTop: 3.5rem;</code><br><code>marginBottom: 3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>my-16</code></td>
-    <td><code>marginTop: 4rem;</code>
-<code>marginBottom: 4rem;</code></td>
+    <td><code>marginTop: 4rem;</code><br><code>marginBottom: 4rem;</code></td>
   </tr>
   <tr>
     <td><code>my-2</code></td>
-    <td><code>marginTop: 0.5rem;</code>
-<code>marginBottom: 0.5rem;</code></td>
+    <td><code>marginTop: 0.5rem;</code><br><code>marginBottom: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>my-20</code></td>
-    <td><code>marginTop: 5rem;</code>
-<code>marginBottom: 5rem;</code></td>
+    <td><code>marginTop: 5rem;</code><br><code>marginBottom: 5rem;</code></td>
   </tr>
   <tr>
     <td><code>my-24</code></td>
-    <td><code>marginTop: 6rem;</code>
-<code>marginBottom: 6rem;</code></td>
+    <td><code>marginTop: 6rem;</code><br><code>marginBottom: 6rem;</code></td>
   </tr>
   <tr>
     <td><code>my-28</code></td>
-    <td><code>marginTop: 7rem;</code>
-<code>marginBottom: 7rem;</code></td>
+    <td><code>marginTop: 7rem;</code><br><code>marginBottom: 7rem;</code></td>
   </tr>
   <tr>
     <td><code>my-3</code></td>
-    <td><code>marginTop: 0.75rem;</code>
-<code>marginBottom: 0.75rem;</code></td>
+    <td><code>marginTop: 0.75rem;</code><br><code>marginBottom: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>my-32</code></td>
-    <td><code>marginTop: 8rem;</code>
-<code>marginBottom: 8rem;</code></td>
+    <td><code>marginTop: 8rem;</code><br><code>marginBottom: 8rem;</code></td>
   </tr>
   <tr>
     <td><code>my-36</code></td>
-    <td><code>marginTop: 9rem;</code>
-<code>marginBottom: 9rem;</code></td>
+    <td><code>marginTop: 9rem;</code><br><code>marginBottom: 9rem;</code></td>
   </tr>
   <tr>
     <td><code>my-4</code></td>
-    <td><code>marginTop: 1rem;</code>
-<code>marginBottom: 1rem;</code></td>
+    <td><code>marginTop: 1rem;</code><br><code>marginBottom: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>my-40</code></td>
-    <td><code>marginTop: 10rem;</code>
-<code>marginBottom: 10rem;</code></td>
+    <td><code>marginTop: 10rem;</code><br><code>marginBottom: 10rem;</code></td>
   </tr>
   <tr>
     <td><code>my-44</code></td>
-    <td><code>marginTop: 11rem;</code>
-<code>marginBottom: 11rem;</code></td>
+    <td><code>marginTop: 11rem;</code><br><code>marginBottom: 11rem;</code></td>
   </tr>
   <tr>
     <td><code>my-48</code></td>
-    <td><code>marginTop: 12rem;</code>
-<code>marginBottom: 12rem;</code></td>
+    <td><code>marginTop: 12rem;</code><br><code>marginBottom: 12rem;</code></td>
   </tr>
   <tr>
     <td><code>my-5</code></td>
-    <td><code>marginTop: 1.25rem;</code>
-<code>marginBottom: 1.25rem;</code></td>
+    <td><code>marginTop: 1.25rem;</code><br><code>marginBottom: 1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>my-52</code></td>
-    <td><code>marginTop: 13rem;</code>
-<code>marginBottom: 13rem;</code></td>
+    <td><code>marginTop: 13rem;</code><br><code>marginBottom: 13rem;</code></td>
   </tr>
   <tr>
     <td><code>my-56</code></td>
-    <td><code>marginTop: 14rem;</code>
-<code>marginBottom: 14rem;</code></td>
+    <td><code>marginTop: 14rem;</code><br><code>marginBottom: 14rem;</code></td>
   </tr>
   <tr>
     <td><code>my-6</code></td>
-    <td><code>marginTop: 1.5rem;</code>
-<code>marginBottom: 1.5rem;</code></td>
+    <td><code>marginTop: 1.5rem;</code><br><code>marginBottom: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>my-60</code></td>
-    <td><code>marginTop: 15rem;</code>
-<code>marginBottom: 15rem;</code></td>
+    <td><code>marginTop: 15rem;</code><br><code>marginBottom: 15rem;</code></td>
   </tr>
   <tr>
     <td><code>my-64</code></td>
-    <td><code>marginTop: 16rem;</code>
-<code>marginBottom: 16rem;</code></td>
+    <td><code>marginTop: 16rem;</code><br><code>marginBottom: 16rem;</code></td>
   </tr>
   <tr>
     <td><code>my-7</code></td>
-    <td><code>marginTop: 1.75rem;</code>
-<code>marginBottom: 1.75rem;</code></td>
+    <td><code>marginTop: 1.75rem;</code><br><code>marginBottom: 1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>my-72</code></td>
-    <td><code>marginTop: 18rem;</code>
-<code>marginBottom: 18rem;</code></td>
+    <td><code>marginTop: 18rem;</code><br><code>marginBottom: 18rem;</code></td>
   </tr>
   <tr>
     <td><code>my-8</code></td>
-    <td><code>marginTop: 2rem;</code>
-<code>marginBottom: 2rem;</code></td>
+    <td><code>marginTop: 2rem;</code><br><code>marginBottom: 2rem;</code></td>
   </tr>
   <tr>
     <td><code>my-80</code></td>
-    <td><code>marginTop: 20rem;</code>
-<code>marginBottom: 20rem;</code></td>
+    <td><code>marginTop: 20rem;</code><br><code>marginBottom: 20rem;</code></td>
   </tr>
   <tr>
     <td><code>my-9</code></td>
-    <td><code>marginTop: 2.25rem;</code>
-<code>marginBottom: 2.25rem;</code></td>
+    <td><code>marginTop: 2.25rem;</code><br><code>marginBottom: 2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>my-96</code></td>
-    <td><code>marginTop: 24rem;</code>
-<code>marginBottom: 24rem;</code></td>
+    <td><code>marginTop: 24rem;</code><br><code>marginBottom: 24rem;</code></td>
   </tr>
   <tr>
     <td><code>my-auto</code></td>
-    <td><code>marginTop: auto;</code>
-<code>marginBottom: auto;</code></td>
+    <td><code>marginTop: auto;</code><br><code>marginBottom: auto;</code></td>
   </tr>
   <tr>
     <td><code>my-px</code></td>
-    <td><code>marginTop: 1px;</code>
-<code>marginBottom: 1px;</code></td>
+    <td><code>marginTop: 1px;</code><br><code>marginBottom: 1px;</code></td>
   </tr>
   <tr>
     <td><code>-mb-0</code></td>
@@ -5714,52 +5443,31 @@
   </tr>
   <tr>
     <td><code>line-clamp-1</code></td>
-    <td><code>overflow: hidden;</code>
-<code>display: -webkit-box;</code>
-<code>WebkitBoxOrient: vertical;</code>
-<code>WebkitLineClamp: 1;</code></td>
+    <td><code>overflow: hidden;</code><br><code>display: -webkit-box;</code><br><code>WebkitBoxOrient: vertical;</code><br><code>WebkitLineClamp: 1;</code></td>
   </tr>
   <tr>
     <td><code>line-clamp-2</code></td>
-    <td><code>overflow: hidden;</code>
-<code>display: -webkit-box;</code>
-<code>WebkitBoxOrient: vertical;</code>
-<code>WebkitLineClamp: 2;</code></td>
+    <td><code>overflow: hidden;</code><br><code>display: -webkit-box;</code><br><code>WebkitBoxOrient: vertical;</code><br><code>WebkitLineClamp: 2;</code></td>
   </tr>
   <tr>
     <td><code>line-clamp-3</code></td>
-    <td><code>overflow: hidden;</code>
-<code>display: -webkit-box;</code>
-<code>WebkitBoxOrient: vertical;</code>
-<code>WebkitLineClamp: 3;</code></td>
+    <td><code>overflow: hidden;</code><br><code>display: -webkit-box;</code><br><code>WebkitBoxOrient: vertical;</code><br><code>WebkitLineClamp: 3;</code></td>
   </tr>
   <tr>
     <td><code>line-clamp-4</code></td>
-    <td><code>overflow: hidden;</code>
-<code>display: -webkit-box;</code>
-<code>WebkitBoxOrient: vertical;</code>
-<code>WebkitLineClamp: 4;</code></td>
+    <td><code>overflow: hidden;</code><br><code>display: -webkit-box;</code><br><code>WebkitBoxOrient: vertical;</code><br><code>WebkitLineClamp: 4;</code></td>
   </tr>
   <tr>
     <td><code>line-clamp-5</code></td>
-    <td><code>overflow: hidden;</code>
-<code>display: -webkit-box;</code>
-<code>WebkitBoxOrient: vertical;</code>
-<code>WebkitLineClamp: 5;</code></td>
+    <td><code>overflow: hidden;</code><br><code>display: -webkit-box;</code><br><code>WebkitBoxOrient: vertical;</code><br><code>WebkitLineClamp: 5;</code></td>
   </tr>
   <tr>
     <td><code>line-clamp-6</code></td>
-    <td><code>overflow: hidden;</code>
-<code>display: -webkit-box;</code>
-<code>WebkitBoxOrient: vertical;</code>
-<code>WebkitLineClamp: 6;</code></td>
+    <td><code>overflow: hidden;</code><br><code>display: -webkit-box;</code><br><code>WebkitBoxOrient: vertical;</code><br><code>WebkitLineClamp: 6;</code></td>
   </tr>
   <tr>
     <td><code>line-clamp-none</code></td>
-    <td><code>overflow: visible;</code>
-<code>display: block;</code>
-<code>WebkitBoxOrient: horizontal;</code>
-<code>WebkitLineClamp: none;</code></td>
+    <td><code>overflow: visible;</code><br><code>display: block;</code><br><code>WebkitBoxOrient: horizontal;</code><br><code>WebkitLineClamp: none;</code></td>
   </tr>
   <tr>
     <td><code>block</code></td>
@@ -5859,183 +5567,147 @@
   </tr>
   <tr>
     <td><code>size-0</code></td>
-    <td><code>width: 0px;</code>
-<code>height: 0px;</code></td>
+    <td><code>width: 0px;</code><br><code>height: 0px;</code></td>
   </tr>
   <tr>
     <td><code>size-1</code></td>
-    <td><code>width: 0.25rem;</code>
-<code>height: 0.25rem;</code></td>
+    <td><code>width: 0.25rem;</code><br><code>height: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>size-10</code></td>
-    <td><code>width: 2.5rem;</code>
-<code>height: 2.5rem;</code></td>
+    <td><code>width: 2.5rem;</code><br><code>height: 2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>size-11</code></td>
-    <td><code>width: 2.75rem;</code>
-<code>height: 2.75rem;</code></td>
+    <td><code>width: 2.75rem;</code><br><code>height: 2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>size-12</code></td>
-    <td><code>width: 3rem;</code>
-<code>height: 3rem;</code></td>
+    <td><code>width: 3rem;</code><br><code>height: 3rem;</code></td>
   </tr>
   <tr>
     <td><code>size-14</code></td>
-    <td><code>width: 3.5rem;</code>
-<code>height: 3.5rem;</code></td>
+    <td><code>width: 3.5rem;</code><br><code>height: 3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>size-16</code></td>
-    <td><code>width: 4rem;</code>
-<code>height: 4rem;</code></td>
+    <td><code>width: 4rem;</code><br><code>height: 4rem;</code></td>
   </tr>
   <tr>
     <td><code>size-2</code></td>
-    <td><code>width: 0.5rem;</code>
-<code>height: 0.5rem;</code></td>
+    <td><code>width: 0.5rem;</code><br><code>height: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>size-20</code></td>
-    <td><code>width: 5rem;</code>
-<code>height: 5rem;</code></td>
+    <td><code>width: 5rem;</code><br><code>height: 5rem;</code></td>
   </tr>
   <tr>
     <td><code>size-24</code></td>
-    <td><code>width: 6rem;</code>
-<code>height: 6rem;</code></td>
+    <td><code>width: 6rem;</code><br><code>height: 6rem;</code></td>
   </tr>
   <tr>
     <td><code>size-28</code></td>
-    <td><code>width: 7rem;</code>
-<code>height: 7rem;</code></td>
+    <td><code>width: 7rem;</code><br><code>height: 7rem;</code></td>
   </tr>
   <tr>
     <td><code>size-3</code></td>
-    <td><code>width: 0.75rem;</code>
-<code>height: 0.75rem;</code></td>
+    <td><code>width: 0.75rem;</code><br><code>height: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>size-32</code></td>
-    <td><code>width: 8rem;</code>
-<code>height: 8rem;</code></td>
+    <td><code>width: 8rem;</code><br><code>height: 8rem;</code></td>
   </tr>
   <tr>
     <td><code>size-36</code></td>
-    <td><code>width: 9rem;</code>
-<code>height: 9rem;</code></td>
+    <td><code>width: 9rem;</code><br><code>height: 9rem;</code></td>
   </tr>
   <tr>
     <td><code>size-4</code></td>
-    <td><code>width: 1rem;</code>
-<code>height: 1rem;</code></td>
+    <td><code>width: 1rem;</code><br><code>height: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>size-40</code></td>
-    <td><code>width: 10rem;</code>
-<code>height: 10rem;</code></td>
+    <td><code>width: 10rem;</code><br><code>height: 10rem;</code></td>
   </tr>
   <tr>
     <td><code>size-44</code></td>
-    <td><code>width: 11rem;</code>
-<code>height: 11rem;</code></td>
+    <td><code>width: 11rem;</code><br><code>height: 11rem;</code></td>
   </tr>
   <tr>
     <td><code>size-48</code></td>
-    <td><code>width: 12rem;</code>
-<code>height: 12rem;</code></td>
+    <td><code>width: 12rem;</code><br><code>height: 12rem;</code></td>
   </tr>
   <tr>
     <td><code>size-5</code></td>
-    <td><code>width: 1.25rem;</code>
-<code>height: 1.25rem;</code></td>
+    <td><code>width: 1.25rem;</code><br><code>height: 1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>size-52</code></td>
-    <td><code>width: 13rem;</code>
-<code>height: 13rem;</code></td>
+    <td><code>width: 13rem;</code><br><code>height: 13rem;</code></td>
   </tr>
   <tr>
     <td><code>size-56</code></td>
-    <td><code>width: 14rem;</code>
-<code>height: 14rem;</code></td>
+    <td><code>width: 14rem;</code><br><code>height: 14rem;</code></td>
   </tr>
   <tr>
     <td><code>size-6</code></td>
-    <td><code>width: 1.5rem;</code>
-<code>height: 1.5rem;</code></td>
+    <td><code>width: 1.5rem;</code><br><code>height: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>size-60</code></td>
-    <td><code>width: 15rem;</code>
-<code>height: 15rem;</code></td>
+    <td><code>width: 15rem;</code><br><code>height: 15rem;</code></td>
   </tr>
   <tr>
     <td><code>size-64</code></td>
-    <td><code>width: 16rem;</code>
-<code>height: 16rem;</code></td>
+    <td><code>width: 16rem;</code><br><code>height: 16rem;</code></td>
   </tr>
   <tr>
     <td><code>size-7</code></td>
-    <td><code>width: 1.75rem;</code>
-<code>height: 1.75rem;</code></td>
+    <td><code>width: 1.75rem;</code><br><code>height: 1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>size-72</code></td>
-    <td><code>width: 18rem;</code>
-<code>height: 18rem;</code></td>
+    <td><code>width: 18rem;</code><br><code>height: 18rem;</code></td>
   </tr>
   <tr>
     <td><code>size-8</code></td>
-    <td><code>width: 2rem;</code>
-<code>height: 2rem;</code></td>
+    <td><code>width: 2rem;</code><br><code>height: 2rem;</code></td>
   </tr>
   <tr>
     <td><code>size-80</code></td>
-    <td><code>width: 20rem;</code>
-<code>height: 20rem;</code></td>
+    <td><code>width: 20rem;</code><br><code>height: 20rem;</code></td>
   </tr>
   <tr>
     <td><code>size-9</code></td>
-    <td><code>width: 2.25rem;</code>
-<code>height: 2.25rem;</code></td>
+    <td><code>width: 2.25rem;</code><br><code>height: 2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>size-96</code></td>
-    <td><code>width: 24rem;</code>
-<code>height: 24rem;</code></td>
+    <td><code>width: 24rem;</code><br><code>height: 24rem;</code></td>
   </tr>
   <tr>
     <td><code>size-auto</code></td>
-    <td><code>width: auto;</code>
-<code>height: auto;</code></td>
+    <td><code>width: auto;</code><br><code>height: auto;</code></td>
   </tr>
   <tr>
     <td><code>size-fit</code></td>
-    <td><code>width: fit-content;</code>
-<code>height: fit-content;</code></td>
+    <td><code>width: fit-content;</code><br><code>height: fit-content;</code></td>
   </tr>
   <tr>
     <td><code>size-full</code></td>
-    <td><code>width: 100%;</code>
-<code>height: 100%;</code></td>
+    <td><code>width: 100%;</code><br><code>height: 100%;</code></td>
   </tr>
   <tr>
     <td><code>size-max</code></td>
-    <td><code>width: max-content;</code>
-<code>height: max-content;</code></td>
+    <td><code>width: max-content;</code><br><code>height: max-content;</code></td>
   </tr>
   <tr>
     <td><code>size-min</code></td>
-    <td><code>width: min-content;</code>
-<code>height: min-content;</code></td>
+    <td><code>width: min-content;</code><br><code>height: min-content;</code></td>
   </tr>
   <tr>
     <td><code>size-px</code></td>
-    <td><code>width: 1px;</code>
-<code>height: 1px;</code></td>
+    <td><code>width: 1px;</code><br><code>height: 1px;</code></td>
   </tr>
   <tr>
     <td><code>h-0</code></td>
@@ -9107,623 +8779,499 @@
   </tr>
   <tr>
     <td><code>-scroll-mx-0</code></td>
-    <td><code>scrollMarginLeft: -0px;</code>
-<code>scrollMarginRight: -0px;</code></td>
+    <td><code>scrollMarginLeft: -0px;</code><br><code>scrollMarginRight: -0px;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-1</code></td>
-    <td><code>scrollMarginLeft: -0.25rem;</code>
-<code>scrollMarginRight: -0.25rem;</code></td>
+    <td><code>scrollMarginLeft: -0.25rem;</code><br><code>scrollMarginRight: -0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-10</code></td>
-    <td><code>scrollMarginLeft: -2.5rem;</code>
-<code>scrollMarginRight: -2.5rem;</code></td>
+    <td><code>scrollMarginLeft: -2.5rem;</code><br><code>scrollMarginRight: -2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-11</code></td>
-    <td><code>scrollMarginLeft: -2.75rem;</code>
-<code>scrollMarginRight: -2.75rem;</code></td>
+    <td><code>scrollMarginLeft: -2.75rem;</code><br><code>scrollMarginRight: -2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-12</code></td>
-    <td><code>scrollMarginLeft: -3rem;</code>
-<code>scrollMarginRight: -3rem;</code></td>
+    <td><code>scrollMarginLeft: -3rem;</code><br><code>scrollMarginRight: -3rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-14</code></td>
-    <td><code>scrollMarginLeft: -3.5rem;</code>
-<code>scrollMarginRight: -3.5rem;</code></td>
+    <td><code>scrollMarginLeft: -3.5rem;</code><br><code>scrollMarginRight: -3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-16</code></td>
-    <td><code>scrollMarginLeft: -4rem;</code>
-<code>scrollMarginRight: -4rem;</code></td>
+    <td><code>scrollMarginLeft: -4rem;</code><br><code>scrollMarginRight: -4rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-2</code></td>
-    <td><code>scrollMarginLeft: -0.5rem;</code>
-<code>scrollMarginRight: -0.5rem;</code></td>
+    <td><code>scrollMarginLeft: -0.5rem;</code><br><code>scrollMarginRight: -0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-20</code></td>
-    <td><code>scrollMarginLeft: -5rem;</code>
-<code>scrollMarginRight: -5rem;</code></td>
+    <td><code>scrollMarginLeft: -5rem;</code><br><code>scrollMarginRight: -5rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-24</code></td>
-    <td><code>scrollMarginLeft: -6rem;</code>
-<code>scrollMarginRight: -6rem;</code></td>
+    <td><code>scrollMarginLeft: -6rem;</code><br><code>scrollMarginRight: -6rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-28</code></td>
-    <td><code>scrollMarginLeft: -7rem;</code>
-<code>scrollMarginRight: -7rem;</code></td>
+    <td><code>scrollMarginLeft: -7rem;</code><br><code>scrollMarginRight: -7rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-3</code></td>
-    <td><code>scrollMarginLeft: -0.75rem;</code>
-<code>scrollMarginRight: -0.75rem;</code></td>
+    <td><code>scrollMarginLeft: -0.75rem;</code><br><code>scrollMarginRight: -0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-32</code></td>
-    <td><code>scrollMarginLeft: -8rem;</code>
-<code>scrollMarginRight: -8rem;</code></td>
+    <td><code>scrollMarginLeft: -8rem;</code><br><code>scrollMarginRight: -8rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-36</code></td>
-    <td><code>scrollMarginLeft: -9rem;</code>
-<code>scrollMarginRight: -9rem;</code></td>
+    <td><code>scrollMarginLeft: -9rem;</code><br><code>scrollMarginRight: -9rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-4</code></td>
-    <td><code>scrollMarginLeft: -1rem;</code>
-<code>scrollMarginRight: -1rem;</code></td>
+    <td><code>scrollMarginLeft: -1rem;</code><br><code>scrollMarginRight: -1rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-40</code></td>
-    <td><code>scrollMarginLeft: -10rem;</code>
-<code>scrollMarginRight: -10rem;</code></td>
+    <td><code>scrollMarginLeft: -10rem;</code><br><code>scrollMarginRight: -10rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-44</code></td>
-    <td><code>scrollMarginLeft: -11rem;</code>
-<code>scrollMarginRight: -11rem;</code></td>
+    <td><code>scrollMarginLeft: -11rem;</code><br><code>scrollMarginRight: -11rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-48</code></td>
-    <td><code>scrollMarginLeft: -12rem;</code>
-<code>scrollMarginRight: -12rem;</code></td>
+    <td><code>scrollMarginLeft: -12rem;</code><br><code>scrollMarginRight: -12rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-5</code></td>
-    <td><code>scrollMarginLeft: -1.25rem;</code>
-<code>scrollMarginRight: -1.25rem;</code></td>
+    <td><code>scrollMarginLeft: -1.25rem;</code><br><code>scrollMarginRight: -1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-52</code></td>
-    <td><code>scrollMarginLeft: -13rem;</code>
-<code>scrollMarginRight: -13rem;</code></td>
+    <td><code>scrollMarginLeft: -13rem;</code><br><code>scrollMarginRight: -13rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-56</code></td>
-    <td><code>scrollMarginLeft: -14rem;</code>
-<code>scrollMarginRight: -14rem;</code></td>
+    <td><code>scrollMarginLeft: -14rem;</code><br><code>scrollMarginRight: -14rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-6</code></td>
-    <td><code>scrollMarginLeft: -1.5rem;</code>
-<code>scrollMarginRight: -1.5rem;</code></td>
+    <td><code>scrollMarginLeft: -1.5rem;</code><br><code>scrollMarginRight: -1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-60</code></td>
-    <td><code>scrollMarginLeft: -15rem;</code>
-<code>scrollMarginRight: -15rem;</code></td>
+    <td><code>scrollMarginLeft: -15rem;</code><br><code>scrollMarginRight: -15rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-64</code></td>
-    <td><code>scrollMarginLeft: -16rem;</code>
-<code>scrollMarginRight: -16rem;</code></td>
+    <td><code>scrollMarginLeft: -16rem;</code><br><code>scrollMarginRight: -16rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-7</code></td>
-    <td><code>scrollMarginLeft: -1.75rem;</code>
-<code>scrollMarginRight: -1.75rem;</code></td>
+    <td><code>scrollMarginLeft: -1.75rem;</code><br><code>scrollMarginRight: -1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-72</code></td>
-    <td><code>scrollMarginLeft: -18rem;</code>
-<code>scrollMarginRight: -18rem;</code></td>
+    <td><code>scrollMarginLeft: -18rem;</code><br><code>scrollMarginRight: -18rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-8</code></td>
-    <td><code>scrollMarginLeft: -2rem;</code>
-<code>scrollMarginRight: -2rem;</code></td>
+    <td><code>scrollMarginLeft: -2rem;</code><br><code>scrollMarginRight: -2rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-80</code></td>
-    <td><code>scrollMarginLeft: -20rem;</code>
-<code>scrollMarginRight: -20rem;</code></td>
+    <td><code>scrollMarginLeft: -20rem;</code><br><code>scrollMarginRight: -20rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-9</code></td>
-    <td><code>scrollMarginLeft: -2.25rem;</code>
-<code>scrollMarginRight: -2.25rem;</code></td>
+    <td><code>scrollMarginLeft: -2.25rem;</code><br><code>scrollMarginRight: -2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-96</code></td>
-    <td><code>scrollMarginLeft: -24rem;</code>
-<code>scrollMarginRight: -24rem;</code></td>
+    <td><code>scrollMarginLeft: -24rem;</code><br><code>scrollMarginRight: -24rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mx-px</code></td>
-    <td><code>scrollMarginLeft: -1px;</code>
-<code>scrollMarginRight: -1px;</code></td>
+    <td><code>scrollMarginLeft: -1px;</code><br><code>scrollMarginRight: -1px;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-0</code></td>
-    <td><code>scrollMarginTop: -0px;</code>
-<code>scrollMarginBottom: -0px;</code></td>
+    <td><code>scrollMarginTop: -0px;</code><br><code>scrollMarginBottom: -0px;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-1</code></td>
-    <td><code>scrollMarginTop: -0.25rem;</code>
-<code>scrollMarginBottom: -0.25rem;</code></td>
+    <td><code>scrollMarginTop: -0.25rem;</code><br><code>scrollMarginBottom: -0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-10</code></td>
-    <td><code>scrollMarginTop: -2.5rem;</code>
-<code>scrollMarginBottom: -2.5rem;</code></td>
+    <td><code>scrollMarginTop: -2.5rem;</code><br><code>scrollMarginBottom: -2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-11</code></td>
-    <td><code>scrollMarginTop: -2.75rem;</code>
-<code>scrollMarginBottom: -2.75rem;</code></td>
+    <td><code>scrollMarginTop: -2.75rem;</code><br><code>scrollMarginBottom: -2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-12</code></td>
-    <td><code>scrollMarginTop: -3rem;</code>
-<code>scrollMarginBottom: -3rem;</code></td>
+    <td><code>scrollMarginTop: -3rem;</code><br><code>scrollMarginBottom: -3rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-14</code></td>
-    <td><code>scrollMarginTop: -3.5rem;</code>
-<code>scrollMarginBottom: -3.5rem;</code></td>
+    <td><code>scrollMarginTop: -3.5rem;</code><br><code>scrollMarginBottom: -3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-16</code></td>
-    <td><code>scrollMarginTop: -4rem;</code>
-<code>scrollMarginBottom: -4rem;</code></td>
+    <td><code>scrollMarginTop: -4rem;</code><br><code>scrollMarginBottom: -4rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-2</code></td>
-    <td><code>scrollMarginTop: -0.5rem;</code>
-<code>scrollMarginBottom: -0.5rem;</code></td>
+    <td><code>scrollMarginTop: -0.5rem;</code><br><code>scrollMarginBottom: -0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-20</code></td>
-    <td><code>scrollMarginTop: -5rem;</code>
-<code>scrollMarginBottom: -5rem;</code></td>
+    <td><code>scrollMarginTop: -5rem;</code><br><code>scrollMarginBottom: -5rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-24</code></td>
-    <td><code>scrollMarginTop: -6rem;</code>
-<code>scrollMarginBottom: -6rem;</code></td>
+    <td><code>scrollMarginTop: -6rem;</code><br><code>scrollMarginBottom: -6rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-28</code></td>
-    <td><code>scrollMarginTop: -7rem;</code>
-<code>scrollMarginBottom: -7rem;</code></td>
+    <td><code>scrollMarginTop: -7rem;</code><br><code>scrollMarginBottom: -7rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-3</code></td>
-    <td><code>scrollMarginTop: -0.75rem;</code>
-<code>scrollMarginBottom: -0.75rem;</code></td>
+    <td><code>scrollMarginTop: -0.75rem;</code><br><code>scrollMarginBottom: -0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-32</code></td>
-    <td><code>scrollMarginTop: -8rem;</code>
-<code>scrollMarginBottom: -8rem;</code></td>
+    <td><code>scrollMarginTop: -8rem;</code><br><code>scrollMarginBottom: -8rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-36</code></td>
-    <td><code>scrollMarginTop: -9rem;</code>
-<code>scrollMarginBottom: -9rem;</code></td>
+    <td><code>scrollMarginTop: -9rem;</code><br><code>scrollMarginBottom: -9rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-4</code></td>
-    <td><code>scrollMarginTop: -1rem;</code>
-<code>scrollMarginBottom: -1rem;</code></td>
+    <td><code>scrollMarginTop: -1rem;</code><br><code>scrollMarginBottom: -1rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-40</code></td>
-    <td><code>scrollMarginTop: -10rem;</code>
-<code>scrollMarginBottom: -10rem;</code></td>
+    <td><code>scrollMarginTop: -10rem;</code><br><code>scrollMarginBottom: -10rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-44</code></td>
-    <td><code>scrollMarginTop: -11rem;</code>
-<code>scrollMarginBottom: -11rem;</code></td>
+    <td><code>scrollMarginTop: -11rem;</code><br><code>scrollMarginBottom: -11rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-48</code></td>
-    <td><code>scrollMarginTop: -12rem;</code>
-<code>scrollMarginBottom: -12rem;</code></td>
+    <td><code>scrollMarginTop: -12rem;</code><br><code>scrollMarginBottom: -12rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-5</code></td>
-    <td><code>scrollMarginTop: -1.25rem;</code>
-<code>scrollMarginBottom: -1.25rem;</code></td>
+    <td><code>scrollMarginTop: -1.25rem;</code><br><code>scrollMarginBottom: -1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-52</code></td>
-    <td><code>scrollMarginTop: -13rem;</code>
-<code>scrollMarginBottom: -13rem;</code></td>
+    <td><code>scrollMarginTop: -13rem;</code><br><code>scrollMarginBottom: -13rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-56</code></td>
-    <td><code>scrollMarginTop: -14rem;</code>
-<code>scrollMarginBottom: -14rem;</code></td>
+    <td><code>scrollMarginTop: -14rem;</code><br><code>scrollMarginBottom: -14rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-6</code></td>
-    <td><code>scrollMarginTop: -1.5rem;</code>
-<code>scrollMarginBottom: -1.5rem;</code></td>
+    <td><code>scrollMarginTop: -1.5rem;</code><br><code>scrollMarginBottom: -1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-60</code></td>
-    <td><code>scrollMarginTop: -15rem;</code>
-<code>scrollMarginBottom: -15rem;</code></td>
+    <td><code>scrollMarginTop: -15rem;</code><br><code>scrollMarginBottom: -15rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-64</code></td>
-    <td><code>scrollMarginTop: -16rem;</code>
-<code>scrollMarginBottom: -16rem;</code></td>
+    <td><code>scrollMarginTop: -16rem;</code><br><code>scrollMarginBottom: -16rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-7</code></td>
-    <td><code>scrollMarginTop: -1.75rem;</code>
-<code>scrollMarginBottom: -1.75rem;</code></td>
+    <td><code>scrollMarginTop: -1.75rem;</code><br><code>scrollMarginBottom: -1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-72</code></td>
-    <td><code>scrollMarginTop: -18rem;</code>
-<code>scrollMarginBottom: -18rem;</code></td>
+    <td><code>scrollMarginTop: -18rem;</code><br><code>scrollMarginBottom: -18rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-8</code></td>
-    <td><code>scrollMarginTop: -2rem;</code>
-<code>scrollMarginBottom: -2rem;</code></td>
+    <td><code>scrollMarginTop: -2rem;</code><br><code>scrollMarginBottom: -2rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-80</code></td>
-    <td><code>scrollMarginTop: -20rem;</code>
-<code>scrollMarginBottom: -20rem;</code></td>
+    <td><code>scrollMarginTop: -20rem;</code><br><code>scrollMarginBottom: -20rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-9</code></td>
-    <td><code>scrollMarginTop: -2.25rem;</code>
-<code>scrollMarginBottom: -2.25rem;</code></td>
+    <td><code>scrollMarginTop: -2.25rem;</code><br><code>scrollMarginBottom: -2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-96</code></td>
-    <td><code>scrollMarginTop: -24rem;</code>
-<code>scrollMarginBottom: -24rem;</code></td>
+    <td><code>scrollMarginTop: -24rem;</code><br><code>scrollMarginBottom: -24rem;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-my-px</code></td>
-    <td><code>scrollMarginTop: -1px;</code>
-<code>scrollMarginBottom: -1px;</code></td>
+    <td><code>scrollMarginTop: -1px;</code><br><code>scrollMarginBottom: -1px;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-0</code></td>
-    <td><code>scrollMarginLeft: 0px;</code>
-<code>scrollMarginRight: 0px;</code></td>
+    <td><code>scrollMarginLeft: 0px;</code><br><code>scrollMarginRight: 0px;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-1</code></td>
-    <td><code>scrollMarginLeft: 0.25rem;</code>
-<code>scrollMarginRight: 0.25rem;</code></td>
+    <td><code>scrollMarginLeft: 0.25rem;</code><br><code>scrollMarginRight: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-10</code></td>
-    <td><code>scrollMarginLeft: 2.5rem;</code>
-<code>scrollMarginRight: 2.5rem;</code></td>
+    <td><code>scrollMarginLeft: 2.5rem;</code><br><code>scrollMarginRight: 2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-11</code></td>
-    <td><code>scrollMarginLeft: 2.75rem;</code>
-<code>scrollMarginRight: 2.75rem;</code></td>
+    <td><code>scrollMarginLeft: 2.75rem;</code><br><code>scrollMarginRight: 2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-12</code></td>
-    <td><code>scrollMarginLeft: 3rem;</code>
-<code>scrollMarginRight: 3rem;</code></td>
+    <td><code>scrollMarginLeft: 3rem;</code><br><code>scrollMarginRight: 3rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-14</code></td>
-    <td><code>scrollMarginLeft: 3.5rem;</code>
-<code>scrollMarginRight: 3.5rem;</code></td>
+    <td><code>scrollMarginLeft: 3.5rem;</code><br><code>scrollMarginRight: 3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-16</code></td>
-    <td><code>scrollMarginLeft: 4rem;</code>
-<code>scrollMarginRight: 4rem;</code></td>
+    <td><code>scrollMarginLeft: 4rem;</code><br><code>scrollMarginRight: 4rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-2</code></td>
-    <td><code>scrollMarginLeft: 0.5rem;</code>
-<code>scrollMarginRight: 0.5rem;</code></td>
+    <td><code>scrollMarginLeft: 0.5rem;</code><br><code>scrollMarginRight: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-20</code></td>
-    <td><code>scrollMarginLeft: 5rem;</code>
-<code>scrollMarginRight: 5rem;</code></td>
+    <td><code>scrollMarginLeft: 5rem;</code><br><code>scrollMarginRight: 5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-24</code></td>
-    <td><code>scrollMarginLeft: 6rem;</code>
-<code>scrollMarginRight: 6rem;</code></td>
+    <td><code>scrollMarginLeft: 6rem;</code><br><code>scrollMarginRight: 6rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-28</code></td>
-    <td><code>scrollMarginLeft: 7rem;</code>
-<code>scrollMarginRight: 7rem;</code></td>
+    <td><code>scrollMarginLeft: 7rem;</code><br><code>scrollMarginRight: 7rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-3</code></td>
-    <td><code>scrollMarginLeft: 0.75rem;</code>
-<code>scrollMarginRight: 0.75rem;</code></td>
+    <td><code>scrollMarginLeft: 0.75rem;</code><br><code>scrollMarginRight: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-32</code></td>
-    <td><code>scrollMarginLeft: 8rem;</code>
-<code>scrollMarginRight: 8rem;</code></td>
+    <td><code>scrollMarginLeft: 8rem;</code><br><code>scrollMarginRight: 8rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-36</code></td>
-    <td><code>scrollMarginLeft: 9rem;</code>
-<code>scrollMarginRight: 9rem;</code></td>
+    <td><code>scrollMarginLeft: 9rem;</code><br><code>scrollMarginRight: 9rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-4</code></td>
-    <td><code>scrollMarginLeft: 1rem;</code>
-<code>scrollMarginRight: 1rem;</code></td>
+    <td><code>scrollMarginLeft: 1rem;</code><br><code>scrollMarginRight: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-40</code></td>
-    <td><code>scrollMarginLeft: 10rem;</code>
-<code>scrollMarginRight: 10rem;</code></td>
+    <td><code>scrollMarginLeft: 10rem;</code><br><code>scrollMarginRight: 10rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-44</code></td>
-    <td><code>scrollMarginLeft: 11rem;</code>
-<code>scrollMarginRight: 11rem;</code></td>
+    <td><code>scrollMarginLeft: 11rem;</code><br><code>scrollMarginRight: 11rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-48</code></td>
-    <td><code>scrollMarginLeft: 12rem;</code>
-<code>scrollMarginRight: 12rem;</code></td>
+    <td><code>scrollMarginLeft: 12rem;</code><br><code>scrollMarginRight: 12rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-5</code></td>
-    <td><code>scrollMarginLeft: 1.25rem;</code>
-<code>scrollMarginRight: 1.25rem;</code></td>
+    <td><code>scrollMarginLeft: 1.25rem;</code><br><code>scrollMarginRight: 1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-52</code></td>
-    <td><code>scrollMarginLeft: 13rem;</code>
-<code>scrollMarginRight: 13rem;</code></td>
+    <td><code>scrollMarginLeft: 13rem;</code><br><code>scrollMarginRight: 13rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-56</code></td>
-    <td><code>scrollMarginLeft: 14rem;</code>
-<code>scrollMarginRight: 14rem;</code></td>
+    <td><code>scrollMarginLeft: 14rem;</code><br><code>scrollMarginRight: 14rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-6</code></td>
-    <td><code>scrollMarginLeft: 1.5rem;</code>
-<code>scrollMarginRight: 1.5rem;</code></td>
+    <td><code>scrollMarginLeft: 1.5rem;</code><br><code>scrollMarginRight: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-60</code></td>
-    <td><code>scrollMarginLeft: 15rem;</code>
-<code>scrollMarginRight: 15rem;</code></td>
+    <td><code>scrollMarginLeft: 15rem;</code><br><code>scrollMarginRight: 15rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-64</code></td>
-    <td><code>scrollMarginLeft: 16rem;</code>
-<code>scrollMarginRight: 16rem;</code></td>
+    <td><code>scrollMarginLeft: 16rem;</code><br><code>scrollMarginRight: 16rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-7</code></td>
-    <td><code>scrollMarginLeft: 1.75rem;</code>
-<code>scrollMarginRight: 1.75rem;</code></td>
+    <td><code>scrollMarginLeft: 1.75rem;</code><br><code>scrollMarginRight: 1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-72</code></td>
-    <td><code>scrollMarginLeft: 18rem;</code>
-<code>scrollMarginRight: 18rem;</code></td>
+    <td><code>scrollMarginLeft: 18rem;</code><br><code>scrollMarginRight: 18rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-8</code></td>
-    <td><code>scrollMarginLeft: 2rem;</code>
-<code>scrollMarginRight: 2rem;</code></td>
+    <td><code>scrollMarginLeft: 2rem;</code><br><code>scrollMarginRight: 2rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-80</code></td>
-    <td><code>scrollMarginLeft: 20rem;</code>
-<code>scrollMarginRight: 20rem;</code></td>
+    <td><code>scrollMarginLeft: 20rem;</code><br><code>scrollMarginRight: 20rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-9</code></td>
-    <td><code>scrollMarginLeft: 2.25rem;</code>
-<code>scrollMarginRight: 2.25rem;</code></td>
+    <td><code>scrollMarginLeft: 2.25rem;</code><br><code>scrollMarginRight: 2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-96</code></td>
-    <td><code>scrollMarginLeft: 24rem;</code>
-<code>scrollMarginRight: 24rem;</code></td>
+    <td><code>scrollMarginLeft: 24rem;</code><br><code>scrollMarginRight: 24rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-mx-px</code></td>
-    <td><code>scrollMarginLeft: 1px;</code>
-<code>scrollMarginRight: 1px;</code></td>
+    <td><code>scrollMarginLeft: 1px;</code><br><code>scrollMarginRight: 1px;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-0</code></td>
-    <td><code>scrollMarginTop: 0px;</code>
-<code>scrollMarginBottom: 0px;</code></td>
+    <td><code>scrollMarginTop: 0px;</code><br><code>scrollMarginBottom: 0px;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-1</code></td>
-    <td><code>scrollMarginTop: 0.25rem;</code>
-<code>scrollMarginBottom: 0.25rem;</code></td>
+    <td><code>scrollMarginTop: 0.25rem;</code><br><code>scrollMarginBottom: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-10</code></td>
-    <td><code>scrollMarginTop: 2.5rem;</code>
-<code>scrollMarginBottom: 2.5rem;</code></td>
+    <td><code>scrollMarginTop: 2.5rem;</code><br><code>scrollMarginBottom: 2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-11</code></td>
-    <td><code>scrollMarginTop: 2.75rem;</code>
-<code>scrollMarginBottom: 2.75rem;</code></td>
+    <td><code>scrollMarginTop: 2.75rem;</code><br><code>scrollMarginBottom: 2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-12</code></td>
-    <td><code>scrollMarginTop: 3rem;</code>
-<code>scrollMarginBottom: 3rem;</code></td>
+    <td><code>scrollMarginTop: 3rem;</code><br><code>scrollMarginBottom: 3rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-14</code></td>
-    <td><code>scrollMarginTop: 3.5rem;</code>
-<code>scrollMarginBottom: 3.5rem;</code></td>
+    <td><code>scrollMarginTop: 3.5rem;</code><br><code>scrollMarginBottom: 3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-16</code></td>
-    <td><code>scrollMarginTop: 4rem;</code>
-<code>scrollMarginBottom: 4rem;</code></td>
+    <td><code>scrollMarginTop: 4rem;</code><br><code>scrollMarginBottom: 4rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-2</code></td>
-    <td><code>scrollMarginTop: 0.5rem;</code>
-<code>scrollMarginBottom: 0.5rem;</code></td>
+    <td><code>scrollMarginTop: 0.5rem;</code><br><code>scrollMarginBottom: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-20</code></td>
-    <td><code>scrollMarginTop: 5rem;</code>
-<code>scrollMarginBottom: 5rem;</code></td>
+    <td><code>scrollMarginTop: 5rem;</code><br><code>scrollMarginBottom: 5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-24</code></td>
-    <td><code>scrollMarginTop: 6rem;</code>
-<code>scrollMarginBottom: 6rem;</code></td>
+    <td><code>scrollMarginTop: 6rem;</code><br><code>scrollMarginBottom: 6rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-28</code></td>
-    <td><code>scrollMarginTop: 7rem;</code>
-<code>scrollMarginBottom: 7rem;</code></td>
+    <td><code>scrollMarginTop: 7rem;</code><br><code>scrollMarginBottom: 7rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-3</code></td>
-    <td><code>scrollMarginTop: 0.75rem;</code>
-<code>scrollMarginBottom: 0.75rem;</code></td>
+    <td><code>scrollMarginTop: 0.75rem;</code><br><code>scrollMarginBottom: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-32</code></td>
-    <td><code>scrollMarginTop: 8rem;</code>
-<code>scrollMarginBottom: 8rem;</code></td>
+    <td><code>scrollMarginTop: 8rem;</code><br><code>scrollMarginBottom: 8rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-36</code></td>
-    <td><code>scrollMarginTop: 9rem;</code>
-<code>scrollMarginBottom: 9rem;</code></td>
+    <td><code>scrollMarginTop: 9rem;</code><br><code>scrollMarginBottom: 9rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-4</code></td>
-    <td><code>scrollMarginTop: 1rem;</code>
-<code>scrollMarginBottom: 1rem;</code></td>
+    <td><code>scrollMarginTop: 1rem;</code><br><code>scrollMarginBottom: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-40</code></td>
-    <td><code>scrollMarginTop: 10rem;</code>
-<code>scrollMarginBottom: 10rem;</code></td>
+    <td><code>scrollMarginTop: 10rem;</code><br><code>scrollMarginBottom: 10rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-44</code></td>
-    <td><code>scrollMarginTop: 11rem;</code>
-<code>scrollMarginBottom: 11rem;</code></td>
+    <td><code>scrollMarginTop: 11rem;</code><br><code>scrollMarginBottom: 11rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-48</code></td>
-    <td><code>scrollMarginTop: 12rem;</code>
-<code>scrollMarginBottom: 12rem;</code></td>
+    <td><code>scrollMarginTop: 12rem;</code><br><code>scrollMarginBottom: 12rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-5</code></td>
-    <td><code>scrollMarginTop: 1.25rem;</code>
-<code>scrollMarginBottom: 1.25rem;</code></td>
+    <td><code>scrollMarginTop: 1.25rem;</code><br><code>scrollMarginBottom: 1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-52</code></td>
-    <td><code>scrollMarginTop: 13rem;</code>
-<code>scrollMarginBottom: 13rem;</code></td>
+    <td><code>scrollMarginTop: 13rem;</code><br><code>scrollMarginBottom: 13rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-56</code></td>
-    <td><code>scrollMarginTop: 14rem;</code>
-<code>scrollMarginBottom: 14rem;</code></td>
+    <td><code>scrollMarginTop: 14rem;</code><br><code>scrollMarginBottom: 14rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-6</code></td>
-    <td><code>scrollMarginTop: 1.5rem;</code>
-<code>scrollMarginBottom: 1.5rem;</code></td>
+    <td><code>scrollMarginTop: 1.5rem;</code><br><code>scrollMarginBottom: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-60</code></td>
-    <td><code>scrollMarginTop: 15rem;</code>
-<code>scrollMarginBottom: 15rem;</code></td>
+    <td><code>scrollMarginTop: 15rem;</code><br><code>scrollMarginBottom: 15rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-64</code></td>
-    <td><code>scrollMarginTop: 16rem;</code>
-<code>scrollMarginBottom: 16rem;</code></td>
+    <td><code>scrollMarginTop: 16rem;</code><br><code>scrollMarginBottom: 16rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-7</code></td>
-    <td><code>scrollMarginTop: 1.75rem;</code>
-<code>scrollMarginBottom: 1.75rem;</code></td>
+    <td><code>scrollMarginTop: 1.75rem;</code><br><code>scrollMarginBottom: 1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-72</code></td>
-    <td><code>scrollMarginTop: 18rem;</code>
-<code>scrollMarginBottom: 18rem;</code></td>
+    <td><code>scrollMarginTop: 18rem;</code><br><code>scrollMarginBottom: 18rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-8</code></td>
-    <td><code>scrollMarginTop: 2rem;</code>
-<code>scrollMarginBottom: 2rem;</code></td>
+    <td><code>scrollMarginTop: 2rem;</code><br><code>scrollMarginBottom: 2rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-80</code></td>
-    <td><code>scrollMarginTop: 20rem;</code>
-<code>scrollMarginBottom: 20rem;</code></td>
+    <td><code>scrollMarginTop: 20rem;</code><br><code>scrollMarginBottom: 20rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-9</code></td>
-    <td><code>scrollMarginTop: 2.25rem;</code>
-<code>scrollMarginBottom: 2.25rem;</code></td>
+    <td><code>scrollMarginTop: 2.25rem;</code><br><code>scrollMarginBottom: 2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-96</code></td>
-    <td><code>scrollMarginTop: 24rem;</code>
-<code>scrollMarginBottom: 24rem;</code></td>
+    <td><code>scrollMarginTop: 24rem;</code><br><code>scrollMarginBottom: 24rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-my-px</code></td>
-    <td><code>scrollMarginTop: 1px;</code>
-<code>scrollMarginBottom: 1px;</code></td>
+    <td><code>scrollMarginTop: 1px;</code><br><code>scrollMarginBottom: 1px;</code></td>
   </tr>
   <tr>
     <td><code>-scroll-mb-0</code></td>
@@ -11339,313 +10887,251 @@
   </tr>
   <tr>
     <td><code>scroll-px-0</code></td>
-    <td><code>scrollPaddingLeft: 0px;</code>
-<code>scrollPaddingRight: 0px;</code></td>
+    <td><code>scrollPaddingLeft: 0px;</code><br><code>scrollPaddingRight: 0px;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-1</code></td>
-    <td><code>scrollPaddingLeft: 0.25rem;</code>
-<code>scrollPaddingRight: 0.25rem;</code></td>
+    <td><code>scrollPaddingLeft: 0.25rem;</code><br><code>scrollPaddingRight: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-10</code></td>
-    <td><code>scrollPaddingLeft: 2.5rem;</code>
-<code>scrollPaddingRight: 2.5rem;</code></td>
+    <td><code>scrollPaddingLeft: 2.5rem;</code><br><code>scrollPaddingRight: 2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-11</code></td>
-    <td><code>scrollPaddingLeft: 2.75rem;</code>
-<code>scrollPaddingRight: 2.75rem;</code></td>
+    <td><code>scrollPaddingLeft: 2.75rem;</code><br><code>scrollPaddingRight: 2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-12</code></td>
-    <td><code>scrollPaddingLeft: 3rem;</code>
-<code>scrollPaddingRight: 3rem;</code></td>
+    <td><code>scrollPaddingLeft: 3rem;</code><br><code>scrollPaddingRight: 3rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-14</code></td>
-    <td><code>scrollPaddingLeft: 3.5rem;</code>
-<code>scrollPaddingRight: 3.5rem;</code></td>
+    <td><code>scrollPaddingLeft: 3.5rem;</code><br><code>scrollPaddingRight: 3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-16</code></td>
-    <td><code>scrollPaddingLeft: 4rem;</code>
-<code>scrollPaddingRight: 4rem;</code></td>
+    <td><code>scrollPaddingLeft: 4rem;</code><br><code>scrollPaddingRight: 4rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-2</code></td>
-    <td><code>scrollPaddingLeft: 0.5rem;</code>
-<code>scrollPaddingRight: 0.5rem;</code></td>
+    <td><code>scrollPaddingLeft: 0.5rem;</code><br><code>scrollPaddingRight: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-20</code></td>
-    <td><code>scrollPaddingLeft: 5rem;</code>
-<code>scrollPaddingRight: 5rem;</code></td>
+    <td><code>scrollPaddingLeft: 5rem;</code><br><code>scrollPaddingRight: 5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-24</code></td>
-    <td><code>scrollPaddingLeft: 6rem;</code>
-<code>scrollPaddingRight: 6rem;</code></td>
+    <td><code>scrollPaddingLeft: 6rem;</code><br><code>scrollPaddingRight: 6rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-28</code></td>
-    <td><code>scrollPaddingLeft: 7rem;</code>
-<code>scrollPaddingRight: 7rem;</code></td>
+    <td><code>scrollPaddingLeft: 7rem;</code><br><code>scrollPaddingRight: 7rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-3</code></td>
-    <td><code>scrollPaddingLeft: 0.75rem;</code>
-<code>scrollPaddingRight: 0.75rem;</code></td>
+    <td><code>scrollPaddingLeft: 0.75rem;</code><br><code>scrollPaddingRight: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-32</code></td>
-    <td><code>scrollPaddingLeft: 8rem;</code>
-<code>scrollPaddingRight: 8rem;</code></td>
+    <td><code>scrollPaddingLeft: 8rem;</code><br><code>scrollPaddingRight: 8rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-36</code></td>
-    <td><code>scrollPaddingLeft: 9rem;</code>
-<code>scrollPaddingRight: 9rem;</code></td>
+    <td><code>scrollPaddingLeft: 9rem;</code><br><code>scrollPaddingRight: 9rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-4</code></td>
-    <td><code>scrollPaddingLeft: 1rem;</code>
-<code>scrollPaddingRight: 1rem;</code></td>
+    <td><code>scrollPaddingLeft: 1rem;</code><br><code>scrollPaddingRight: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-40</code></td>
-    <td><code>scrollPaddingLeft: 10rem;</code>
-<code>scrollPaddingRight: 10rem;</code></td>
+    <td><code>scrollPaddingLeft: 10rem;</code><br><code>scrollPaddingRight: 10rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-44</code></td>
-    <td><code>scrollPaddingLeft: 11rem;</code>
-<code>scrollPaddingRight: 11rem;</code></td>
+    <td><code>scrollPaddingLeft: 11rem;</code><br><code>scrollPaddingRight: 11rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-48</code></td>
-    <td><code>scrollPaddingLeft: 12rem;</code>
-<code>scrollPaddingRight: 12rem;</code></td>
+    <td><code>scrollPaddingLeft: 12rem;</code><br><code>scrollPaddingRight: 12rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-5</code></td>
-    <td><code>scrollPaddingLeft: 1.25rem;</code>
-<code>scrollPaddingRight: 1.25rem;</code></td>
+    <td><code>scrollPaddingLeft: 1.25rem;</code><br><code>scrollPaddingRight: 1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-52</code></td>
-    <td><code>scrollPaddingLeft: 13rem;</code>
-<code>scrollPaddingRight: 13rem;</code></td>
+    <td><code>scrollPaddingLeft: 13rem;</code><br><code>scrollPaddingRight: 13rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-56</code></td>
-    <td><code>scrollPaddingLeft: 14rem;</code>
-<code>scrollPaddingRight: 14rem;</code></td>
+    <td><code>scrollPaddingLeft: 14rem;</code><br><code>scrollPaddingRight: 14rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-6</code></td>
-    <td><code>scrollPaddingLeft: 1.5rem;</code>
-<code>scrollPaddingRight: 1.5rem;</code></td>
+    <td><code>scrollPaddingLeft: 1.5rem;</code><br><code>scrollPaddingRight: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-60</code></td>
-    <td><code>scrollPaddingLeft: 15rem;</code>
-<code>scrollPaddingRight: 15rem;</code></td>
+    <td><code>scrollPaddingLeft: 15rem;</code><br><code>scrollPaddingRight: 15rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-64</code></td>
-    <td><code>scrollPaddingLeft: 16rem;</code>
-<code>scrollPaddingRight: 16rem;</code></td>
+    <td><code>scrollPaddingLeft: 16rem;</code><br><code>scrollPaddingRight: 16rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-7</code></td>
-    <td><code>scrollPaddingLeft: 1.75rem;</code>
-<code>scrollPaddingRight: 1.75rem;</code></td>
+    <td><code>scrollPaddingLeft: 1.75rem;</code><br><code>scrollPaddingRight: 1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-72</code></td>
-    <td><code>scrollPaddingLeft: 18rem;</code>
-<code>scrollPaddingRight: 18rem;</code></td>
+    <td><code>scrollPaddingLeft: 18rem;</code><br><code>scrollPaddingRight: 18rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-8</code></td>
-    <td><code>scrollPaddingLeft: 2rem;</code>
-<code>scrollPaddingRight: 2rem;</code></td>
+    <td><code>scrollPaddingLeft: 2rem;</code><br><code>scrollPaddingRight: 2rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-80</code></td>
-    <td><code>scrollPaddingLeft: 20rem;</code>
-<code>scrollPaddingRight: 20rem;</code></td>
+    <td><code>scrollPaddingLeft: 20rem;</code><br><code>scrollPaddingRight: 20rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-9</code></td>
-    <td><code>scrollPaddingLeft: 2.25rem;</code>
-<code>scrollPaddingRight: 2.25rem;</code></td>
+    <td><code>scrollPaddingLeft: 2.25rem;</code><br><code>scrollPaddingRight: 2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-96</code></td>
-    <td><code>scrollPaddingLeft: 24rem;</code>
-<code>scrollPaddingRight: 24rem;</code></td>
+    <td><code>scrollPaddingLeft: 24rem;</code><br><code>scrollPaddingRight: 24rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-px-px</code></td>
-    <td><code>scrollPaddingLeft: 1px;</code>
-<code>scrollPaddingRight: 1px;</code></td>
+    <td><code>scrollPaddingLeft: 1px;</code><br><code>scrollPaddingRight: 1px;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-0</code></td>
-    <td><code>scrollPaddingTop: 0px;</code>
-<code>scrollPaddingBottom: 0px;</code></td>
+    <td><code>scrollPaddingTop: 0px;</code><br><code>scrollPaddingBottom: 0px;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-1</code></td>
-    <td><code>scrollPaddingTop: 0.25rem;</code>
-<code>scrollPaddingBottom: 0.25rem;</code></td>
+    <td><code>scrollPaddingTop: 0.25rem;</code><br><code>scrollPaddingBottom: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-10</code></td>
-    <td><code>scrollPaddingTop: 2.5rem;</code>
-<code>scrollPaddingBottom: 2.5rem;</code></td>
+    <td><code>scrollPaddingTop: 2.5rem;</code><br><code>scrollPaddingBottom: 2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-11</code></td>
-    <td><code>scrollPaddingTop: 2.75rem;</code>
-<code>scrollPaddingBottom: 2.75rem;</code></td>
+    <td><code>scrollPaddingTop: 2.75rem;</code><br><code>scrollPaddingBottom: 2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-12</code></td>
-    <td><code>scrollPaddingTop: 3rem;</code>
-<code>scrollPaddingBottom: 3rem;</code></td>
+    <td><code>scrollPaddingTop: 3rem;</code><br><code>scrollPaddingBottom: 3rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-14</code></td>
-    <td><code>scrollPaddingTop: 3.5rem;</code>
-<code>scrollPaddingBottom: 3.5rem;</code></td>
+    <td><code>scrollPaddingTop: 3.5rem;</code><br><code>scrollPaddingBottom: 3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-16</code></td>
-    <td><code>scrollPaddingTop: 4rem;</code>
-<code>scrollPaddingBottom: 4rem;</code></td>
+    <td><code>scrollPaddingTop: 4rem;</code><br><code>scrollPaddingBottom: 4rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-2</code></td>
-    <td><code>scrollPaddingTop: 0.5rem;</code>
-<code>scrollPaddingBottom: 0.5rem;</code></td>
+    <td><code>scrollPaddingTop: 0.5rem;</code><br><code>scrollPaddingBottom: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-20</code></td>
-    <td><code>scrollPaddingTop: 5rem;</code>
-<code>scrollPaddingBottom: 5rem;</code></td>
+    <td><code>scrollPaddingTop: 5rem;</code><br><code>scrollPaddingBottom: 5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-24</code></td>
-    <td><code>scrollPaddingTop: 6rem;</code>
-<code>scrollPaddingBottom: 6rem;</code></td>
+    <td><code>scrollPaddingTop: 6rem;</code><br><code>scrollPaddingBottom: 6rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-28</code></td>
-    <td><code>scrollPaddingTop: 7rem;</code>
-<code>scrollPaddingBottom: 7rem;</code></td>
+    <td><code>scrollPaddingTop: 7rem;</code><br><code>scrollPaddingBottom: 7rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-3</code></td>
-    <td><code>scrollPaddingTop: 0.75rem;</code>
-<code>scrollPaddingBottom: 0.75rem;</code></td>
+    <td><code>scrollPaddingTop: 0.75rem;</code><br><code>scrollPaddingBottom: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-32</code></td>
-    <td><code>scrollPaddingTop: 8rem;</code>
-<code>scrollPaddingBottom: 8rem;</code></td>
+    <td><code>scrollPaddingTop: 8rem;</code><br><code>scrollPaddingBottom: 8rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-36</code></td>
-    <td><code>scrollPaddingTop: 9rem;</code>
-<code>scrollPaddingBottom: 9rem;</code></td>
+    <td><code>scrollPaddingTop: 9rem;</code><br><code>scrollPaddingBottom: 9rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-4</code></td>
-    <td><code>scrollPaddingTop: 1rem;</code>
-<code>scrollPaddingBottom: 1rem;</code></td>
+    <td><code>scrollPaddingTop: 1rem;</code><br><code>scrollPaddingBottom: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-40</code></td>
-    <td><code>scrollPaddingTop: 10rem;</code>
-<code>scrollPaddingBottom: 10rem;</code></td>
+    <td><code>scrollPaddingTop: 10rem;</code><br><code>scrollPaddingBottom: 10rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-44</code></td>
-    <td><code>scrollPaddingTop: 11rem;</code>
-<code>scrollPaddingBottom: 11rem;</code></td>
+    <td><code>scrollPaddingTop: 11rem;</code><br><code>scrollPaddingBottom: 11rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-48</code></td>
-    <td><code>scrollPaddingTop: 12rem;</code>
-<code>scrollPaddingBottom: 12rem;</code></td>
+    <td><code>scrollPaddingTop: 12rem;</code><br><code>scrollPaddingBottom: 12rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-5</code></td>
-    <td><code>scrollPaddingTop: 1.25rem;</code>
-<code>scrollPaddingBottom: 1.25rem;</code></td>
+    <td><code>scrollPaddingTop: 1.25rem;</code><br><code>scrollPaddingBottom: 1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-52</code></td>
-    <td><code>scrollPaddingTop: 13rem;</code>
-<code>scrollPaddingBottom: 13rem;</code></td>
+    <td><code>scrollPaddingTop: 13rem;</code><br><code>scrollPaddingBottom: 13rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-56</code></td>
-    <td><code>scrollPaddingTop: 14rem;</code>
-<code>scrollPaddingBottom: 14rem;</code></td>
+    <td><code>scrollPaddingTop: 14rem;</code><br><code>scrollPaddingBottom: 14rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-6</code></td>
-    <td><code>scrollPaddingTop: 1.5rem;</code>
-<code>scrollPaddingBottom: 1.5rem;</code></td>
+    <td><code>scrollPaddingTop: 1.5rem;</code><br><code>scrollPaddingBottom: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-60</code></td>
-    <td><code>scrollPaddingTop: 15rem;</code>
-<code>scrollPaddingBottom: 15rem;</code></td>
+    <td><code>scrollPaddingTop: 15rem;</code><br><code>scrollPaddingBottom: 15rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-64</code></td>
-    <td><code>scrollPaddingTop: 16rem;</code>
-<code>scrollPaddingBottom: 16rem;</code></td>
+    <td><code>scrollPaddingTop: 16rem;</code><br><code>scrollPaddingBottom: 16rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-7</code></td>
-    <td><code>scrollPaddingTop: 1.75rem;</code>
-<code>scrollPaddingBottom: 1.75rem;</code></td>
+    <td><code>scrollPaddingTop: 1.75rem;</code><br><code>scrollPaddingBottom: 1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-72</code></td>
-    <td><code>scrollPaddingTop: 18rem;</code>
-<code>scrollPaddingBottom: 18rem;</code></td>
+    <td><code>scrollPaddingTop: 18rem;</code><br><code>scrollPaddingBottom: 18rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-8</code></td>
-    <td><code>scrollPaddingTop: 2rem;</code>
-<code>scrollPaddingBottom: 2rem;</code></td>
+    <td><code>scrollPaddingTop: 2rem;</code><br><code>scrollPaddingBottom: 2rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-80</code></td>
-    <td><code>scrollPaddingTop: 20rem;</code>
-<code>scrollPaddingBottom: 20rem;</code></td>
+    <td><code>scrollPaddingTop: 20rem;</code><br><code>scrollPaddingBottom: 20rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-9</code></td>
-    <td><code>scrollPaddingTop: 2.25rem;</code>
-<code>scrollPaddingBottom: 2.25rem;</code></td>
+    <td><code>scrollPaddingTop: 2.25rem;</code><br><code>scrollPaddingBottom: 2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-96</code></td>
-    <td><code>scrollPaddingTop: 24rem;</code>
-<code>scrollPaddingBottom: 24rem;</code></td>
+    <td><code>scrollPaddingTop: 24rem;</code><br><code>scrollPaddingBottom: 24rem;</code></td>
   </tr>
   <tr>
     <td><code>scroll-py-px</code></td>
-    <td><code>scrollPaddingTop: 1px;</code>
-<code>scrollPaddingBottom: 1px;</code></td>
+    <td><code>scrollPaddingTop: 1px;</code><br><code>scrollPaddingBottom: 1px;</code></td>
   </tr>
   <tr>
     <td><code>scroll-pb-0</code></td>
@@ -13497,9 +12983,7 @@
   </tr>
   <tr>
     <td><code>truncate</code></td>
-    <td><code>overflow: hidden;</code>
-<code>textOverflow: ellipsis;</code>
-<code>whiteSpace: nowrap;</code></td>
+    <td><code>overflow: hidden;</code><br><code>textOverflow: ellipsis;</code><br><code>whiteSpace: nowrap;</code></td>
   </tr>
   <tr>
     <td><code>overflow-ellipsis</code></td>
@@ -13567,8 +13051,7 @@
   </tr>
   <tr>
     <td><code>break-normal</code></td>
-    <td><code>overflowWrap: normal;</code>
-<code>wordBreak: normal;</code></td>
+    <td><code>overflowWrap: normal;</code><br><code>wordBreak: normal;</code></td>
   </tr>
   <tr>
     <td><code>break-words</code></td>
@@ -13620,273 +13103,219 @@
   </tr>
   <tr>
     <td><code>rounded-b</code></td>
-    <td><code>borderBottomRightRadius: 0.25rem;</code>
-<code>borderBottomLeftRadius: 0.25rem;</code></td>
+    <td><code>borderBottomRightRadius: 0.25rem;</code><br><code>borderBottomLeftRadius: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-b-2xl</code></td>
-    <td><code>borderBottomRightRadius: 1rem;</code>
-<code>borderBottomLeftRadius: 1rem;</code></td>
+    <td><code>borderBottomRightRadius: 1rem;</code><br><code>borderBottomLeftRadius: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-b-3xl</code></td>
-    <td><code>borderBottomRightRadius: 1.5rem;</code>
-<code>borderBottomLeftRadius: 1.5rem;</code></td>
+    <td><code>borderBottomRightRadius: 1.5rem;</code><br><code>borderBottomLeftRadius: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-b-full</code></td>
-    <td><code>borderBottomRightRadius: 9999px;</code>
-<code>borderBottomLeftRadius: 9999px;</code></td>
+    <td><code>borderBottomRightRadius: 9999px;</code><br><code>borderBottomLeftRadius: 9999px;</code></td>
   </tr>
   <tr>
     <td><code>rounded-b-lg</code></td>
-    <td><code>borderBottomRightRadius: 0.5rem;</code>
-<code>borderBottomLeftRadius: 0.5rem;</code></td>
+    <td><code>borderBottomRightRadius: 0.5rem;</code><br><code>borderBottomLeftRadius: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-b-md</code></td>
-    <td><code>borderBottomRightRadius: 0.375rem;</code>
-<code>borderBottomLeftRadius: 0.375rem;</code></td>
+    <td><code>borderBottomRightRadius: 0.375rem;</code><br><code>borderBottomLeftRadius: 0.375rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-b-none</code></td>
-    <td><code>borderBottomRightRadius: 0px;</code>
-<code>borderBottomLeftRadius: 0px;</code></td>
+    <td><code>borderBottomRightRadius: 0px;</code><br><code>borderBottomLeftRadius: 0px;</code></td>
   </tr>
   <tr>
     <td><code>rounded-b-sm</code></td>
-    <td><code>borderBottomRightRadius: 0.125rem;</code>
-<code>borderBottomLeftRadius: 0.125rem;</code></td>
+    <td><code>borderBottomRightRadius: 0.125rem;</code><br><code>borderBottomLeftRadius: 0.125rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-b-xl</code></td>
-    <td><code>borderBottomRightRadius: 0.75rem;</code>
-<code>borderBottomLeftRadius: 0.75rem;</code></td>
+    <td><code>borderBottomRightRadius: 0.75rem;</code><br><code>borderBottomLeftRadius: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-e</code></td>
-    <td><code>borderStartEndRadius: 0.25rem;</code>
-<code>borderEndEndRadius: 0.25rem;</code></td>
+    <td><code>borderStartEndRadius: 0.25rem;</code><br><code>borderEndEndRadius: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-e-2xl</code></td>
-    <td><code>borderStartEndRadius: 1rem;</code>
-<code>borderEndEndRadius: 1rem;</code></td>
+    <td><code>borderStartEndRadius: 1rem;</code><br><code>borderEndEndRadius: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-e-3xl</code></td>
-    <td><code>borderStartEndRadius: 1.5rem;</code>
-<code>borderEndEndRadius: 1.5rem;</code></td>
+    <td><code>borderStartEndRadius: 1.5rem;</code><br><code>borderEndEndRadius: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-e-full</code></td>
-    <td><code>borderStartEndRadius: 9999px;</code>
-<code>borderEndEndRadius: 9999px;</code></td>
+    <td><code>borderStartEndRadius: 9999px;</code><br><code>borderEndEndRadius: 9999px;</code></td>
   </tr>
   <tr>
     <td><code>rounded-e-lg</code></td>
-    <td><code>borderStartEndRadius: 0.5rem;</code>
-<code>borderEndEndRadius: 0.5rem;</code></td>
+    <td><code>borderStartEndRadius: 0.5rem;</code><br><code>borderEndEndRadius: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-e-md</code></td>
-    <td><code>borderStartEndRadius: 0.375rem;</code>
-<code>borderEndEndRadius: 0.375rem;</code></td>
+    <td><code>borderStartEndRadius: 0.375rem;</code><br><code>borderEndEndRadius: 0.375rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-e-none</code></td>
-    <td><code>borderStartEndRadius: 0px;</code>
-<code>borderEndEndRadius: 0px;</code></td>
+    <td><code>borderStartEndRadius: 0px;</code><br><code>borderEndEndRadius: 0px;</code></td>
   </tr>
   <tr>
     <td><code>rounded-e-sm</code></td>
-    <td><code>borderStartEndRadius: 0.125rem;</code>
-<code>borderEndEndRadius: 0.125rem;</code></td>
+    <td><code>borderStartEndRadius: 0.125rem;</code><br><code>borderEndEndRadius: 0.125rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-e-xl</code></td>
-    <td><code>borderStartEndRadius: 0.75rem;</code>
-<code>borderEndEndRadius: 0.75rem;</code></td>
+    <td><code>borderStartEndRadius: 0.75rem;</code><br><code>borderEndEndRadius: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-l</code></td>
-    <td><code>borderTopLeftRadius: 0.25rem;</code>
-<code>borderBottomLeftRadius: 0.25rem;</code></td>
+    <td><code>borderTopLeftRadius: 0.25rem;</code><br><code>borderBottomLeftRadius: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-l-2xl</code></td>
-    <td><code>borderTopLeftRadius: 1rem;</code>
-<code>borderBottomLeftRadius: 1rem;</code></td>
+    <td><code>borderTopLeftRadius: 1rem;</code><br><code>borderBottomLeftRadius: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-l-3xl</code></td>
-    <td><code>borderTopLeftRadius: 1.5rem;</code>
-<code>borderBottomLeftRadius: 1.5rem;</code></td>
+    <td><code>borderTopLeftRadius: 1.5rem;</code><br><code>borderBottomLeftRadius: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-l-full</code></td>
-    <td><code>borderTopLeftRadius: 9999px;</code>
-<code>borderBottomLeftRadius: 9999px;</code></td>
+    <td><code>borderTopLeftRadius: 9999px;</code><br><code>borderBottomLeftRadius: 9999px;</code></td>
   </tr>
   <tr>
     <td><code>rounded-l-lg</code></td>
-    <td><code>borderTopLeftRadius: 0.5rem;</code>
-<code>borderBottomLeftRadius: 0.5rem;</code></td>
+    <td><code>borderTopLeftRadius: 0.5rem;</code><br><code>borderBottomLeftRadius: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-l-md</code></td>
-    <td><code>borderTopLeftRadius: 0.375rem;</code>
-<code>borderBottomLeftRadius: 0.375rem;</code></td>
+    <td><code>borderTopLeftRadius: 0.375rem;</code><br><code>borderBottomLeftRadius: 0.375rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-l-none</code></td>
-    <td><code>borderTopLeftRadius: 0px;</code>
-<code>borderBottomLeftRadius: 0px;</code></td>
+    <td><code>borderTopLeftRadius: 0px;</code><br><code>borderBottomLeftRadius: 0px;</code></td>
   </tr>
   <tr>
     <td><code>rounded-l-sm</code></td>
-    <td><code>borderTopLeftRadius: 0.125rem;</code>
-<code>borderBottomLeftRadius: 0.125rem;</code></td>
+    <td><code>borderTopLeftRadius: 0.125rem;</code><br><code>borderBottomLeftRadius: 0.125rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-l-xl</code></td>
-    <td><code>borderTopLeftRadius: 0.75rem;</code>
-<code>borderBottomLeftRadius: 0.75rem;</code></td>
+    <td><code>borderTopLeftRadius: 0.75rem;</code><br><code>borderBottomLeftRadius: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-r</code></td>
-    <td><code>borderTopRightRadius: 0.25rem;</code>
-<code>borderBottomRightRadius: 0.25rem;</code></td>
+    <td><code>borderTopRightRadius: 0.25rem;</code><br><code>borderBottomRightRadius: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-r-2xl</code></td>
-    <td><code>borderTopRightRadius: 1rem;</code>
-<code>borderBottomRightRadius: 1rem;</code></td>
+    <td><code>borderTopRightRadius: 1rem;</code><br><code>borderBottomRightRadius: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-r-3xl</code></td>
-    <td><code>borderTopRightRadius: 1.5rem;</code>
-<code>borderBottomRightRadius: 1.5rem;</code></td>
+    <td><code>borderTopRightRadius: 1.5rem;</code><br><code>borderBottomRightRadius: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-r-full</code></td>
-    <td><code>borderTopRightRadius: 9999px;</code>
-<code>borderBottomRightRadius: 9999px;</code></td>
+    <td><code>borderTopRightRadius: 9999px;</code><br><code>borderBottomRightRadius: 9999px;</code></td>
   </tr>
   <tr>
     <td><code>rounded-r-lg</code></td>
-    <td><code>borderTopRightRadius: 0.5rem;</code>
-<code>borderBottomRightRadius: 0.5rem;</code></td>
+    <td><code>borderTopRightRadius: 0.5rem;</code><br><code>borderBottomRightRadius: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-r-md</code></td>
-    <td><code>borderTopRightRadius: 0.375rem;</code>
-<code>borderBottomRightRadius: 0.375rem;</code></td>
+    <td><code>borderTopRightRadius: 0.375rem;</code><br><code>borderBottomRightRadius: 0.375rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-r-none</code></td>
-    <td><code>borderTopRightRadius: 0px;</code>
-<code>borderBottomRightRadius: 0px;</code></td>
+    <td><code>borderTopRightRadius: 0px;</code><br><code>borderBottomRightRadius: 0px;</code></td>
   </tr>
   <tr>
     <td><code>rounded-r-sm</code></td>
-    <td><code>borderTopRightRadius: 0.125rem;</code>
-<code>borderBottomRightRadius: 0.125rem;</code></td>
+    <td><code>borderTopRightRadius: 0.125rem;</code><br><code>borderBottomRightRadius: 0.125rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-r-xl</code></td>
-    <td><code>borderTopRightRadius: 0.75rem;</code>
-<code>borderBottomRightRadius: 0.75rem;</code></td>
+    <td><code>borderTopRightRadius: 0.75rem;</code><br><code>borderBottomRightRadius: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-s</code></td>
-    <td><code>borderStartStartRadius: 0.25rem;</code>
-<code>borderEndStartRadius: 0.25rem;</code></td>
+    <td><code>borderStartStartRadius: 0.25rem;</code><br><code>borderEndStartRadius: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-s-2xl</code></td>
-    <td><code>borderStartStartRadius: 1rem;</code>
-<code>borderEndStartRadius: 1rem;</code></td>
+    <td><code>borderStartStartRadius: 1rem;</code><br><code>borderEndStartRadius: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-s-3xl</code></td>
-    <td><code>borderStartStartRadius: 1.5rem;</code>
-<code>borderEndStartRadius: 1.5rem;</code></td>
+    <td><code>borderStartStartRadius: 1.5rem;</code><br><code>borderEndStartRadius: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-s-full</code></td>
-    <td><code>borderStartStartRadius: 9999px;</code>
-<code>borderEndStartRadius: 9999px;</code></td>
+    <td><code>borderStartStartRadius: 9999px;</code><br><code>borderEndStartRadius: 9999px;</code></td>
   </tr>
   <tr>
     <td><code>rounded-s-lg</code></td>
-    <td><code>borderStartStartRadius: 0.5rem;</code>
-<code>borderEndStartRadius: 0.5rem;</code></td>
+    <td><code>borderStartStartRadius: 0.5rem;</code><br><code>borderEndStartRadius: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-s-md</code></td>
-    <td><code>borderStartStartRadius: 0.375rem;</code>
-<code>borderEndStartRadius: 0.375rem;</code></td>
+    <td><code>borderStartStartRadius: 0.375rem;</code><br><code>borderEndStartRadius: 0.375rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-s-none</code></td>
-    <td><code>borderStartStartRadius: 0px;</code>
-<code>borderEndStartRadius: 0px;</code></td>
+    <td><code>borderStartStartRadius: 0px;</code><br><code>borderEndStartRadius: 0px;</code></td>
   </tr>
   <tr>
     <td><code>rounded-s-sm</code></td>
-    <td><code>borderStartStartRadius: 0.125rem;</code>
-<code>borderEndStartRadius: 0.125rem;</code></td>
+    <td><code>borderStartStartRadius: 0.125rem;</code><br><code>borderEndStartRadius: 0.125rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-s-xl</code></td>
-    <td><code>borderStartStartRadius: 0.75rem;</code>
-<code>borderEndStartRadius: 0.75rem;</code></td>
+    <td><code>borderStartStartRadius: 0.75rem;</code><br><code>borderEndStartRadius: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-t</code></td>
-    <td><code>borderTopLeftRadius: 0.25rem;</code>
-<code>borderTopRightRadius: 0.25rem;</code></td>
+    <td><code>borderTopLeftRadius: 0.25rem;</code><br><code>borderTopRightRadius: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-t-2xl</code></td>
-    <td><code>borderTopLeftRadius: 1rem;</code>
-<code>borderTopRightRadius: 1rem;</code></td>
+    <td><code>borderTopLeftRadius: 1rem;</code><br><code>borderTopRightRadius: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-t-3xl</code></td>
-    <td><code>borderTopLeftRadius: 1.5rem;</code>
-<code>borderTopRightRadius: 1.5rem;</code></td>
+    <td><code>borderTopLeftRadius: 1.5rem;</code><br><code>borderTopRightRadius: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-t-full</code></td>
-    <td><code>borderTopLeftRadius: 9999px;</code>
-<code>borderTopRightRadius: 9999px;</code></td>
+    <td><code>borderTopLeftRadius: 9999px;</code><br><code>borderTopRightRadius: 9999px;</code></td>
   </tr>
   <tr>
     <td><code>rounded-t-lg</code></td>
-    <td><code>borderTopLeftRadius: 0.5rem;</code>
-<code>borderTopRightRadius: 0.5rem;</code></td>
+    <td><code>borderTopLeftRadius: 0.5rem;</code><br><code>borderTopRightRadius: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-t-md</code></td>
-    <td><code>borderTopLeftRadius: 0.375rem;</code>
-<code>borderTopRightRadius: 0.375rem;</code></td>
+    <td><code>borderTopLeftRadius: 0.375rem;</code><br><code>borderTopRightRadius: 0.375rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-t-none</code></td>
-    <td><code>borderTopLeftRadius: 0px;</code>
-<code>borderTopRightRadius: 0px;</code></td>
+    <td><code>borderTopLeftRadius: 0px;</code><br><code>borderTopRightRadius: 0px;</code></td>
   </tr>
   <tr>
     <td><code>rounded-t-sm</code></td>
-    <td><code>borderTopLeftRadius: 0.125rem;</code>
-<code>borderTopRightRadius: 0.125rem;</code></td>
+    <td><code>borderTopLeftRadius: 0.125rem;</code><br><code>borderTopRightRadius: 0.125rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-t-xl</code></td>
-    <td><code>borderTopLeftRadius: 0.75rem;</code>
-<code>borderTopRightRadius: 0.75rem;</code></td>
+    <td><code>borderTopLeftRadius: 0.75rem;</code><br><code>borderTopRightRadius: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>rounded-bl</code></td>
@@ -14198,53 +13627,43 @@
   </tr>
   <tr>
     <td><code>border-x</code></td>
-    <td><code>borderLeftWidth: 1px;</code>
-<code>borderRightWidth: 1px;</code></td>
+    <td><code>borderLeftWidth: 1px;</code><br><code>borderRightWidth: 1px;</code></td>
   </tr>
   <tr>
     <td><code>border-x-0</code></td>
-    <td><code>borderLeftWidth: 0px;</code>
-<code>borderRightWidth: 0px;</code></td>
+    <td><code>borderLeftWidth: 0px;</code><br><code>borderRightWidth: 0px;</code></td>
   </tr>
   <tr>
     <td><code>border-x-2</code></td>
-    <td><code>borderLeftWidth: 2px;</code>
-<code>borderRightWidth: 2px;</code></td>
+    <td><code>borderLeftWidth: 2px;</code><br><code>borderRightWidth: 2px;</code></td>
   </tr>
   <tr>
     <td><code>border-x-4</code></td>
-    <td><code>borderLeftWidth: 4px;</code>
-<code>borderRightWidth: 4px;</code></td>
+    <td><code>borderLeftWidth: 4px;</code><br><code>borderRightWidth: 4px;</code></td>
   </tr>
   <tr>
     <td><code>border-x-8</code></td>
-    <td><code>borderLeftWidth: 8px;</code>
-<code>borderRightWidth: 8px;</code></td>
+    <td><code>borderLeftWidth: 8px;</code><br><code>borderRightWidth: 8px;</code></td>
   </tr>
   <tr>
     <td><code>border-y</code></td>
-    <td><code>borderTopWidth: 1px;</code>
-<code>borderBottomWidth: 1px;</code></td>
+    <td><code>borderTopWidth: 1px;</code><br><code>borderBottomWidth: 1px;</code></td>
   </tr>
   <tr>
     <td><code>border-y-0</code></td>
-    <td><code>borderTopWidth: 0px;</code>
-<code>borderBottomWidth: 0px;</code></td>
+    <td><code>borderTopWidth: 0px;</code><br><code>borderBottomWidth: 0px;</code></td>
   </tr>
   <tr>
     <td><code>border-y-2</code></td>
-    <td><code>borderTopWidth: 2px;</code>
-<code>borderBottomWidth: 2px;</code></td>
+    <td><code>borderTopWidth: 2px;</code><br><code>borderBottomWidth: 2px;</code></td>
   </tr>
   <tr>
     <td><code>border-y-4</code></td>
-    <td><code>borderTopWidth: 4px;</code>
-<code>borderBottomWidth: 4px;</code></td>
+    <td><code>borderTopWidth: 4px;</code><br><code>borderBottomWidth: 4px;</code></td>
   </tr>
   <tr>
     <td><code>border-y-8</code></td>
-    <td><code>borderTopWidth: 8px;</code>
-<code>borderBottomWidth: 8px;</code></td>
+    <td><code>borderTopWidth: 8px;</code><br><code>borderBottomWidth: 8px;</code></td>
   </tr>
   <tr>
     <td><code>border-b</code></td>
@@ -15380,2473 +14799,1979 @@
   </tr>
   <tr>
     <td><code>border-x-amber-100</code></td>
-    <td><code>borderLeftColor: #FEF3C7;</code>
-<code>borderRightColor: #FEF3C7;</code></td>
+    <td><code>borderLeftColor: #FEF3C7;</code><br><code>borderRightColor: #FEF3C7;</code></td>
   </tr>
   <tr>
     <td><code>border-x-amber-200</code></td>
-    <td><code>borderLeftColor: #FDE68A;</code>
-<code>borderRightColor: #FDE68A;</code></td>
+    <td><code>borderLeftColor: #FDE68A;</code><br><code>borderRightColor: #FDE68A;</code></td>
   </tr>
   <tr>
     <td><code>border-x-amber-300</code></td>
-    <td><code>borderLeftColor: #FCD34D;</code>
-<code>borderRightColor: #FCD34D;</code></td>
+    <td><code>borderLeftColor: #FCD34D;</code><br><code>borderRightColor: #FCD34D;</code></td>
   </tr>
   <tr>
     <td><code>border-x-amber-400</code></td>
-    <td><code>borderLeftColor: #FBBF24;</code>
-<code>borderRightColor: #FBBF24;</code></td>
+    <td><code>borderLeftColor: #FBBF24;</code><br><code>borderRightColor: #FBBF24;</code></td>
   </tr>
   <tr>
     <td><code>border-x-amber-50</code></td>
-    <td><code>borderLeftColor: #FFFBEB;</code>
-<code>borderRightColor: #FFFBEB;</code></td>
+    <td><code>borderLeftColor: #FFFBEB;</code><br><code>borderRightColor: #FFFBEB;</code></td>
   </tr>
   <tr>
     <td><code>border-x-amber-500</code></td>
-    <td><code>borderLeftColor: #F59E0B;</code>
-<code>borderRightColor: #F59E0B;</code></td>
+    <td><code>borderLeftColor: #F59E0B;</code><br><code>borderRightColor: #F59E0B;</code></td>
   </tr>
   <tr>
     <td><code>border-x-amber-600</code></td>
-    <td><code>borderLeftColor: #D97706;</code>
-<code>borderRightColor: #D97706;</code></td>
+    <td><code>borderLeftColor: #D97706;</code><br><code>borderRightColor: #D97706;</code></td>
   </tr>
   <tr>
     <td><code>border-x-amber-700</code></td>
-    <td><code>borderLeftColor: #B45309;</code>
-<code>borderRightColor: #B45309;</code></td>
+    <td><code>borderLeftColor: #B45309;</code><br><code>borderRightColor: #B45309;</code></td>
   </tr>
   <tr>
     <td><code>border-x-amber-800</code></td>
-    <td><code>borderLeftColor: #92400E;</code>
-<code>borderRightColor: #92400E;</code></td>
+    <td><code>borderLeftColor: #92400E;</code><br><code>borderRightColor: #92400E;</code></td>
   </tr>
   <tr>
     <td><code>border-x-amber-900</code></td>
-    <td><code>borderLeftColor: #78350F;</code>
-<code>borderRightColor: #78350F;</code></td>
+    <td><code>borderLeftColor: #78350F;</code><br><code>borderRightColor: #78350F;</code></td>
   </tr>
   <tr>
     <td><code>border-x-amber-950</code></td>
-    <td><code>borderLeftColor: #451A03;</code>
-<code>borderRightColor: #451A03;</code></td>
+    <td><code>borderLeftColor: #451A03;</code><br><code>borderRightColor: #451A03;</code></td>
   </tr>
   <tr>
     <td><code>border-x-black</code></td>
-    <td><code>borderLeftColor: #000000;</code>
-<code>borderRightColor: #000000;</code></td>
+    <td><code>borderLeftColor: #000000;</code><br><code>borderRightColor: #000000;</code></td>
   </tr>
   <tr>
     <td><code>border-x-blue-100</code></td>
-    <td><code>borderLeftColor: #DBEAFE;</code>
-<code>borderRightColor: #DBEAFE;</code></td>
+    <td><code>borderLeftColor: #DBEAFE;</code><br><code>borderRightColor: #DBEAFE;</code></td>
   </tr>
   <tr>
     <td><code>border-x-blue-200</code></td>
-    <td><code>borderLeftColor: #BFDBFE;</code>
-<code>borderRightColor: #BFDBFE;</code></td>
+    <td><code>borderLeftColor: #BFDBFE;</code><br><code>borderRightColor: #BFDBFE;</code></td>
   </tr>
   <tr>
     <td><code>border-x-blue-300</code></td>
-    <td><code>borderLeftColor: #93C5FD;</code>
-<code>borderRightColor: #93C5FD;</code></td>
+    <td><code>borderLeftColor: #93C5FD;</code><br><code>borderRightColor: #93C5FD;</code></td>
   </tr>
   <tr>
     <td><code>border-x-blue-400</code></td>
-    <td><code>borderLeftColor: #60A5FA;</code>
-<code>borderRightColor: #60A5FA;</code></td>
+    <td><code>borderLeftColor: #60A5FA;</code><br><code>borderRightColor: #60A5FA;</code></td>
   </tr>
   <tr>
     <td><code>border-x-blue-50</code></td>
-    <td><code>borderLeftColor: #EFF6FF;</code>
-<code>borderRightColor: #EFF6FF;</code></td>
+    <td><code>borderLeftColor: #EFF6FF;</code><br><code>borderRightColor: #EFF6FF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-blue-500</code></td>
-    <td><code>borderLeftColor: #3B82F6;</code>
-<code>borderRightColor: #3B82F6;</code></td>
+    <td><code>borderLeftColor: #3B82F6;</code><br><code>borderRightColor: #3B82F6;</code></td>
   </tr>
   <tr>
     <td><code>border-x-blue-600</code></td>
-    <td><code>borderLeftColor: #2563EB;</code>
-<code>borderRightColor: #2563EB;</code></td>
+    <td><code>borderLeftColor: #2563EB;</code><br><code>borderRightColor: #2563EB;</code></td>
   </tr>
   <tr>
     <td><code>border-x-blue-700</code></td>
-    <td><code>borderLeftColor: #1D4ED8;</code>
-<code>borderRightColor: #1D4ED8;</code></td>
+    <td><code>borderLeftColor: #1D4ED8;</code><br><code>borderRightColor: #1D4ED8;</code></td>
   </tr>
   <tr>
     <td><code>border-x-blue-800</code></td>
-    <td><code>borderLeftColor: #1E40AF;</code>
-<code>borderRightColor: #1E40AF;</code></td>
+    <td><code>borderLeftColor: #1E40AF;</code><br><code>borderRightColor: #1E40AF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-blue-900</code></td>
-    <td><code>borderLeftColor: #1E3A8A;</code>
-<code>borderRightColor: #1E3A8A;</code></td>
+    <td><code>borderLeftColor: #1E3A8A;</code><br><code>borderRightColor: #1E3A8A;</code></td>
   </tr>
   <tr>
     <td><code>border-x-blue-950</code></td>
-    <td><code>borderLeftColor: #172554;</code>
-<code>borderRightColor: #172554;</code></td>
+    <td><code>borderLeftColor: #172554;</code><br><code>borderRightColor: #172554;</code></td>
   </tr>
   <tr>
     <td><code>border-x-current</code></td>
-    <td><code>borderLeftColor: currentColor;</code>
-<code>borderRightColor: currentColor;</code></td>
+    <td><code>borderLeftColor: currentColor;</code><br><code>borderRightColor: currentColor;</code></td>
   </tr>
   <tr>
     <td><code>border-x-cyan-100</code></td>
-    <td><code>borderLeftColor: #CFFAFE;</code>
-<code>borderRightColor: #CFFAFE;</code></td>
+    <td><code>borderLeftColor: #CFFAFE;</code><br><code>borderRightColor: #CFFAFE;</code></td>
   </tr>
   <tr>
     <td><code>border-x-cyan-200</code></td>
-    <td><code>borderLeftColor: #A5F3FC;</code>
-<code>borderRightColor: #A5F3FC;</code></td>
+    <td><code>borderLeftColor: #A5F3FC;</code><br><code>borderRightColor: #A5F3FC;</code></td>
   </tr>
   <tr>
     <td><code>border-x-cyan-300</code></td>
-    <td><code>borderLeftColor: #67E8F9;</code>
-<code>borderRightColor: #67E8F9;</code></td>
+    <td><code>borderLeftColor: #67E8F9;</code><br><code>borderRightColor: #67E8F9;</code></td>
   </tr>
   <tr>
     <td><code>border-x-cyan-400</code></td>
-    <td><code>borderLeftColor: #22D3EE;</code>
-<code>borderRightColor: #22D3EE;</code></td>
+    <td><code>borderLeftColor: #22D3EE;</code><br><code>borderRightColor: #22D3EE;</code></td>
   </tr>
   <tr>
     <td><code>border-x-cyan-50</code></td>
-    <td><code>borderLeftColor: #ECFEFF;</code>
-<code>borderRightColor: #ECFEFF;</code></td>
+    <td><code>borderLeftColor: #ECFEFF;</code><br><code>borderRightColor: #ECFEFF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-cyan-500</code></td>
-    <td><code>borderLeftColor: #06B6D4;</code>
-<code>borderRightColor: #06B6D4;</code></td>
+    <td><code>borderLeftColor: #06B6D4;</code><br><code>borderRightColor: #06B6D4;</code></td>
   </tr>
   <tr>
     <td><code>border-x-cyan-600</code></td>
-    <td><code>borderLeftColor: #0891B2;</code>
-<code>borderRightColor: #0891B2;</code></td>
+    <td><code>borderLeftColor: #0891B2;</code><br><code>borderRightColor: #0891B2;</code></td>
   </tr>
   <tr>
     <td><code>border-x-cyan-700</code></td>
-    <td><code>borderLeftColor: #0E7490;</code>
-<code>borderRightColor: #0E7490;</code></td>
+    <td><code>borderLeftColor: #0E7490;</code><br><code>borderRightColor: #0E7490;</code></td>
   </tr>
   <tr>
     <td><code>border-x-cyan-800</code></td>
-    <td><code>borderLeftColor: #155E75;</code>
-<code>borderRightColor: #155E75;</code></td>
+    <td><code>borderLeftColor: #155E75;</code><br><code>borderRightColor: #155E75;</code></td>
   </tr>
   <tr>
     <td><code>border-x-cyan-900</code></td>
-    <td><code>borderLeftColor: #164E63;</code>
-<code>borderRightColor: #164E63;</code></td>
+    <td><code>borderLeftColor: #164E63;</code><br><code>borderRightColor: #164E63;</code></td>
   </tr>
   <tr>
     <td><code>border-x-cyan-950</code></td>
-    <td><code>borderLeftColor: #083344;</code>
-<code>borderRightColor: #083344;</code></td>
+    <td><code>borderLeftColor: #083344;</code><br><code>borderRightColor: #083344;</code></td>
   </tr>
   <tr>
     <td><code>border-x-emerald-100</code></td>
-    <td><code>borderLeftColor: #D1FAE5;</code>
-<code>borderRightColor: #D1FAE5;</code></td>
+    <td><code>borderLeftColor: #D1FAE5;</code><br><code>borderRightColor: #D1FAE5;</code></td>
   </tr>
   <tr>
     <td><code>border-x-emerald-200</code></td>
-    <td><code>borderLeftColor: #A7F3D0;</code>
-<code>borderRightColor: #A7F3D0;</code></td>
+    <td><code>borderLeftColor: #A7F3D0;</code><br><code>borderRightColor: #A7F3D0;</code></td>
   </tr>
   <tr>
     <td><code>border-x-emerald-300</code></td>
-    <td><code>borderLeftColor: #6EE7B7;</code>
-<code>borderRightColor: #6EE7B7;</code></td>
+    <td><code>borderLeftColor: #6EE7B7;</code><br><code>borderRightColor: #6EE7B7;</code></td>
   </tr>
   <tr>
     <td><code>border-x-emerald-400</code></td>
-    <td><code>borderLeftColor: #34D399;</code>
-<code>borderRightColor: #34D399;</code></td>
+    <td><code>borderLeftColor: #34D399;</code><br><code>borderRightColor: #34D399;</code></td>
   </tr>
   <tr>
     <td><code>border-x-emerald-50</code></td>
-    <td><code>borderLeftColor: #ECFDF5;</code>
-<code>borderRightColor: #ECFDF5;</code></td>
+    <td><code>borderLeftColor: #ECFDF5;</code><br><code>borderRightColor: #ECFDF5;</code></td>
   </tr>
   <tr>
     <td><code>border-x-emerald-500</code></td>
-    <td><code>borderLeftColor: #10B981;</code>
-<code>borderRightColor: #10B981;</code></td>
+    <td><code>borderLeftColor: #10B981;</code><br><code>borderRightColor: #10B981;</code></td>
   </tr>
   <tr>
     <td><code>border-x-emerald-600</code></td>
-    <td><code>borderLeftColor: #059669;</code>
-<code>borderRightColor: #059669;</code></td>
+    <td><code>borderLeftColor: #059669;</code><br><code>borderRightColor: #059669;</code></td>
   </tr>
   <tr>
     <td><code>border-x-emerald-700</code></td>
-    <td><code>borderLeftColor: #047857;</code>
-<code>borderRightColor: #047857;</code></td>
+    <td><code>borderLeftColor: #047857;</code><br><code>borderRightColor: #047857;</code></td>
   </tr>
   <tr>
     <td><code>border-x-emerald-800</code></td>
-    <td><code>borderLeftColor: #065F46;</code>
-<code>borderRightColor: #065F46;</code></td>
+    <td><code>borderLeftColor: #065F46;</code><br><code>borderRightColor: #065F46;</code></td>
   </tr>
   <tr>
     <td><code>border-x-emerald-900</code></td>
-    <td><code>borderLeftColor: #064E3B;</code>
-<code>borderRightColor: #064E3B;</code></td>
+    <td><code>borderLeftColor: #064E3B;</code><br><code>borderRightColor: #064E3B;</code></td>
   </tr>
   <tr>
     <td><code>border-x-emerald-950</code></td>
-    <td><code>borderLeftColor: #022C22;</code>
-<code>borderRightColor: #022C22;</code></td>
+    <td><code>borderLeftColor: #022C22;</code><br><code>borderRightColor: #022C22;</code></td>
   </tr>
   <tr>
     <td><code>border-x-fuchsia-100</code></td>
-    <td><code>borderLeftColor: #FAE8FF;</code>
-<code>borderRightColor: #FAE8FF;</code></td>
+    <td><code>borderLeftColor: #FAE8FF;</code><br><code>borderRightColor: #FAE8FF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-fuchsia-200</code></td>
-    <td><code>borderLeftColor: #F5D0FE;</code>
-<code>borderRightColor: #F5D0FE;</code></td>
+    <td><code>borderLeftColor: #F5D0FE;</code><br><code>borderRightColor: #F5D0FE;</code></td>
   </tr>
   <tr>
     <td><code>border-x-fuchsia-300</code></td>
-    <td><code>borderLeftColor: #F0ABFC;</code>
-<code>borderRightColor: #F0ABFC;</code></td>
+    <td><code>borderLeftColor: #F0ABFC;</code><br><code>borderRightColor: #F0ABFC;</code></td>
   </tr>
   <tr>
     <td><code>border-x-fuchsia-400</code></td>
-    <td><code>borderLeftColor: #E879F9;</code>
-<code>borderRightColor: #E879F9;</code></td>
+    <td><code>borderLeftColor: #E879F9;</code><br><code>borderRightColor: #E879F9;</code></td>
   </tr>
   <tr>
     <td><code>border-x-fuchsia-50</code></td>
-    <td><code>borderLeftColor: #FDF4FF;</code>
-<code>borderRightColor: #FDF4FF;</code></td>
+    <td><code>borderLeftColor: #FDF4FF;</code><br><code>borderRightColor: #FDF4FF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-fuchsia-500</code></td>
-    <td><code>borderLeftColor: #D946EF;</code>
-<code>borderRightColor: #D946EF;</code></td>
+    <td><code>borderLeftColor: #D946EF;</code><br><code>borderRightColor: #D946EF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-fuchsia-600</code></td>
-    <td><code>borderLeftColor: #C026D3;</code>
-<code>borderRightColor: #C026D3;</code></td>
+    <td><code>borderLeftColor: #C026D3;</code><br><code>borderRightColor: #C026D3;</code></td>
   </tr>
   <tr>
     <td><code>border-x-fuchsia-700</code></td>
-    <td><code>borderLeftColor: #A21CAF;</code>
-<code>borderRightColor: #A21CAF;</code></td>
+    <td><code>borderLeftColor: #A21CAF;</code><br><code>borderRightColor: #A21CAF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-fuchsia-800</code></td>
-    <td><code>borderLeftColor: #86198F;</code>
-<code>borderRightColor: #86198F;</code></td>
+    <td><code>borderLeftColor: #86198F;</code><br><code>borderRightColor: #86198F;</code></td>
   </tr>
   <tr>
     <td><code>border-x-fuchsia-900</code></td>
-    <td><code>borderLeftColor: #701A75;</code>
-<code>borderRightColor: #701A75;</code></td>
+    <td><code>borderLeftColor: #701A75;</code><br><code>borderRightColor: #701A75;</code></td>
   </tr>
   <tr>
     <td><code>border-x-fuchsia-950</code></td>
-    <td><code>borderLeftColor: #4A044E;</code>
-<code>borderRightColor: #4A044E;</code></td>
+    <td><code>borderLeftColor: #4A044E;</code><br><code>borderRightColor: #4A044E;</code></td>
   </tr>
   <tr>
     <td><code>border-x-gray-100</code></td>
-    <td><code>borderLeftColor: #F3F4F6;</code>
-<code>borderRightColor: #F3F4F6;</code></td>
+    <td><code>borderLeftColor: #F3F4F6;</code><br><code>borderRightColor: #F3F4F6;</code></td>
   </tr>
   <tr>
     <td><code>border-x-gray-200</code></td>
-    <td><code>borderLeftColor: #E5E7EB;</code>
-<code>borderRightColor: #E5E7EB;</code></td>
+    <td><code>borderLeftColor: #E5E7EB;</code><br><code>borderRightColor: #E5E7EB;</code></td>
   </tr>
   <tr>
     <td><code>border-x-gray-300</code></td>
-    <td><code>borderLeftColor: #D1D5DB;</code>
-<code>borderRightColor: #D1D5DB;</code></td>
+    <td><code>borderLeftColor: #D1D5DB;</code><br><code>borderRightColor: #D1D5DB;</code></td>
   </tr>
   <tr>
     <td><code>border-x-gray-400</code></td>
-    <td><code>borderLeftColor: #9CA3AF;</code>
-<code>borderRightColor: #9CA3AF;</code></td>
+    <td><code>borderLeftColor: #9CA3AF;</code><br><code>borderRightColor: #9CA3AF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-gray-50</code></td>
-    <td><code>borderLeftColor: #F9FAFB;</code>
-<code>borderRightColor: #F9FAFB;</code></td>
+    <td><code>borderLeftColor: #F9FAFB;</code><br><code>borderRightColor: #F9FAFB;</code></td>
   </tr>
   <tr>
     <td><code>border-x-gray-500</code></td>
-    <td><code>borderLeftColor: #6B7280;</code>
-<code>borderRightColor: #6B7280;</code></td>
+    <td><code>borderLeftColor: #6B7280;</code><br><code>borderRightColor: #6B7280;</code></td>
   </tr>
   <tr>
     <td><code>border-x-gray-600</code></td>
-    <td><code>borderLeftColor: #4B5563;</code>
-<code>borderRightColor: #4B5563;</code></td>
+    <td><code>borderLeftColor: #4B5563;</code><br><code>borderRightColor: #4B5563;</code></td>
   </tr>
   <tr>
     <td><code>border-x-gray-700</code></td>
-    <td><code>borderLeftColor: #374151;</code>
-<code>borderRightColor: #374151;</code></td>
+    <td><code>borderLeftColor: #374151;</code><br><code>borderRightColor: #374151;</code></td>
   </tr>
   <tr>
     <td><code>border-x-gray-800</code></td>
-    <td><code>borderLeftColor: #1F2937;</code>
-<code>borderRightColor: #1F2937;</code></td>
+    <td><code>borderLeftColor: #1F2937;</code><br><code>borderRightColor: #1F2937;</code></td>
   </tr>
   <tr>
     <td><code>border-x-gray-900</code></td>
-    <td><code>borderLeftColor: #111827;</code>
-<code>borderRightColor: #111827;</code></td>
+    <td><code>borderLeftColor: #111827;</code><br><code>borderRightColor: #111827;</code></td>
   </tr>
   <tr>
     <td><code>border-x-gray-950</code></td>
-    <td><code>borderLeftColor: #030712;</code>
-<code>borderRightColor: #030712;</code></td>
+    <td><code>borderLeftColor: #030712;</code><br><code>borderRightColor: #030712;</code></td>
   </tr>
   <tr>
     <td><code>border-x-green-100</code></td>
-    <td><code>borderLeftColor: #DCFCE7;</code>
-<code>borderRightColor: #DCFCE7;</code></td>
+    <td><code>borderLeftColor: #DCFCE7;</code><br><code>borderRightColor: #DCFCE7;</code></td>
   </tr>
   <tr>
     <td><code>border-x-green-200</code></td>
-    <td><code>borderLeftColor: #BBF7D0;</code>
-<code>borderRightColor: #BBF7D0;</code></td>
+    <td><code>borderLeftColor: #BBF7D0;</code><br><code>borderRightColor: #BBF7D0;</code></td>
   </tr>
   <tr>
     <td><code>border-x-green-300</code></td>
-    <td><code>borderLeftColor: #86EFAC;</code>
-<code>borderRightColor: #86EFAC;</code></td>
+    <td><code>borderLeftColor: #86EFAC;</code><br><code>borderRightColor: #86EFAC;</code></td>
   </tr>
   <tr>
     <td><code>border-x-green-400</code></td>
-    <td><code>borderLeftColor: #4ADE80;</code>
-<code>borderRightColor: #4ADE80;</code></td>
+    <td><code>borderLeftColor: #4ADE80;</code><br><code>borderRightColor: #4ADE80;</code></td>
   </tr>
   <tr>
     <td><code>border-x-green-50</code></td>
-    <td><code>borderLeftColor: #F0FDF4;</code>
-<code>borderRightColor: #F0FDF4;</code></td>
+    <td><code>borderLeftColor: #F0FDF4;</code><br><code>borderRightColor: #F0FDF4;</code></td>
   </tr>
   <tr>
     <td><code>border-x-green-500</code></td>
-    <td><code>borderLeftColor: #22C55E;</code>
-<code>borderRightColor: #22C55E;</code></td>
+    <td><code>borderLeftColor: #22C55E;</code><br><code>borderRightColor: #22C55E;</code></td>
   </tr>
   <tr>
     <td><code>border-x-green-600</code></td>
-    <td><code>borderLeftColor: #16A34A;</code>
-<code>borderRightColor: #16A34A;</code></td>
+    <td><code>borderLeftColor: #16A34A;</code><br><code>borderRightColor: #16A34A;</code></td>
   </tr>
   <tr>
     <td><code>border-x-green-700</code></td>
-    <td><code>borderLeftColor: #15803D;</code>
-<code>borderRightColor: #15803D;</code></td>
+    <td><code>borderLeftColor: #15803D;</code><br><code>borderRightColor: #15803D;</code></td>
   </tr>
   <tr>
     <td><code>border-x-green-800</code></td>
-    <td><code>borderLeftColor: #166534;</code>
-<code>borderRightColor: #166534;</code></td>
+    <td><code>borderLeftColor: #166534;</code><br><code>borderRightColor: #166534;</code></td>
   </tr>
   <tr>
     <td><code>border-x-green-900</code></td>
-    <td><code>borderLeftColor: #14532D;</code>
-<code>borderRightColor: #14532D;</code></td>
+    <td><code>borderLeftColor: #14532D;</code><br><code>borderRightColor: #14532D;</code></td>
   </tr>
   <tr>
     <td><code>border-x-green-950</code></td>
-    <td><code>borderLeftColor: #052E16;</code>
-<code>borderRightColor: #052E16;</code></td>
+    <td><code>borderLeftColor: #052E16;</code><br><code>borderRightColor: #052E16;</code></td>
   </tr>
   <tr>
     <td><code>border-x-indigo-100</code></td>
-    <td><code>borderLeftColor: #E0E7FF;</code>
-<code>borderRightColor: #E0E7FF;</code></td>
+    <td><code>borderLeftColor: #E0E7FF;</code><br><code>borderRightColor: #E0E7FF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-indigo-200</code></td>
-    <td><code>borderLeftColor: #C7D2FE;</code>
-<code>borderRightColor: #C7D2FE;</code></td>
+    <td><code>borderLeftColor: #C7D2FE;</code><br><code>borderRightColor: #C7D2FE;</code></td>
   </tr>
   <tr>
     <td><code>border-x-indigo-300</code></td>
-    <td><code>borderLeftColor: #A5B4FC;</code>
-<code>borderRightColor: #A5B4FC;</code></td>
+    <td><code>borderLeftColor: #A5B4FC;</code><br><code>borderRightColor: #A5B4FC;</code></td>
   </tr>
   <tr>
     <td><code>border-x-indigo-400</code></td>
-    <td><code>borderLeftColor: #818CF8;</code>
-<code>borderRightColor: #818CF8;</code></td>
+    <td><code>borderLeftColor: #818CF8;</code><br><code>borderRightColor: #818CF8;</code></td>
   </tr>
   <tr>
     <td><code>border-x-indigo-50</code></td>
-    <td><code>borderLeftColor: #EEF2FF;</code>
-<code>borderRightColor: #EEF2FF;</code></td>
+    <td><code>borderLeftColor: #EEF2FF;</code><br><code>borderRightColor: #EEF2FF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-indigo-500</code></td>
-    <td><code>borderLeftColor: #6366F1;</code>
-<code>borderRightColor: #6366F1;</code></td>
+    <td><code>borderLeftColor: #6366F1;</code><br><code>borderRightColor: #6366F1;</code></td>
   </tr>
   <tr>
     <td><code>border-x-indigo-600</code></td>
-    <td><code>borderLeftColor: #4F46E5;</code>
-<code>borderRightColor: #4F46E5;</code></td>
+    <td><code>borderLeftColor: #4F46E5;</code><br><code>borderRightColor: #4F46E5;</code></td>
   </tr>
   <tr>
     <td><code>border-x-indigo-700</code></td>
-    <td><code>borderLeftColor: #4338CA;</code>
-<code>borderRightColor: #4338CA;</code></td>
+    <td><code>borderLeftColor: #4338CA;</code><br><code>borderRightColor: #4338CA;</code></td>
   </tr>
   <tr>
     <td><code>border-x-indigo-800</code></td>
-    <td><code>borderLeftColor: #3730A3;</code>
-<code>borderRightColor: #3730A3;</code></td>
+    <td><code>borderLeftColor: #3730A3;</code><br><code>borderRightColor: #3730A3;</code></td>
   </tr>
   <tr>
     <td><code>border-x-indigo-900</code></td>
-    <td><code>borderLeftColor: #312E81;</code>
-<code>borderRightColor: #312E81;</code></td>
+    <td><code>borderLeftColor: #312E81;</code><br><code>borderRightColor: #312E81;</code></td>
   </tr>
   <tr>
     <td><code>border-x-indigo-950</code></td>
-    <td><code>borderLeftColor: #1E1B4B;</code>
-<code>borderRightColor: #1E1B4B;</code></td>
+    <td><code>borderLeftColor: #1E1B4B;</code><br><code>borderRightColor: #1E1B4B;</code></td>
   </tr>
   <tr>
     <td><code>border-x-inherit</code></td>
-    <td><code>borderLeftColor: inherit;</code>
-<code>borderRightColor: inherit;</code></td>
+    <td><code>borderLeftColor: inherit;</code><br><code>borderRightColor: inherit;</code></td>
   </tr>
   <tr>
     <td><code>border-x-lime-100</code></td>
-    <td><code>borderLeftColor: #ECFCCB;</code>
-<code>borderRightColor: #ECFCCB;</code></td>
+    <td><code>borderLeftColor: #ECFCCB;</code><br><code>borderRightColor: #ECFCCB;</code></td>
   </tr>
   <tr>
     <td><code>border-x-lime-200</code></td>
-    <td><code>borderLeftColor: #D9F99D;</code>
-<code>borderRightColor: #D9F99D;</code></td>
+    <td><code>borderLeftColor: #D9F99D;</code><br><code>borderRightColor: #D9F99D;</code></td>
   </tr>
   <tr>
     <td><code>border-x-lime-300</code></td>
-    <td><code>borderLeftColor: #BEF264;</code>
-<code>borderRightColor: #BEF264;</code></td>
+    <td><code>borderLeftColor: #BEF264;</code><br><code>borderRightColor: #BEF264;</code></td>
   </tr>
   <tr>
     <td><code>border-x-lime-400</code></td>
-    <td><code>borderLeftColor: #A3E635;</code>
-<code>borderRightColor: #A3E635;</code></td>
+    <td><code>borderLeftColor: #A3E635;</code><br><code>borderRightColor: #A3E635;</code></td>
   </tr>
   <tr>
     <td><code>border-x-lime-50</code></td>
-    <td><code>borderLeftColor: #F7FEE7;</code>
-<code>borderRightColor: #F7FEE7;</code></td>
+    <td><code>borderLeftColor: #F7FEE7;</code><br><code>borderRightColor: #F7FEE7;</code></td>
   </tr>
   <tr>
     <td><code>border-x-lime-500</code></td>
-    <td><code>borderLeftColor: #84CC16;</code>
-<code>borderRightColor: #84CC16;</code></td>
+    <td><code>borderLeftColor: #84CC16;</code><br><code>borderRightColor: #84CC16;</code></td>
   </tr>
   <tr>
     <td><code>border-x-lime-600</code></td>
-    <td><code>borderLeftColor: #65A30D;</code>
-<code>borderRightColor: #65A30D;</code></td>
+    <td><code>borderLeftColor: #65A30D;</code><br><code>borderRightColor: #65A30D;</code></td>
   </tr>
   <tr>
     <td><code>border-x-lime-700</code></td>
-    <td><code>borderLeftColor: #4D7C0F;</code>
-<code>borderRightColor: #4D7C0F;</code></td>
+    <td><code>borderLeftColor: #4D7C0F;</code><br><code>borderRightColor: #4D7C0F;</code></td>
   </tr>
   <tr>
     <td><code>border-x-lime-800</code></td>
-    <td><code>borderLeftColor: #3F6212;</code>
-<code>borderRightColor: #3F6212;</code></td>
+    <td><code>borderLeftColor: #3F6212;</code><br><code>borderRightColor: #3F6212;</code></td>
   </tr>
   <tr>
     <td><code>border-x-lime-900</code></td>
-    <td><code>borderLeftColor: #365314;</code>
-<code>borderRightColor: #365314;</code></td>
+    <td><code>borderLeftColor: #365314;</code><br><code>borderRightColor: #365314;</code></td>
   </tr>
   <tr>
     <td><code>border-x-lime-950</code></td>
-    <td><code>borderLeftColor: #1A2E05;</code>
-<code>borderRightColor: #1A2E05;</code></td>
+    <td><code>borderLeftColor: #1A2E05;</code><br><code>borderRightColor: #1A2E05;</code></td>
   </tr>
   <tr>
     <td><code>border-x-neutral-100</code></td>
-    <td><code>borderLeftColor: #F5F5F5;</code>
-<code>borderRightColor: #F5F5F5;</code></td>
+    <td><code>borderLeftColor: #F5F5F5;</code><br><code>borderRightColor: #F5F5F5;</code></td>
   </tr>
   <tr>
     <td><code>border-x-neutral-200</code></td>
-    <td><code>borderLeftColor: #E5E5E5;</code>
-<code>borderRightColor: #E5E5E5;</code></td>
+    <td><code>borderLeftColor: #E5E5E5;</code><br><code>borderRightColor: #E5E5E5;</code></td>
   </tr>
   <tr>
     <td><code>border-x-neutral-300</code></td>
-    <td><code>borderLeftColor: #D4D4D4;</code>
-<code>borderRightColor: #D4D4D4;</code></td>
+    <td><code>borderLeftColor: #D4D4D4;</code><br><code>borderRightColor: #D4D4D4;</code></td>
   </tr>
   <tr>
     <td><code>border-x-neutral-400</code></td>
-    <td><code>borderLeftColor: #A3A3A3;</code>
-<code>borderRightColor: #A3A3A3;</code></td>
+    <td><code>borderLeftColor: #A3A3A3;</code><br><code>borderRightColor: #A3A3A3;</code></td>
   </tr>
   <tr>
     <td><code>border-x-neutral-50</code></td>
-    <td><code>borderLeftColor: #FAFAFA;</code>
-<code>borderRightColor: #FAFAFA;</code></td>
+    <td><code>borderLeftColor: #FAFAFA;</code><br><code>borderRightColor: #FAFAFA;</code></td>
   </tr>
   <tr>
     <td><code>border-x-neutral-500</code></td>
-    <td><code>borderLeftColor: #737373;</code>
-<code>borderRightColor: #737373;</code></td>
+    <td><code>borderLeftColor: #737373;</code><br><code>borderRightColor: #737373;</code></td>
   </tr>
   <tr>
     <td><code>border-x-neutral-600</code></td>
-    <td><code>borderLeftColor: #525252;</code>
-<code>borderRightColor: #525252;</code></td>
+    <td><code>borderLeftColor: #525252;</code><br><code>borderRightColor: #525252;</code></td>
   </tr>
   <tr>
     <td><code>border-x-neutral-700</code></td>
-    <td><code>borderLeftColor: #404040;</code>
-<code>borderRightColor: #404040;</code></td>
+    <td><code>borderLeftColor: #404040;</code><br><code>borderRightColor: #404040;</code></td>
   </tr>
   <tr>
     <td><code>border-x-neutral-800</code></td>
-    <td><code>borderLeftColor: #262626;</code>
-<code>borderRightColor: #262626;</code></td>
+    <td><code>borderLeftColor: #262626;</code><br><code>borderRightColor: #262626;</code></td>
   </tr>
   <tr>
     <td><code>border-x-neutral-900</code></td>
-    <td><code>borderLeftColor: #171717;</code>
-<code>borderRightColor: #171717;</code></td>
+    <td><code>borderLeftColor: #171717;</code><br><code>borderRightColor: #171717;</code></td>
   </tr>
   <tr>
     <td><code>border-x-neutral-950</code></td>
-    <td><code>borderLeftColor: #0A0A0A;</code>
-<code>borderRightColor: #0A0A0A;</code></td>
+    <td><code>borderLeftColor: #0A0A0A;</code><br><code>borderRightColor: #0A0A0A;</code></td>
   </tr>
   <tr>
     <td><code>border-x-orange-100</code></td>
-    <td><code>borderLeftColor: #FFEDD5;</code>
-<code>borderRightColor: #FFEDD5;</code></td>
+    <td><code>borderLeftColor: #FFEDD5;</code><br><code>borderRightColor: #FFEDD5;</code></td>
   </tr>
   <tr>
     <td><code>border-x-orange-200</code></td>
-    <td><code>borderLeftColor: #FED7AA;</code>
-<code>borderRightColor: #FED7AA;</code></td>
+    <td><code>borderLeftColor: #FED7AA;</code><br><code>borderRightColor: #FED7AA;</code></td>
   </tr>
   <tr>
     <td><code>border-x-orange-300</code></td>
-    <td><code>borderLeftColor: #FDBA74;</code>
-<code>borderRightColor: #FDBA74;</code></td>
+    <td><code>borderLeftColor: #FDBA74;</code><br><code>borderRightColor: #FDBA74;</code></td>
   </tr>
   <tr>
     <td><code>border-x-orange-400</code></td>
-    <td><code>borderLeftColor: #FB923C;</code>
-<code>borderRightColor: #FB923C;</code></td>
+    <td><code>borderLeftColor: #FB923C;</code><br><code>borderRightColor: #FB923C;</code></td>
   </tr>
   <tr>
     <td><code>border-x-orange-50</code></td>
-    <td><code>borderLeftColor: #FFF7ED;</code>
-<code>borderRightColor: #FFF7ED;</code></td>
+    <td><code>borderLeftColor: #FFF7ED;</code><br><code>borderRightColor: #FFF7ED;</code></td>
   </tr>
   <tr>
     <td><code>border-x-orange-500</code></td>
-    <td><code>borderLeftColor: #F97316;</code>
-<code>borderRightColor: #F97316;</code></td>
+    <td><code>borderLeftColor: #F97316;</code><br><code>borderRightColor: #F97316;</code></td>
   </tr>
   <tr>
     <td><code>border-x-orange-600</code></td>
-    <td><code>borderLeftColor: #EA580C;</code>
-<code>borderRightColor: #EA580C;</code></td>
+    <td><code>borderLeftColor: #EA580C;</code><br><code>borderRightColor: #EA580C;</code></td>
   </tr>
   <tr>
     <td><code>border-x-orange-700</code></td>
-    <td><code>borderLeftColor: #C2410C;</code>
-<code>borderRightColor: #C2410C;</code></td>
+    <td><code>borderLeftColor: #C2410C;</code><br><code>borderRightColor: #C2410C;</code></td>
   </tr>
   <tr>
     <td><code>border-x-orange-800</code></td>
-    <td><code>borderLeftColor: #9A3412;</code>
-<code>borderRightColor: #9A3412;</code></td>
+    <td><code>borderLeftColor: #9A3412;</code><br><code>borderRightColor: #9A3412;</code></td>
   </tr>
   <tr>
     <td><code>border-x-orange-900</code></td>
-    <td><code>borderLeftColor: #7C2D12;</code>
-<code>borderRightColor: #7C2D12;</code></td>
+    <td><code>borderLeftColor: #7C2D12;</code><br><code>borderRightColor: #7C2D12;</code></td>
   </tr>
   <tr>
     <td><code>border-x-orange-950</code></td>
-    <td><code>borderLeftColor: #431407;</code>
-<code>borderRightColor: #431407;</code></td>
+    <td><code>borderLeftColor: #431407;</code><br><code>borderRightColor: #431407;</code></td>
   </tr>
   <tr>
     <td><code>border-x-pink-100</code></td>
-    <td><code>borderLeftColor: #FCE7F3;</code>
-<code>borderRightColor: #FCE7F3;</code></td>
+    <td><code>borderLeftColor: #FCE7F3;</code><br><code>borderRightColor: #FCE7F3;</code></td>
   </tr>
   <tr>
     <td><code>border-x-pink-200</code></td>
-    <td><code>borderLeftColor: #FBCFE8;</code>
-<code>borderRightColor: #FBCFE8;</code></td>
+    <td><code>borderLeftColor: #FBCFE8;</code><br><code>borderRightColor: #FBCFE8;</code></td>
   </tr>
   <tr>
     <td><code>border-x-pink-300</code></td>
-    <td><code>borderLeftColor: #F9A8D4;</code>
-<code>borderRightColor: #F9A8D4;</code></td>
+    <td><code>borderLeftColor: #F9A8D4;</code><br><code>borderRightColor: #F9A8D4;</code></td>
   </tr>
   <tr>
     <td><code>border-x-pink-400</code></td>
-    <td><code>borderLeftColor: #F472B6;</code>
-<code>borderRightColor: #F472B6;</code></td>
+    <td><code>borderLeftColor: #F472B6;</code><br><code>borderRightColor: #F472B6;</code></td>
   </tr>
   <tr>
     <td><code>border-x-pink-50</code></td>
-    <td><code>borderLeftColor: #FDF2F8;</code>
-<code>borderRightColor: #FDF2F8;</code></td>
+    <td><code>borderLeftColor: #FDF2F8;</code><br><code>borderRightColor: #FDF2F8;</code></td>
   </tr>
   <tr>
     <td><code>border-x-pink-500</code></td>
-    <td><code>borderLeftColor: #EC4899;</code>
-<code>borderRightColor: #EC4899;</code></td>
+    <td><code>borderLeftColor: #EC4899;</code><br><code>borderRightColor: #EC4899;</code></td>
   </tr>
   <tr>
     <td><code>border-x-pink-600</code></td>
-    <td><code>borderLeftColor: #DB2777;</code>
-<code>borderRightColor: #DB2777;</code></td>
+    <td><code>borderLeftColor: #DB2777;</code><br><code>borderRightColor: #DB2777;</code></td>
   </tr>
   <tr>
     <td><code>border-x-pink-700</code></td>
-    <td><code>borderLeftColor: #BE185D;</code>
-<code>borderRightColor: #BE185D;</code></td>
+    <td><code>borderLeftColor: #BE185D;</code><br><code>borderRightColor: #BE185D;</code></td>
   </tr>
   <tr>
     <td><code>border-x-pink-800</code></td>
-    <td><code>borderLeftColor: #9D174D;</code>
-<code>borderRightColor: #9D174D;</code></td>
+    <td><code>borderLeftColor: #9D174D;</code><br><code>borderRightColor: #9D174D;</code></td>
   </tr>
   <tr>
     <td><code>border-x-pink-900</code></td>
-    <td><code>borderLeftColor: #831843;</code>
-<code>borderRightColor: #831843;</code></td>
+    <td><code>borderLeftColor: #831843;</code><br><code>borderRightColor: #831843;</code></td>
   </tr>
   <tr>
     <td><code>border-x-pink-950</code></td>
-    <td><code>borderLeftColor: #500724;</code>
-<code>borderRightColor: #500724;</code></td>
+    <td><code>borderLeftColor: #500724;</code><br><code>borderRightColor: #500724;</code></td>
   </tr>
   <tr>
     <td><code>border-x-purple-100</code></td>
-    <td><code>borderLeftColor: #F3E8FF;</code>
-<code>borderRightColor: #F3E8FF;</code></td>
+    <td><code>borderLeftColor: #F3E8FF;</code><br><code>borderRightColor: #F3E8FF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-purple-200</code></td>
-    <td><code>borderLeftColor: #E9D5FF;</code>
-<code>borderRightColor: #E9D5FF;</code></td>
+    <td><code>borderLeftColor: #E9D5FF;</code><br><code>borderRightColor: #E9D5FF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-purple-300</code></td>
-    <td><code>borderLeftColor: #D8B4FE;</code>
-<code>borderRightColor: #D8B4FE;</code></td>
+    <td><code>borderLeftColor: #D8B4FE;</code><br><code>borderRightColor: #D8B4FE;</code></td>
   </tr>
   <tr>
     <td><code>border-x-purple-400</code></td>
-    <td><code>borderLeftColor: #C084FC;</code>
-<code>borderRightColor: #C084FC;</code></td>
+    <td><code>borderLeftColor: #C084FC;</code><br><code>borderRightColor: #C084FC;</code></td>
   </tr>
   <tr>
     <td><code>border-x-purple-50</code></td>
-    <td><code>borderLeftColor: #FAF5FF;</code>
-<code>borderRightColor: #FAF5FF;</code></td>
+    <td><code>borderLeftColor: #FAF5FF;</code><br><code>borderRightColor: #FAF5FF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-purple-500</code></td>
-    <td><code>borderLeftColor: #A855F7;</code>
-<code>borderRightColor: #A855F7;</code></td>
+    <td><code>borderLeftColor: #A855F7;</code><br><code>borderRightColor: #A855F7;</code></td>
   </tr>
   <tr>
     <td><code>border-x-purple-600</code></td>
-    <td><code>borderLeftColor: #9333EA;</code>
-<code>borderRightColor: #9333EA;</code></td>
+    <td><code>borderLeftColor: #9333EA;</code><br><code>borderRightColor: #9333EA;</code></td>
   </tr>
   <tr>
     <td><code>border-x-purple-700</code></td>
-    <td><code>borderLeftColor: #7E22CE;</code>
-<code>borderRightColor: #7E22CE;</code></td>
+    <td><code>borderLeftColor: #7E22CE;</code><br><code>borderRightColor: #7E22CE;</code></td>
   </tr>
   <tr>
     <td><code>border-x-purple-800</code></td>
-    <td><code>borderLeftColor: #6B21A8;</code>
-<code>borderRightColor: #6B21A8;</code></td>
+    <td><code>borderLeftColor: #6B21A8;</code><br><code>borderRightColor: #6B21A8;</code></td>
   </tr>
   <tr>
     <td><code>border-x-purple-900</code></td>
-    <td><code>borderLeftColor: #581C87;</code>
-<code>borderRightColor: #581C87;</code></td>
+    <td><code>borderLeftColor: #581C87;</code><br><code>borderRightColor: #581C87;</code></td>
   </tr>
   <tr>
     <td><code>border-x-purple-950</code></td>
-    <td><code>borderLeftColor: #3B0764;</code>
-<code>borderRightColor: #3B0764;</code></td>
+    <td><code>borderLeftColor: #3B0764;</code><br><code>borderRightColor: #3B0764;</code></td>
   </tr>
   <tr>
     <td><code>border-x-red-100</code></td>
-    <td><code>borderLeftColor: #FEE2E2;</code>
-<code>borderRightColor: #FEE2E2;</code></td>
+    <td><code>borderLeftColor: #FEE2E2;</code><br><code>borderRightColor: #FEE2E2;</code></td>
   </tr>
   <tr>
     <td><code>border-x-red-200</code></td>
-    <td><code>borderLeftColor: #FECACA;</code>
-<code>borderRightColor: #FECACA;</code></td>
+    <td><code>borderLeftColor: #FECACA;</code><br><code>borderRightColor: #FECACA;</code></td>
   </tr>
   <tr>
     <td><code>border-x-red-300</code></td>
-    <td><code>borderLeftColor: #FCA5A5;</code>
-<code>borderRightColor: #FCA5A5;</code></td>
+    <td><code>borderLeftColor: #FCA5A5;</code><br><code>borderRightColor: #FCA5A5;</code></td>
   </tr>
   <tr>
     <td><code>border-x-red-400</code></td>
-    <td><code>borderLeftColor: #F87171;</code>
-<code>borderRightColor: #F87171;</code></td>
+    <td><code>borderLeftColor: #F87171;</code><br><code>borderRightColor: #F87171;</code></td>
   </tr>
   <tr>
     <td><code>border-x-red-50</code></td>
-    <td><code>borderLeftColor: #FEF2F2;</code>
-<code>borderRightColor: #FEF2F2;</code></td>
+    <td><code>borderLeftColor: #FEF2F2;</code><br><code>borderRightColor: #FEF2F2;</code></td>
   </tr>
   <tr>
     <td><code>border-x-red-500</code></td>
-    <td><code>borderLeftColor: #EF4444;</code>
-<code>borderRightColor: #EF4444;</code></td>
+    <td><code>borderLeftColor: #EF4444;</code><br><code>borderRightColor: #EF4444;</code></td>
   </tr>
   <tr>
     <td><code>border-x-red-600</code></td>
-    <td><code>borderLeftColor: #DC2626;</code>
-<code>borderRightColor: #DC2626;</code></td>
+    <td><code>borderLeftColor: #DC2626;</code><br><code>borderRightColor: #DC2626;</code></td>
   </tr>
   <tr>
     <td><code>border-x-red-700</code></td>
-    <td><code>borderLeftColor: #B91C1C;</code>
-<code>borderRightColor: #B91C1C;</code></td>
+    <td><code>borderLeftColor: #B91C1C;</code><br><code>borderRightColor: #B91C1C;</code></td>
   </tr>
   <tr>
     <td><code>border-x-red-800</code></td>
-    <td><code>borderLeftColor: #991B1B;</code>
-<code>borderRightColor: #991B1B;</code></td>
+    <td><code>borderLeftColor: #991B1B;</code><br><code>borderRightColor: #991B1B;</code></td>
   </tr>
   <tr>
     <td><code>border-x-red-900</code></td>
-    <td><code>borderLeftColor: #7F1D1D;</code>
-<code>borderRightColor: #7F1D1D;</code></td>
+    <td><code>borderLeftColor: #7F1D1D;</code><br><code>borderRightColor: #7F1D1D;</code></td>
   </tr>
   <tr>
     <td><code>border-x-red-950</code></td>
-    <td><code>borderLeftColor: #450A0A;</code>
-<code>borderRightColor: #450A0A;</code></td>
+    <td><code>borderLeftColor: #450A0A;</code><br><code>borderRightColor: #450A0A;</code></td>
   </tr>
   <tr>
     <td><code>border-x-rose-100</code></td>
-    <td><code>borderLeftColor: #FFE4E6;</code>
-<code>borderRightColor: #FFE4E6;</code></td>
+    <td><code>borderLeftColor: #FFE4E6;</code><br><code>borderRightColor: #FFE4E6;</code></td>
   </tr>
   <tr>
     <td><code>border-x-rose-200</code></td>
-    <td><code>borderLeftColor: #FECDD3;</code>
-<code>borderRightColor: #FECDD3;</code></td>
+    <td><code>borderLeftColor: #FECDD3;</code><br><code>borderRightColor: #FECDD3;</code></td>
   </tr>
   <tr>
     <td><code>border-x-rose-300</code></td>
-    <td><code>borderLeftColor: #FDA4AF;</code>
-<code>borderRightColor: #FDA4AF;</code></td>
+    <td><code>borderLeftColor: #FDA4AF;</code><br><code>borderRightColor: #FDA4AF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-rose-400</code></td>
-    <td><code>borderLeftColor: #FB7185;</code>
-<code>borderRightColor: #FB7185;</code></td>
+    <td><code>borderLeftColor: #FB7185;</code><br><code>borderRightColor: #FB7185;</code></td>
   </tr>
   <tr>
     <td><code>border-x-rose-50</code></td>
-    <td><code>borderLeftColor: #FFF1F2;</code>
-<code>borderRightColor: #FFF1F2;</code></td>
+    <td><code>borderLeftColor: #FFF1F2;</code><br><code>borderRightColor: #FFF1F2;</code></td>
   </tr>
   <tr>
     <td><code>border-x-rose-500</code></td>
-    <td><code>borderLeftColor: #F43F5E;</code>
-<code>borderRightColor: #F43F5E;</code></td>
+    <td><code>borderLeftColor: #F43F5E;</code><br><code>borderRightColor: #F43F5E;</code></td>
   </tr>
   <tr>
     <td><code>border-x-rose-600</code></td>
-    <td><code>borderLeftColor: #E11D48;</code>
-<code>borderRightColor: #E11D48;</code></td>
+    <td><code>borderLeftColor: #E11D48;</code><br><code>borderRightColor: #E11D48;</code></td>
   </tr>
   <tr>
     <td><code>border-x-rose-700</code></td>
-    <td><code>borderLeftColor: #BE123C;</code>
-<code>borderRightColor: #BE123C;</code></td>
+    <td><code>borderLeftColor: #BE123C;</code><br><code>borderRightColor: #BE123C;</code></td>
   </tr>
   <tr>
     <td><code>border-x-rose-800</code></td>
-    <td><code>borderLeftColor: #9F1239;</code>
-<code>borderRightColor: #9F1239;</code></td>
+    <td><code>borderLeftColor: #9F1239;</code><br><code>borderRightColor: #9F1239;</code></td>
   </tr>
   <tr>
     <td><code>border-x-rose-900</code></td>
-    <td><code>borderLeftColor: #881337;</code>
-<code>borderRightColor: #881337;</code></td>
+    <td><code>borderLeftColor: #881337;</code><br><code>borderRightColor: #881337;</code></td>
   </tr>
   <tr>
     <td><code>border-x-rose-950</code></td>
-    <td><code>borderLeftColor: #4C0519;</code>
-<code>borderRightColor: #4C0519;</code></td>
+    <td><code>borderLeftColor: #4C0519;</code><br><code>borderRightColor: #4C0519;</code></td>
   </tr>
   <tr>
     <td><code>border-x-sky-100</code></td>
-    <td><code>borderLeftColor: #E0F2FE;</code>
-<code>borderRightColor: #E0F2FE;</code></td>
+    <td><code>borderLeftColor: #E0F2FE;</code><br><code>borderRightColor: #E0F2FE;</code></td>
   </tr>
   <tr>
     <td><code>border-x-sky-200</code></td>
-    <td><code>borderLeftColor: #BAE6FD;</code>
-<code>borderRightColor: #BAE6FD;</code></td>
+    <td><code>borderLeftColor: #BAE6FD;</code><br><code>borderRightColor: #BAE6FD;</code></td>
   </tr>
   <tr>
     <td><code>border-x-sky-300</code></td>
-    <td><code>borderLeftColor: #7DD3FC;</code>
-<code>borderRightColor: #7DD3FC;</code></td>
+    <td><code>borderLeftColor: #7DD3FC;</code><br><code>borderRightColor: #7DD3FC;</code></td>
   </tr>
   <tr>
     <td><code>border-x-sky-400</code></td>
-    <td><code>borderLeftColor: #38BDF8;</code>
-<code>borderRightColor: #38BDF8;</code></td>
+    <td><code>borderLeftColor: #38BDF8;</code><br><code>borderRightColor: #38BDF8;</code></td>
   </tr>
   <tr>
     <td><code>border-x-sky-50</code></td>
-    <td><code>borderLeftColor: #F0F9FF;</code>
-<code>borderRightColor: #F0F9FF;</code></td>
+    <td><code>borderLeftColor: #F0F9FF;</code><br><code>borderRightColor: #F0F9FF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-sky-500</code></td>
-    <td><code>borderLeftColor: #0EA5E9;</code>
-<code>borderRightColor: #0EA5E9;</code></td>
+    <td><code>borderLeftColor: #0EA5E9;</code><br><code>borderRightColor: #0EA5E9;</code></td>
   </tr>
   <tr>
     <td><code>border-x-sky-600</code></td>
-    <td><code>borderLeftColor: #0284C7;</code>
-<code>borderRightColor: #0284C7;</code></td>
+    <td><code>borderLeftColor: #0284C7;</code><br><code>borderRightColor: #0284C7;</code></td>
   </tr>
   <tr>
     <td><code>border-x-sky-700</code></td>
-    <td><code>borderLeftColor: #0369A1;</code>
-<code>borderRightColor: #0369A1;</code></td>
+    <td><code>borderLeftColor: #0369A1;</code><br><code>borderRightColor: #0369A1;</code></td>
   </tr>
   <tr>
     <td><code>border-x-sky-800</code></td>
-    <td><code>borderLeftColor: #075985;</code>
-<code>borderRightColor: #075985;</code></td>
+    <td><code>borderLeftColor: #075985;</code><br><code>borderRightColor: #075985;</code></td>
   </tr>
   <tr>
     <td><code>border-x-sky-900</code></td>
-    <td><code>borderLeftColor: #0C4A6E;</code>
-<code>borderRightColor: #0C4A6E;</code></td>
+    <td><code>borderLeftColor: #0C4A6E;</code><br><code>borderRightColor: #0C4A6E;</code></td>
   </tr>
   <tr>
     <td><code>border-x-sky-950</code></td>
-    <td><code>borderLeftColor: #082F49;</code>
-<code>borderRightColor: #082F49;</code></td>
+    <td><code>borderLeftColor: #082F49;</code><br><code>borderRightColor: #082F49;</code></td>
   </tr>
   <tr>
     <td><code>border-x-slate-100</code></td>
-    <td><code>borderLeftColor: #F1F5F9;</code>
-<code>borderRightColor: #F1F5F9;</code></td>
+    <td><code>borderLeftColor: #F1F5F9;</code><br><code>borderRightColor: #F1F5F9;</code></td>
   </tr>
   <tr>
     <td><code>border-x-slate-200</code></td>
-    <td><code>borderLeftColor: #E2E8F0;</code>
-<code>borderRightColor: #E2E8F0;</code></td>
+    <td><code>borderLeftColor: #E2E8F0;</code><br><code>borderRightColor: #E2E8F0;</code></td>
   </tr>
   <tr>
     <td><code>border-x-slate-300</code></td>
-    <td><code>borderLeftColor: #CBD5E1;</code>
-<code>borderRightColor: #CBD5E1;</code></td>
+    <td><code>borderLeftColor: #CBD5E1;</code><br><code>borderRightColor: #CBD5E1;</code></td>
   </tr>
   <tr>
     <td><code>border-x-slate-400</code></td>
-    <td><code>borderLeftColor: #94A3B8;</code>
-<code>borderRightColor: #94A3B8;</code></td>
+    <td><code>borderLeftColor: #94A3B8;</code><br><code>borderRightColor: #94A3B8;</code></td>
   </tr>
   <tr>
     <td><code>border-x-slate-50</code></td>
-    <td><code>borderLeftColor: #F8FAFC;</code>
-<code>borderRightColor: #F8FAFC;</code></td>
+    <td><code>borderLeftColor: #F8FAFC;</code><br><code>borderRightColor: #F8FAFC;</code></td>
   </tr>
   <tr>
     <td><code>border-x-slate-500</code></td>
-    <td><code>borderLeftColor: #64748B;</code>
-<code>borderRightColor: #64748B;</code></td>
+    <td><code>borderLeftColor: #64748B;</code><br><code>borderRightColor: #64748B;</code></td>
   </tr>
   <tr>
     <td><code>border-x-slate-600</code></td>
-    <td><code>borderLeftColor: #475569;</code>
-<code>borderRightColor: #475569;</code></td>
+    <td><code>borderLeftColor: #475569;</code><br><code>borderRightColor: #475569;</code></td>
   </tr>
   <tr>
     <td><code>border-x-slate-700</code></td>
-    <td><code>borderLeftColor: #334155;</code>
-<code>borderRightColor: #334155;</code></td>
+    <td><code>borderLeftColor: #334155;</code><br><code>borderRightColor: #334155;</code></td>
   </tr>
   <tr>
     <td><code>border-x-slate-800</code></td>
-    <td><code>borderLeftColor: #1E293B;</code>
-<code>borderRightColor: #1E293B;</code></td>
+    <td><code>borderLeftColor: #1E293B;</code><br><code>borderRightColor: #1E293B;</code></td>
   </tr>
   <tr>
     <td><code>border-x-slate-900</code></td>
-    <td><code>borderLeftColor: #0F172A;</code>
-<code>borderRightColor: #0F172A;</code></td>
+    <td><code>borderLeftColor: #0F172A;</code><br><code>borderRightColor: #0F172A;</code></td>
   </tr>
   <tr>
     <td><code>border-x-slate-950</code></td>
-    <td><code>borderLeftColor: #020617;</code>
-<code>borderRightColor: #020617;</code></td>
+    <td><code>borderLeftColor: #020617;</code><br><code>borderRightColor: #020617;</code></td>
   </tr>
   <tr>
     <td><code>border-x-stone-100</code></td>
-    <td><code>borderLeftColor: #F5F5F4;</code>
-<code>borderRightColor: #F5F5F4;</code></td>
+    <td><code>borderLeftColor: #F5F5F4;</code><br><code>borderRightColor: #F5F5F4;</code></td>
   </tr>
   <tr>
     <td><code>border-x-stone-200</code></td>
-    <td><code>borderLeftColor: #E7E5E4;</code>
-<code>borderRightColor: #E7E5E4;</code></td>
+    <td><code>borderLeftColor: #E7E5E4;</code><br><code>borderRightColor: #E7E5E4;</code></td>
   </tr>
   <tr>
     <td><code>border-x-stone-300</code></td>
-    <td><code>borderLeftColor: #D6D3D1;</code>
-<code>borderRightColor: #D6D3D1;</code></td>
+    <td><code>borderLeftColor: #D6D3D1;</code><br><code>borderRightColor: #D6D3D1;</code></td>
   </tr>
   <tr>
     <td><code>border-x-stone-400</code></td>
-    <td><code>borderLeftColor: #A8A29E;</code>
-<code>borderRightColor: #A8A29E;</code></td>
+    <td><code>borderLeftColor: #A8A29E;</code><br><code>borderRightColor: #A8A29E;</code></td>
   </tr>
   <tr>
     <td><code>border-x-stone-50</code></td>
-    <td><code>borderLeftColor: #FAFAF9;</code>
-<code>borderRightColor: #FAFAF9;</code></td>
+    <td><code>borderLeftColor: #FAFAF9;</code><br><code>borderRightColor: #FAFAF9;</code></td>
   </tr>
   <tr>
     <td><code>border-x-stone-500</code></td>
-    <td><code>borderLeftColor: #78716C;</code>
-<code>borderRightColor: #78716C;</code></td>
+    <td><code>borderLeftColor: #78716C;</code><br><code>borderRightColor: #78716C;</code></td>
   </tr>
   <tr>
     <td><code>border-x-stone-600</code></td>
-    <td><code>borderLeftColor: #57534E;</code>
-<code>borderRightColor: #57534E;</code></td>
+    <td><code>borderLeftColor: #57534E;</code><br><code>borderRightColor: #57534E;</code></td>
   </tr>
   <tr>
     <td><code>border-x-stone-700</code></td>
-    <td><code>borderLeftColor: #44403C;</code>
-<code>borderRightColor: #44403C;</code></td>
+    <td><code>borderLeftColor: #44403C;</code><br><code>borderRightColor: #44403C;</code></td>
   </tr>
   <tr>
     <td><code>border-x-stone-800</code></td>
-    <td><code>borderLeftColor: #292524;</code>
-<code>borderRightColor: #292524;</code></td>
+    <td><code>borderLeftColor: #292524;</code><br><code>borderRightColor: #292524;</code></td>
   </tr>
   <tr>
     <td><code>border-x-stone-900</code></td>
-    <td><code>borderLeftColor: #1C1917;</code>
-<code>borderRightColor: #1C1917;</code></td>
+    <td><code>borderLeftColor: #1C1917;</code><br><code>borderRightColor: #1C1917;</code></td>
   </tr>
   <tr>
     <td><code>border-x-stone-950</code></td>
-    <td><code>borderLeftColor: #0C0A09;</code>
-<code>borderRightColor: #0C0A09;</code></td>
+    <td><code>borderLeftColor: #0C0A09;</code><br><code>borderRightColor: #0C0A09;</code></td>
   </tr>
   <tr>
     <td><code>border-x-teal-100</code></td>
-    <td><code>borderLeftColor: #CCFBF1;</code>
-<code>borderRightColor: #CCFBF1;</code></td>
+    <td><code>borderLeftColor: #CCFBF1;</code><br><code>borderRightColor: #CCFBF1;</code></td>
   </tr>
   <tr>
     <td><code>border-x-teal-200</code></td>
-    <td><code>borderLeftColor: #99F6E4;</code>
-<code>borderRightColor: #99F6E4;</code></td>
+    <td><code>borderLeftColor: #99F6E4;</code><br><code>borderRightColor: #99F6E4;</code></td>
   </tr>
   <tr>
     <td><code>border-x-teal-300</code></td>
-    <td><code>borderLeftColor: #5EEAD4;</code>
-<code>borderRightColor: #5EEAD4;</code></td>
+    <td><code>borderLeftColor: #5EEAD4;</code><br><code>borderRightColor: #5EEAD4;</code></td>
   </tr>
   <tr>
     <td><code>border-x-teal-400</code></td>
-    <td><code>borderLeftColor: #2DD4BF;</code>
-<code>borderRightColor: #2DD4BF;</code></td>
+    <td><code>borderLeftColor: #2DD4BF;</code><br><code>borderRightColor: #2DD4BF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-teal-50</code></td>
-    <td><code>borderLeftColor: #F0FDFA;</code>
-<code>borderRightColor: #F0FDFA;</code></td>
+    <td><code>borderLeftColor: #F0FDFA;</code><br><code>borderRightColor: #F0FDFA;</code></td>
   </tr>
   <tr>
     <td><code>border-x-teal-500</code></td>
-    <td><code>borderLeftColor: #14B8A6;</code>
-<code>borderRightColor: #14B8A6;</code></td>
+    <td><code>borderLeftColor: #14B8A6;</code><br><code>borderRightColor: #14B8A6;</code></td>
   </tr>
   <tr>
     <td><code>border-x-teal-600</code></td>
-    <td><code>borderLeftColor: #0D9488;</code>
-<code>borderRightColor: #0D9488;</code></td>
+    <td><code>borderLeftColor: #0D9488;</code><br><code>borderRightColor: #0D9488;</code></td>
   </tr>
   <tr>
     <td><code>border-x-teal-700</code></td>
-    <td><code>borderLeftColor: #0F766E;</code>
-<code>borderRightColor: #0F766E;</code></td>
+    <td><code>borderLeftColor: #0F766E;</code><br><code>borderRightColor: #0F766E;</code></td>
   </tr>
   <tr>
     <td><code>border-x-teal-800</code></td>
-    <td><code>borderLeftColor: #115E59;</code>
-<code>borderRightColor: #115E59;</code></td>
+    <td><code>borderLeftColor: #115E59;</code><br><code>borderRightColor: #115E59;</code></td>
   </tr>
   <tr>
     <td><code>border-x-teal-900</code></td>
-    <td><code>borderLeftColor: #134E4A;</code>
-<code>borderRightColor: #134E4A;</code></td>
+    <td><code>borderLeftColor: #134E4A;</code><br><code>borderRightColor: #134E4A;</code></td>
   </tr>
   <tr>
     <td><code>border-x-teal-950</code></td>
-    <td><code>borderLeftColor: #042F2E;</code>
-<code>borderRightColor: #042F2E;</code></td>
+    <td><code>borderLeftColor: #042F2E;</code><br><code>borderRightColor: #042F2E;</code></td>
   </tr>
   <tr>
     <td><code>border-x-transparent</code></td>
-    <td><code>borderLeftColor: transparent;</code>
-<code>borderRightColor: transparent;</code></td>
+    <td><code>borderLeftColor: transparent;</code><br><code>borderRightColor: transparent;</code></td>
   </tr>
   <tr>
     <td><code>border-x-violet-100</code></td>
-    <td><code>borderLeftColor: #EDE9FE;</code>
-<code>borderRightColor: #EDE9FE;</code></td>
+    <td><code>borderLeftColor: #EDE9FE;</code><br><code>borderRightColor: #EDE9FE;</code></td>
   </tr>
   <tr>
     <td><code>border-x-violet-200</code></td>
-    <td><code>borderLeftColor: #DDD6FE;</code>
-<code>borderRightColor: #DDD6FE;</code></td>
+    <td><code>borderLeftColor: #DDD6FE;</code><br><code>borderRightColor: #DDD6FE;</code></td>
   </tr>
   <tr>
     <td><code>border-x-violet-300</code></td>
-    <td><code>borderLeftColor: #C4B5FD;</code>
-<code>borderRightColor: #C4B5FD;</code></td>
+    <td><code>borderLeftColor: #C4B5FD;</code><br><code>borderRightColor: #C4B5FD;</code></td>
   </tr>
   <tr>
     <td><code>border-x-violet-400</code></td>
-    <td><code>borderLeftColor: #A78BFA;</code>
-<code>borderRightColor: #A78BFA;</code></td>
+    <td><code>borderLeftColor: #A78BFA;</code><br><code>borderRightColor: #A78BFA;</code></td>
   </tr>
   <tr>
     <td><code>border-x-violet-50</code></td>
-    <td><code>borderLeftColor: #F5F3FF;</code>
-<code>borderRightColor: #F5F3FF;</code></td>
+    <td><code>borderLeftColor: #F5F3FF;</code><br><code>borderRightColor: #F5F3FF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-violet-500</code></td>
-    <td><code>borderLeftColor: #8B5CF6;</code>
-<code>borderRightColor: #8B5CF6;</code></td>
+    <td><code>borderLeftColor: #8B5CF6;</code><br><code>borderRightColor: #8B5CF6;</code></td>
   </tr>
   <tr>
     <td><code>border-x-violet-600</code></td>
-    <td><code>borderLeftColor: #7C3AED;</code>
-<code>borderRightColor: #7C3AED;</code></td>
+    <td><code>borderLeftColor: #7C3AED;</code><br><code>borderRightColor: #7C3AED;</code></td>
   </tr>
   <tr>
     <td><code>border-x-violet-700</code></td>
-    <td><code>borderLeftColor: #6D28D9;</code>
-<code>borderRightColor: #6D28D9;</code></td>
+    <td><code>borderLeftColor: #6D28D9;</code><br><code>borderRightColor: #6D28D9;</code></td>
   </tr>
   <tr>
     <td><code>border-x-violet-800</code></td>
-    <td><code>borderLeftColor: #5B21B6;</code>
-<code>borderRightColor: #5B21B6;</code></td>
+    <td><code>borderLeftColor: #5B21B6;</code><br><code>borderRightColor: #5B21B6;</code></td>
   </tr>
   <tr>
     <td><code>border-x-violet-900</code></td>
-    <td><code>borderLeftColor: #4C1D95;</code>
-<code>borderRightColor: #4C1D95;</code></td>
+    <td><code>borderLeftColor: #4C1D95;</code><br><code>borderRightColor: #4C1D95;</code></td>
   </tr>
   <tr>
     <td><code>border-x-violet-950</code></td>
-    <td><code>borderLeftColor: #2E1065;</code>
-<code>borderRightColor: #2E1065;</code></td>
+    <td><code>borderLeftColor: #2E1065;</code><br><code>borderRightColor: #2E1065;</code></td>
   </tr>
   <tr>
     <td><code>border-x-white</code></td>
-    <td><code>borderLeftColor: #FFFFFF;</code>
-<code>borderRightColor: #FFFFFF;</code></td>
+    <td><code>borderLeftColor: #FFFFFF;</code><br><code>borderRightColor: #FFFFFF;</code></td>
   </tr>
   <tr>
     <td><code>border-x-yellow-100</code></td>
-    <td><code>borderLeftColor: #FEF9C3;</code>
-<code>borderRightColor: #FEF9C3;</code></td>
+    <td><code>borderLeftColor: #FEF9C3;</code><br><code>borderRightColor: #FEF9C3;</code></td>
   </tr>
   <tr>
     <td><code>border-x-yellow-200</code></td>
-    <td><code>borderLeftColor: #FEF08A;</code>
-<code>borderRightColor: #FEF08A;</code></td>
+    <td><code>borderLeftColor: #FEF08A;</code><br><code>borderRightColor: #FEF08A;</code></td>
   </tr>
   <tr>
     <td><code>border-x-yellow-300</code></td>
-    <td><code>borderLeftColor: #FDE047;</code>
-<code>borderRightColor: #FDE047;</code></td>
+    <td><code>borderLeftColor: #FDE047;</code><br><code>borderRightColor: #FDE047;</code></td>
   </tr>
   <tr>
     <td><code>border-x-yellow-400</code></td>
-    <td><code>borderLeftColor: #FACC15;</code>
-<code>borderRightColor: #FACC15;</code></td>
+    <td><code>borderLeftColor: #FACC15;</code><br><code>borderRightColor: #FACC15;</code></td>
   </tr>
   <tr>
     <td><code>border-x-yellow-50</code></td>
-    <td><code>borderLeftColor: #FEFCE8;</code>
-<code>borderRightColor: #FEFCE8;</code></td>
+    <td><code>borderLeftColor: #FEFCE8;</code><br><code>borderRightColor: #FEFCE8;</code></td>
   </tr>
   <tr>
     <td><code>border-x-yellow-500</code></td>
-    <td><code>borderLeftColor: #EAB308;</code>
-<code>borderRightColor: #EAB308;</code></td>
+    <td><code>borderLeftColor: #EAB308;</code><br><code>borderRightColor: #EAB308;</code></td>
   </tr>
   <tr>
     <td><code>border-x-yellow-600</code></td>
-    <td><code>borderLeftColor: #CA8A04;</code>
-<code>borderRightColor: #CA8A04;</code></td>
+    <td><code>borderLeftColor: #CA8A04;</code><br><code>borderRightColor: #CA8A04;</code></td>
   </tr>
   <tr>
     <td><code>border-x-yellow-700</code></td>
-    <td><code>borderLeftColor: #A16207;</code>
-<code>borderRightColor: #A16207;</code></td>
+    <td><code>borderLeftColor: #A16207;</code><br><code>borderRightColor: #A16207;</code></td>
   </tr>
   <tr>
     <td><code>border-x-yellow-800</code></td>
-    <td><code>borderLeftColor: #854D0E;</code>
-<code>borderRightColor: #854D0E;</code></td>
+    <td><code>borderLeftColor: #854D0E;</code><br><code>borderRightColor: #854D0E;</code></td>
   </tr>
   <tr>
     <td><code>border-x-yellow-900</code></td>
-    <td><code>borderLeftColor: #713F12;</code>
-<code>borderRightColor: #713F12;</code></td>
+    <td><code>borderLeftColor: #713F12;</code><br><code>borderRightColor: #713F12;</code></td>
   </tr>
   <tr>
     <td><code>border-x-yellow-950</code></td>
-    <td><code>borderLeftColor: #422006;</code>
-<code>borderRightColor: #422006;</code></td>
+    <td><code>borderLeftColor: #422006;</code><br><code>borderRightColor: #422006;</code></td>
   </tr>
   <tr>
     <td><code>border-x-zinc-100</code></td>
-    <td><code>borderLeftColor: #F4F4F5;</code>
-<code>borderRightColor: #F4F4F5;</code></td>
+    <td><code>borderLeftColor: #F4F4F5;</code><br><code>borderRightColor: #F4F4F5;</code></td>
   </tr>
   <tr>
     <td><code>border-x-zinc-200</code></td>
-    <td><code>borderLeftColor: #E4E4E7;</code>
-<code>borderRightColor: #E4E4E7;</code></td>
+    <td><code>borderLeftColor: #E4E4E7;</code><br><code>borderRightColor: #E4E4E7;</code></td>
   </tr>
   <tr>
     <td><code>border-x-zinc-300</code></td>
-    <td><code>borderLeftColor: #D4D4D8;</code>
-<code>borderRightColor: #D4D4D8;</code></td>
+    <td><code>borderLeftColor: #D4D4D8;</code><br><code>borderRightColor: #D4D4D8;</code></td>
   </tr>
   <tr>
     <td><code>border-x-zinc-400</code></td>
-    <td><code>borderLeftColor: #A1A1AA;</code>
-<code>borderRightColor: #A1A1AA;</code></td>
+    <td><code>borderLeftColor: #A1A1AA;</code><br><code>borderRightColor: #A1A1AA;</code></td>
   </tr>
   <tr>
     <td><code>border-x-zinc-50</code></td>
-    <td><code>borderLeftColor: #FAFAFA;</code>
-<code>borderRightColor: #FAFAFA;</code></td>
+    <td><code>borderLeftColor: #FAFAFA;</code><br><code>borderRightColor: #FAFAFA;</code></td>
   </tr>
   <tr>
     <td><code>border-x-zinc-500</code></td>
-    <td><code>borderLeftColor: #71717A;</code>
-<code>borderRightColor: #71717A;</code></td>
+    <td><code>borderLeftColor: #71717A;</code><br><code>borderRightColor: #71717A;</code></td>
   </tr>
   <tr>
     <td><code>border-x-zinc-600</code></td>
-    <td><code>borderLeftColor: #52525B;</code>
-<code>borderRightColor: #52525B;</code></td>
+    <td><code>borderLeftColor: #52525B;</code><br><code>borderRightColor: #52525B;</code></td>
   </tr>
   <tr>
     <td><code>border-x-zinc-700</code></td>
-    <td><code>borderLeftColor: #3F3F46;</code>
-<code>borderRightColor: #3F3F46;</code></td>
+    <td><code>borderLeftColor: #3F3F46;</code><br><code>borderRightColor: #3F3F46;</code></td>
   </tr>
   <tr>
     <td><code>border-x-zinc-800</code></td>
-    <td><code>borderLeftColor: #27272A;</code>
-<code>borderRightColor: #27272A;</code></td>
+    <td><code>borderLeftColor: #27272A;</code><br><code>borderRightColor: #27272A;</code></td>
   </tr>
   <tr>
     <td><code>border-x-zinc-900</code></td>
-    <td><code>borderLeftColor: #18181B;</code>
-<code>borderRightColor: #18181B;</code></td>
+    <td><code>borderLeftColor: #18181B;</code><br><code>borderRightColor: #18181B;</code></td>
   </tr>
   <tr>
     <td><code>border-x-zinc-950</code></td>
-    <td><code>borderLeftColor: #09090B;</code>
-<code>borderRightColor: #09090B;</code></td>
+    <td><code>borderLeftColor: #09090B;</code><br><code>borderRightColor: #09090B;</code></td>
   </tr>
   <tr>
     <td><code>border-y-amber-100</code></td>
-    <td><code>borderTopColor: #FEF3C7;</code>
-<code>borderBottomColor: #FEF3C7;</code></td>
+    <td><code>borderTopColor: #FEF3C7;</code><br><code>borderBottomColor: #FEF3C7;</code></td>
   </tr>
   <tr>
     <td><code>border-y-amber-200</code></td>
-    <td><code>borderTopColor: #FDE68A;</code>
-<code>borderBottomColor: #FDE68A;</code></td>
+    <td><code>borderTopColor: #FDE68A;</code><br><code>borderBottomColor: #FDE68A;</code></td>
   </tr>
   <tr>
     <td><code>border-y-amber-300</code></td>
-    <td><code>borderTopColor: #FCD34D;</code>
-<code>borderBottomColor: #FCD34D;</code></td>
+    <td><code>borderTopColor: #FCD34D;</code><br><code>borderBottomColor: #FCD34D;</code></td>
   </tr>
   <tr>
     <td><code>border-y-amber-400</code></td>
-    <td><code>borderTopColor: #FBBF24;</code>
-<code>borderBottomColor: #FBBF24;</code></td>
+    <td><code>borderTopColor: #FBBF24;</code><br><code>borderBottomColor: #FBBF24;</code></td>
   </tr>
   <tr>
     <td><code>border-y-amber-50</code></td>
-    <td><code>borderTopColor: #FFFBEB;</code>
-<code>borderBottomColor: #FFFBEB;</code></td>
+    <td><code>borderTopColor: #FFFBEB;</code><br><code>borderBottomColor: #FFFBEB;</code></td>
   </tr>
   <tr>
     <td><code>border-y-amber-500</code></td>
-    <td><code>borderTopColor: #F59E0B;</code>
-<code>borderBottomColor: #F59E0B;</code></td>
+    <td><code>borderTopColor: #F59E0B;</code><br><code>borderBottomColor: #F59E0B;</code></td>
   </tr>
   <tr>
     <td><code>border-y-amber-600</code></td>
-    <td><code>borderTopColor: #D97706;</code>
-<code>borderBottomColor: #D97706;</code></td>
+    <td><code>borderTopColor: #D97706;</code><br><code>borderBottomColor: #D97706;</code></td>
   </tr>
   <tr>
     <td><code>border-y-amber-700</code></td>
-    <td><code>borderTopColor: #B45309;</code>
-<code>borderBottomColor: #B45309;</code></td>
+    <td><code>borderTopColor: #B45309;</code><br><code>borderBottomColor: #B45309;</code></td>
   </tr>
   <tr>
     <td><code>border-y-amber-800</code></td>
-    <td><code>borderTopColor: #92400E;</code>
-<code>borderBottomColor: #92400E;</code></td>
+    <td><code>borderTopColor: #92400E;</code><br><code>borderBottomColor: #92400E;</code></td>
   </tr>
   <tr>
     <td><code>border-y-amber-900</code></td>
-    <td><code>borderTopColor: #78350F;</code>
-<code>borderBottomColor: #78350F;</code></td>
+    <td><code>borderTopColor: #78350F;</code><br><code>borderBottomColor: #78350F;</code></td>
   </tr>
   <tr>
     <td><code>border-y-amber-950</code></td>
-    <td><code>borderTopColor: #451A03;</code>
-<code>borderBottomColor: #451A03;</code></td>
+    <td><code>borderTopColor: #451A03;</code><br><code>borderBottomColor: #451A03;</code></td>
   </tr>
   <tr>
     <td><code>border-y-black</code></td>
-    <td><code>borderTopColor: #000000;</code>
-<code>borderBottomColor: #000000;</code></td>
+    <td><code>borderTopColor: #000000;</code><br><code>borderBottomColor: #000000;</code></td>
   </tr>
   <tr>
     <td><code>border-y-blue-100</code></td>
-    <td><code>borderTopColor: #DBEAFE;</code>
-<code>borderBottomColor: #DBEAFE;</code></td>
+    <td><code>borderTopColor: #DBEAFE;</code><br><code>borderBottomColor: #DBEAFE;</code></td>
   </tr>
   <tr>
     <td><code>border-y-blue-200</code></td>
-    <td><code>borderTopColor: #BFDBFE;</code>
-<code>borderBottomColor: #BFDBFE;</code></td>
+    <td><code>borderTopColor: #BFDBFE;</code><br><code>borderBottomColor: #BFDBFE;</code></td>
   </tr>
   <tr>
     <td><code>border-y-blue-300</code></td>
-    <td><code>borderTopColor: #93C5FD;</code>
-<code>borderBottomColor: #93C5FD;</code></td>
+    <td><code>borderTopColor: #93C5FD;</code><br><code>borderBottomColor: #93C5FD;</code></td>
   </tr>
   <tr>
     <td><code>border-y-blue-400</code></td>
-    <td><code>borderTopColor: #60A5FA;</code>
-<code>borderBottomColor: #60A5FA;</code></td>
+    <td><code>borderTopColor: #60A5FA;</code><br><code>borderBottomColor: #60A5FA;</code></td>
   </tr>
   <tr>
     <td><code>border-y-blue-50</code></td>
-    <td><code>borderTopColor: #EFF6FF;</code>
-<code>borderBottomColor: #EFF6FF;</code></td>
+    <td><code>borderTopColor: #EFF6FF;</code><br><code>borderBottomColor: #EFF6FF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-blue-500</code></td>
-    <td><code>borderTopColor: #3B82F6;</code>
-<code>borderBottomColor: #3B82F6;</code></td>
+    <td><code>borderTopColor: #3B82F6;</code><br><code>borderBottomColor: #3B82F6;</code></td>
   </tr>
   <tr>
     <td><code>border-y-blue-600</code></td>
-    <td><code>borderTopColor: #2563EB;</code>
-<code>borderBottomColor: #2563EB;</code></td>
+    <td><code>borderTopColor: #2563EB;</code><br><code>borderBottomColor: #2563EB;</code></td>
   </tr>
   <tr>
     <td><code>border-y-blue-700</code></td>
-    <td><code>borderTopColor: #1D4ED8;</code>
-<code>borderBottomColor: #1D4ED8;</code></td>
+    <td><code>borderTopColor: #1D4ED8;</code><br><code>borderBottomColor: #1D4ED8;</code></td>
   </tr>
   <tr>
     <td><code>border-y-blue-800</code></td>
-    <td><code>borderTopColor: #1E40AF;</code>
-<code>borderBottomColor: #1E40AF;</code></td>
+    <td><code>borderTopColor: #1E40AF;</code><br><code>borderBottomColor: #1E40AF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-blue-900</code></td>
-    <td><code>borderTopColor: #1E3A8A;</code>
-<code>borderBottomColor: #1E3A8A;</code></td>
+    <td><code>borderTopColor: #1E3A8A;</code><br><code>borderBottomColor: #1E3A8A;</code></td>
   </tr>
   <tr>
     <td><code>border-y-blue-950</code></td>
-    <td><code>borderTopColor: #172554;</code>
-<code>borderBottomColor: #172554;</code></td>
+    <td><code>borderTopColor: #172554;</code><br><code>borderBottomColor: #172554;</code></td>
   </tr>
   <tr>
     <td><code>border-y-current</code></td>
-    <td><code>borderTopColor: currentColor;</code>
-<code>borderBottomColor: currentColor;</code></td>
+    <td><code>borderTopColor: currentColor;</code><br><code>borderBottomColor: currentColor;</code></td>
   </tr>
   <tr>
     <td><code>border-y-cyan-100</code></td>
-    <td><code>borderTopColor: #CFFAFE;</code>
-<code>borderBottomColor: #CFFAFE;</code></td>
+    <td><code>borderTopColor: #CFFAFE;</code><br><code>borderBottomColor: #CFFAFE;</code></td>
   </tr>
   <tr>
     <td><code>border-y-cyan-200</code></td>
-    <td><code>borderTopColor: #A5F3FC;</code>
-<code>borderBottomColor: #A5F3FC;</code></td>
+    <td><code>borderTopColor: #A5F3FC;</code><br><code>borderBottomColor: #A5F3FC;</code></td>
   </tr>
   <tr>
     <td><code>border-y-cyan-300</code></td>
-    <td><code>borderTopColor: #67E8F9;</code>
-<code>borderBottomColor: #67E8F9;</code></td>
+    <td><code>borderTopColor: #67E8F9;</code><br><code>borderBottomColor: #67E8F9;</code></td>
   </tr>
   <tr>
     <td><code>border-y-cyan-400</code></td>
-    <td><code>borderTopColor: #22D3EE;</code>
-<code>borderBottomColor: #22D3EE;</code></td>
+    <td><code>borderTopColor: #22D3EE;</code><br><code>borderBottomColor: #22D3EE;</code></td>
   </tr>
   <tr>
     <td><code>border-y-cyan-50</code></td>
-    <td><code>borderTopColor: #ECFEFF;</code>
-<code>borderBottomColor: #ECFEFF;</code></td>
+    <td><code>borderTopColor: #ECFEFF;</code><br><code>borderBottomColor: #ECFEFF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-cyan-500</code></td>
-    <td><code>borderTopColor: #06B6D4;</code>
-<code>borderBottomColor: #06B6D4;</code></td>
+    <td><code>borderTopColor: #06B6D4;</code><br><code>borderBottomColor: #06B6D4;</code></td>
   </tr>
   <tr>
     <td><code>border-y-cyan-600</code></td>
-    <td><code>borderTopColor: #0891B2;</code>
-<code>borderBottomColor: #0891B2;</code></td>
+    <td><code>borderTopColor: #0891B2;</code><br><code>borderBottomColor: #0891B2;</code></td>
   </tr>
   <tr>
     <td><code>border-y-cyan-700</code></td>
-    <td><code>borderTopColor: #0E7490;</code>
-<code>borderBottomColor: #0E7490;</code></td>
+    <td><code>borderTopColor: #0E7490;</code><br><code>borderBottomColor: #0E7490;</code></td>
   </tr>
   <tr>
     <td><code>border-y-cyan-800</code></td>
-    <td><code>borderTopColor: #155E75;</code>
-<code>borderBottomColor: #155E75;</code></td>
+    <td><code>borderTopColor: #155E75;</code><br><code>borderBottomColor: #155E75;</code></td>
   </tr>
   <tr>
     <td><code>border-y-cyan-900</code></td>
-    <td><code>borderTopColor: #164E63;</code>
-<code>borderBottomColor: #164E63;</code></td>
+    <td><code>borderTopColor: #164E63;</code><br><code>borderBottomColor: #164E63;</code></td>
   </tr>
   <tr>
     <td><code>border-y-cyan-950</code></td>
-    <td><code>borderTopColor: #083344;</code>
-<code>borderBottomColor: #083344;</code></td>
+    <td><code>borderTopColor: #083344;</code><br><code>borderBottomColor: #083344;</code></td>
   </tr>
   <tr>
     <td><code>border-y-emerald-100</code></td>
-    <td><code>borderTopColor: #D1FAE5;</code>
-<code>borderBottomColor: #D1FAE5;</code></td>
+    <td><code>borderTopColor: #D1FAE5;</code><br><code>borderBottomColor: #D1FAE5;</code></td>
   </tr>
   <tr>
     <td><code>border-y-emerald-200</code></td>
-    <td><code>borderTopColor: #A7F3D0;</code>
-<code>borderBottomColor: #A7F3D0;</code></td>
+    <td><code>borderTopColor: #A7F3D0;</code><br><code>borderBottomColor: #A7F3D0;</code></td>
   </tr>
   <tr>
     <td><code>border-y-emerald-300</code></td>
-    <td><code>borderTopColor: #6EE7B7;</code>
-<code>borderBottomColor: #6EE7B7;</code></td>
+    <td><code>borderTopColor: #6EE7B7;</code><br><code>borderBottomColor: #6EE7B7;</code></td>
   </tr>
   <tr>
     <td><code>border-y-emerald-400</code></td>
-    <td><code>borderTopColor: #34D399;</code>
-<code>borderBottomColor: #34D399;</code></td>
+    <td><code>borderTopColor: #34D399;</code><br><code>borderBottomColor: #34D399;</code></td>
   </tr>
   <tr>
     <td><code>border-y-emerald-50</code></td>
-    <td><code>borderTopColor: #ECFDF5;</code>
-<code>borderBottomColor: #ECFDF5;</code></td>
+    <td><code>borderTopColor: #ECFDF5;</code><br><code>borderBottomColor: #ECFDF5;</code></td>
   </tr>
   <tr>
     <td><code>border-y-emerald-500</code></td>
-    <td><code>borderTopColor: #10B981;</code>
-<code>borderBottomColor: #10B981;</code></td>
+    <td><code>borderTopColor: #10B981;</code><br><code>borderBottomColor: #10B981;</code></td>
   </tr>
   <tr>
     <td><code>border-y-emerald-600</code></td>
-    <td><code>borderTopColor: #059669;</code>
-<code>borderBottomColor: #059669;</code></td>
+    <td><code>borderTopColor: #059669;</code><br><code>borderBottomColor: #059669;</code></td>
   </tr>
   <tr>
     <td><code>border-y-emerald-700</code></td>
-    <td><code>borderTopColor: #047857;</code>
-<code>borderBottomColor: #047857;</code></td>
+    <td><code>borderTopColor: #047857;</code><br><code>borderBottomColor: #047857;</code></td>
   </tr>
   <tr>
     <td><code>border-y-emerald-800</code></td>
-    <td><code>borderTopColor: #065F46;</code>
-<code>borderBottomColor: #065F46;</code></td>
+    <td><code>borderTopColor: #065F46;</code><br><code>borderBottomColor: #065F46;</code></td>
   </tr>
   <tr>
     <td><code>border-y-emerald-900</code></td>
-    <td><code>borderTopColor: #064E3B;</code>
-<code>borderBottomColor: #064E3B;</code></td>
+    <td><code>borderTopColor: #064E3B;</code><br><code>borderBottomColor: #064E3B;</code></td>
   </tr>
   <tr>
     <td><code>border-y-emerald-950</code></td>
-    <td><code>borderTopColor: #022C22;</code>
-<code>borderBottomColor: #022C22;</code></td>
+    <td><code>borderTopColor: #022C22;</code><br><code>borderBottomColor: #022C22;</code></td>
   </tr>
   <tr>
     <td><code>border-y-fuchsia-100</code></td>
-    <td><code>borderTopColor: #FAE8FF;</code>
-<code>borderBottomColor: #FAE8FF;</code></td>
+    <td><code>borderTopColor: #FAE8FF;</code><br><code>borderBottomColor: #FAE8FF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-fuchsia-200</code></td>
-    <td><code>borderTopColor: #F5D0FE;</code>
-<code>borderBottomColor: #F5D0FE;</code></td>
+    <td><code>borderTopColor: #F5D0FE;</code><br><code>borderBottomColor: #F5D0FE;</code></td>
   </tr>
   <tr>
     <td><code>border-y-fuchsia-300</code></td>
-    <td><code>borderTopColor: #F0ABFC;</code>
-<code>borderBottomColor: #F0ABFC;</code></td>
+    <td><code>borderTopColor: #F0ABFC;</code><br><code>borderBottomColor: #F0ABFC;</code></td>
   </tr>
   <tr>
     <td><code>border-y-fuchsia-400</code></td>
-    <td><code>borderTopColor: #E879F9;</code>
-<code>borderBottomColor: #E879F9;</code></td>
+    <td><code>borderTopColor: #E879F9;</code><br><code>borderBottomColor: #E879F9;</code></td>
   </tr>
   <tr>
     <td><code>border-y-fuchsia-50</code></td>
-    <td><code>borderTopColor: #FDF4FF;</code>
-<code>borderBottomColor: #FDF4FF;</code></td>
+    <td><code>borderTopColor: #FDF4FF;</code><br><code>borderBottomColor: #FDF4FF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-fuchsia-500</code></td>
-    <td><code>borderTopColor: #D946EF;</code>
-<code>borderBottomColor: #D946EF;</code></td>
+    <td><code>borderTopColor: #D946EF;</code><br><code>borderBottomColor: #D946EF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-fuchsia-600</code></td>
-    <td><code>borderTopColor: #C026D3;</code>
-<code>borderBottomColor: #C026D3;</code></td>
+    <td><code>borderTopColor: #C026D3;</code><br><code>borderBottomColor: #C026D3;</code></td>
   </tr>
   <tr>
     <td><code>border-y-fuchsia-700</code></td>
-    <td><code>borderTopColor: #A21CAF;</code>
-<code>borderBottomColor: #A21CAF;</code></td>
+    <td><code>borderTopColor: #A21CAF;</code><br><code>borderBottomColor: #A21CAF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-fuchsia-800</code></td>
-    <td><code>borderTopColor: #86198F;</code>
-<code>borderBottomColor: #86198F;</code></td>
+    <td><code>borderTopColor: #86198F;</code><br><code>borderBottomColor: #86198F;</code></td>
   </tr>
   <tr>
     <td><code>border-y-fuchsia-900</code></td>
-    <td><code>borderTopColor: #701A75;</code>
-<code>borderBottomColor: #701A75;</code></td>
+    <td><code>borderTopColor: #701A75;</code><br><code>borderBottomColor: #701A75;</code></td>
   </tr>
   <tr>
     <td><code>border-y-fuchsia-950</code></td>
-    <td><code>borderTopColor: #4A044E;</code>
-<code>borderBottomColor: #4A044E;</code></td>
+    <td><code>borderTopColor: #4A044E;</code><br><code>borderBottomColor: #4A044E;</code></td>
   </tr>
   <tr>
     <td><code>border-y-gray-100</code></td>
-    <td><code>borderTopColor: #F3F4F6;</code>
-<code>borderBottomColor: #F3F4F6;</code></td>
+    <td><code>borderTopColor: #F3F4F6;</code><br><code>borderBottomColor: #F3F4F6;</code></td>
   </tr>
   <tr>
     <td><code>border-y-gray-200</code></td>
-    <td><code>borderTopColor: #E5E7EB;</code>
-<code>borderBottomColor: #E5E7EB;</code></td>
+    <td><code>borderTopColor: #E5E7EB;</code><br><code>borderBottomColor: #E5E7EB;</code></td>
   </tr>
   <tr>
     <td><code>border-y-gray-300</code></td>
-    <td><code>borderTopColor: #D1D5DB;</code>
-<code>borderBottomColor: #D1D5DB;</code></td>
+    <td><code>borderTopColor: #D1D5DB;</code><br><code>borderBottomColor: #D1D5DB;</code></td>
   </tr>
   <tr>
     <td><code>border-y-gray-400</code></td>
-    <td><code>borderTopColor: #9CA3AF;</code>
-<code>borderBottomColor: #9CA3AF;</code></td>
+    <td><code>borderTopColor: #9CA3AF;</code><br><code>borderBottomColor: #9CA3AF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-gray-50</code></td>
-    <td><code>borderTopColor: #F9FAFB;</code>
-<code>borderBottomColor: #F9FAFB;</code></td>
+    <td><code>borderTopColor: #F9FAFB;</code><br><code>borderBottomColor: #F9FAFB;</code></td>
   </tr>
   <tr>
     <td><code>border-y-gray-500</code></td>
-    <td><code>borderTopColor: #6B7280;</code>
-<code>borderBottomColor: #6B7280;</code></td>
+    <td><code>borderTopColor: #6B7280;</code><br><code>borderBottomColor: #6B7280;</code></td>
   </tr>
   <tr>
     <td><code>border-y-gray-600</code></td>
-    <td><code>borderTopColor: #4B5563;</code>
-<code>borderBottomColor: #4B5563;</code></td>
+    <td><code>borderTopColor: #4B5563;</code><br><code>borderBottomColor: #4B5563;</code></td>
   </tr>
   <tr>
     <td><code>border-y-gray-700</code></td>
-    <td><code>borderTopColor: #374151;</code>
-<code>borderBottomColor: #374151;</code></td>
+    <td><code>borderTopColor: #374151;</code><br><code>borderBottomColor: #374151;</code></td>
   </tr>
   <tr>
     <td><code>border-y-gray-800</code></td>
-    <td><code>borderTopColor: #1F2937;</code>
-<code>borderBottomColor: #1F2937;</code></td>
+    <td><code>borderTopColor: #1F2937;</code><br><code>borderBottomColor: #1F2937;</code></td>
   </tr>
   <tr>
     <td><code>border-y-gray-900</code></td>
-    <td><code>borderTopColor: #111827;</code>
-<code>borderBottomColor: #111827;</code></td>
+    <td><code>borderTopColor: #111827;</code><br><code>borderBottomColor: #111827;</code></td>
   </tr>
   <tr>
     <td><code>border-y-gray-950</code></td>
-    <td><code>borderTopColor: #030712;</code>
-<code>borderBottomColor: #030712;</code></td>
+    <td><code>borderTopColor: #030712;</code><br><code>borderBottomColor: #030712;</code></td>
   </tr>
   <tr>
     <td><code>border-y-green-100</code></td>
-    <td><code>borderTopColor: #DCFCE7;</code>
-<code>borderBottomColor: #DCFCE7;</code></td>
+    <td><code>borderTopColor: #DCFCE7;</code><br><code>borderBottomColor: #DCFCE7;</code></td>
   </tr>
   <tr>
     <td><code>border-y-green-200</code></td>
-    <td><code>borderTopColor: #BBF7D0;</code>
-<code>borderBottomColor: #BBF7D0;</code></td>
+    <td><code>borderTopColor: #BBF7D0;</code><br><code>borderBottomColor: #BBF7D0;</code></td>
   </tr>
   <tr>
     <td><code>border-y-green-300</code></td>
-    <td><code>borderTopColor: #86EFAC;</code>
-<code>borderBottomColor: #86EFAC;</code></td>
+    <td><code>borderTopColor: #86EFAC;</code><br><code>borderBottomColor: #86EFAC;</code></td>
   </tr>
   <tr>
     <td><code>border-y-green-400</code></td>
-    <td><code>borderTopColor: #4ADE80;</code>
-<code>borderBottomColor: #4ADE80;</code></td>
+    <td><code>borderTopColor: #4ADE80;</code><br><code>borderBottomColor: #4ADE80;</code></td>
   </tr>
   <tr>
     <td><code>border-y-green-50</code></td>
-    <td><code>borderTopColor: #F0FDF4;</code>
-<code>borderBottomColor: #F0FDF4;</code></td>
+    <td><code>borderTopColor: #F0FDF4;</code><br><code>borderBottomColor: #F0FDF4;</code></td>
   </tr>
   <tr>
     <td><code>border-y-green-500</code></td>
-    <td><code>borderTopColor: #22C55E;</code>
-<code>borderBottomColor: #22C55E;</code></td>
+    <td><code>borderTopColor: #22C55E;</code><br><code>borderBottomColor: #22C55E;</code></td>
   </tr>
   <tr>
     <td><code>border-y-green-600</code></td>
-    <td><code>borderTopColor: #16A34A;</code>
-<code>borderBottomColor: #16A34A;</code></td>
+    <td><code>borderTopColor: #16A34A;</code><br><code>borderBottomColor: #16A34A;</code></td>
   </tr>
   <tr>
     <td><code>border-y-green-700</code></td>
-    <td><code>borderTopColor: #15803D;</code>
-<code>borderBottomColor: #15803D;</code></td>
+    <td><code>borderTopColor: #15803D;</code><br><code>borderBottomColor: #15803D;</code></td>
   </tr>
   <tr>
     <td><code>border-y-green-800</code></td>
-    <td><code>borderTopColor: #166534;</code>
-<code>borderBottomColor: #166534;</code></td>
+    <td><code>borderTopColor: #166534;</code><br><code>borderBottomColor: #166534;</code></td>
   </tr>
   <tr>
     <td><code>border-y-green-900</code></td>
-    <td><code>borderTopColor: #14532D;</code>
-<code>borderBottomColor: #14532D;</code></td>
+    <td><code>borderTopColor: #14532D;</code><br><code>borderBottomColor: #14532D;</code></td>
   </tr>
   <tr>
     <td><code>border-y-green-950</code></td>
-    <td><code>borderTopColor: #052E16;</code>
-<code>borderBottomColor: #052E16;</code></td>
+    <td><code>borderTopColor: #052E16;</code><br><code>borderBottomColor: #052E16;</code></td>
   </tr>
   <tr>
     <td><code>border-y-indigo-100</code></td>
-    <td><code>borderTopColor: #E0E7FF;</code>
-<code>borderBottomColor: #E0E7FF;</code></td>
+    <td><code>borderTopColor: #E0E7FF;</code><br><code>borderBottomColor: #E0E7FF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-indigo-200</code></td>
-    <td><code>borderTopColor: #C7D2FE;</code>
-<code>borderBottomColor: #C7D2FE;</code></td>
+    <td><code>borderTopColor: #C7D2FE;</code><br><code>borderBottomColor: #C7D2FE;</code></td>
   </tr>
   <tr>
     <td><code>border-y-indigo-300</code></td>
-    <td><code>borderTopColor: #A5B4FC;</code>
-<code>borderBottomColor: #A5B4FC;</code></td>
+    <td><code>borderTopColor: #A5B4FC;</code><br><code>borderBottomColor: #A5B4FC;</code></td>
   </tr>
   <tr>
     <td><code>border-y-indigo-400</code></td>
-    <td><code>borderTopColor: #818CF8;</code>
-<code>borderBottomColor: #818CF8;</code></td>
+    <td><code>borderTopColor: #818CF8;</code><br><code>borderBottomColor: #818CF8;</code></td>
   </tr>
   <tr>
     <td><code>border-y-indigo-50</code></td>
-    <td><code>borderTopColor: #EEF2FF;</code>
-<code>borderBottomColor: #EEF2FF;</code></td>
+    <td><code>borderTopColor: #EEF2FF;</code><br><code>borderBottomColor: #EEF2FF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-indigo-500</code></td>
-    <td><code>borderTopColor: #6366F1;</code>
-<code>borderBottomColor: #6366F1;</code></td>
+    <td><code>borderTopColor: #6366F1;</code><br><code>borderBottomColor: #6366F1;</code></td>
   </tr>
   <tr>
     <td><code>border-y-indigo-600</code></td>
-    <td><code>borderTopColor: #4F46E5;</code>
-<code>borderBottomColor: #4F46E5;</code></td>
+    <td><code>borderTopColor: #4F46E5;</code><br><code>borderBottomColor: #4F46E5;</code></td>
   </tr>
   <tr>
     <td><code>border-y-indigo-700</code></td>
-    <td><code>borderTopColor: #4338CA;</code>
-<code>borderBottomColor: #4338CA;</code></td>
+    <td><code>borderTopColor: #4338CA;</code><br><code>borderBottomColor: #4338CA;</code></td>
   </tr>
   <tr>
     <td><code>border-y-indigo-800</code></td>
-    <td><code>borderTopColor: #3730A3;</code>
-<code>borderBottomColor: #3730A3;</code></td>
+    <td><code>borderTopColor: #3730A3;</code><br><code>borderBottomColor: #3730A3;</code></td>
   </tr>
   <tr>
     <td><code>border-y-indigo-900</code></td>
-    <td><code>borderTopColor: #312E81;</code>
-<code>borderBottomColor: #312E81;</code></td>
+    <td><code>borderTopColor: #312E81;</code><br><code>borderBottomColor: #312E81;</code></td>
   </tr>
   <tr>
     <td><code>border-y-indigo-950</code></td>
-    <td><code>borderTopColor: #1E1B4B;</code>
-<code>borderBottomColor: #1E1B4B;</code></td>
+    <td><code>borderTopColor: #1E1B4B;</code><br><code>borderBottomColor: #1E1B4B;</code></td>
   </tr>
   <tr>
     <td><code>border-y-inherit</code></td>
-    <td><code>borderTopColor: inherit;</code>
-<code>borderBottomColor: inherit;</code></td>
+    <td><code>borderTopColor: inherit;</code><br><code>borderBottomColor: inherit;</code></td>
   </tr>
   <tr>
     <td><code>border-y-lime-100</code></td>
-    <td><code>borderTopColor: #ECFCCB;</code>
-<code>borderBottomColor: #ECFCCB;</code></td>
+    <td><code>borderTopColor: #ECFCCB;</code><br><code>borderBottomColor: #ECFCCB;</code></td>
   </tr>
   <tr>
     <td><code>border-y-lime-200</code></td>
-    <td><code>borderTopColor: #D9F99D;</code>
-<code>borderBottomColor: #D9F99D;</code></td>
+    <td><code>borderTopColor: #D9F99D;</code><br><code>borderBottomColor: #D9F99D;</code></td>
   </tr>
   <tr>
     <td><code>border-y-lime-300</code></td>
-    <td><code>borderTopColor: #BEF264;</code>
-<code>borderBottomColor: #BEF264;</code></td>
+    <td><code>borderTopColor: #BEF264;</code><br><code>borderBottomColor: #BEF264;</code></td>
   </tr>
   <tr>
     <td><code>border-y-lime-400</code></td>
-    <td><code>borderTopColor: #A3E635;</code>
-<code>borderBottomColor: #A3E635;</code></td>
+    <td><code>borderTopColor: #A3E635;</code><br><code>borderBottomColor: #A3E635;</code></td>
   </tr>
   <tr>
     <td><code>border-y-lime-50</code></td>
-    <td><code>borderTopColor: #F7FEE7;</code>
-<code>borderBottomColor: #F7FEE7;</code></td>
+    <td><code>borderTopColor: #F7FEE7;</code><br><code>borderBottomColor: #F7FEE7;</code></td>
   </tr>
   <tr>
     <td><code>border-y-lime-500</code></td>
-    <td><code>borderTopColor: #84CC16;</code>
-<code>borderBottomColor: #84CC16;</code></td>
+    <td><code>borderTopColor: #84CC16;</code><br><code>borderBottomColor: #84CC16;</code></td>
   </tr>
   <tr>
     <td><code>border-y-lime-600</code></td>
-    <td><code>borderTopColor: #65A30D;</code>
-<code>borderBottomColor: #65A30D;</code></td>
+    <td><code>borderTopColor: #65A30D;</code><br><code>borderBottomColor: #65A30D;</code></td>
   </tr>
   <tr>
     <td><code>border-y-lime-700</code></td>
-    <td><code>borderTopColor: #4D7C0F;</code>
-<code>borderBottomColor: #4D7C0F;</code></td>
+    <td><code>borderTopColor: #4D7C0F;</code><br><code>borderBottomColor: #4D7C0F;</code></td>
   </tr>
   <tr>
     <td><code>border-y-lime-800</code></td>
-    <td><code>borderTopColor: #3F6212;</code>
-<code>borderBottomColor: #3F6212;</code></td>
+    <td><code>borderTopColor: #3F6212;</code><br><code>borderBottomColor: #3F6212;</code></td>
   </tr>
   <tr>
     <td><code>border-y-lime-900</code></td>
-    <td><code>borderTopColor: #365314;</code>
-<code>borderBottomColor: #365314;</code></td>
+    <td><code>borderTopColor: #365314;</code><br><code>borderBottomColor: #365314;</code></td>
   </tr>
   <tr>
     <td><code>border-y-lime-950</code></td>
-    <td><code>borderTopColor: #1A2E05;</code>
-<code>borderBottomColor: #1A2E05;</code></td>
+    <td><code>borderTopColor: #1A2E05;</code><br><code>borderBottomColor: #1A2E05;</code></td>
   </tr>
   <tr>
     <td><code>border-y-neutral-100</code></td>
-    <td><code>borderTopColor: #F5F5F5;</code>
-<code>borderBottomColor: #F5F5F5;</code></td>
+    <td><code>borderTopColor: #F5F5F5;</code><br><code>borderBottomColor: #F5F5F5;</code></td>
   </tr>
   <tr>
     <td><code>border-y-neutral-200</code></td>
-    <td><code>borderTopColor: #E5E5E5;</code>
-<code>borderBottomColor: #E5E5E5;</code></td>
+    <td><code>borderTopColor: #E5E5E5;</code><br><code>borderBottomColor: #E5E5E5;</code></td>
   </tr>
   <tr>
     <td><code>border-y-neutral-300</code></td>
-    <td><code>borderTopColor: #D4D4D4;</code>
-<code>borderBottomColor: #D4D4D4;</code></td>
+    <td><code>borderTopColor: #D4D4D4;</code><br><code>borderBottomColor: #D4D4D4;</code></td>
   </tr>
   <tr>
     <td><code>border-y-neutral-400</code></td>
-    <td><code>borderTopColor: #A3A3A3;</code>
-<code>borderBottomColor: #A3A3A3;</code></td>
+    <td><code>borderTopColor: #A3A3A3;</code><br><code>borderBottomColor: #A3A3A3;</code></td>
   </tr>
   <tr>
     <td><code>border-y-neutral-50</code></td>
-    <td><code>borderTopColor: #FAFAFA;</code>
-<code>borderBottomColor: #FAFAFA;</code></td>
+    <td><code>borderTopColor: #FAFAFA;</code><br><code>borderBottomColor: #FAFAFA;</code></td>
   </tr>
   <tr>
     <td><code>border-y-neutral-500</code></td>
-    <td><code>borderTopColor: #737373;</code>
-<code>borderBottomColor: #737373;</code></td>
+    <td><code>borderTopColor: #737373;</code><br><code>borderBottomColor: #737373;</code></td>
   </tr>
   <tr>
     <td><code>border-y-neutral-600</code></td>
-    <td><code>borderTopColor: #525252;</code>
-<code>borderBottomColor: #525252;</code></td>
+    <td><code>borderTopColor: #525252;</code><br><code>borderBottomColor: #525252;</code></td>
   </tr>
   <tr>
     <td><code>border-y-neutral-700</code></td>
-    <td><code>borderTopColor: #404040;</code>
-<code>borderBottomColor: #404040;</code></td>
+    <td><code>borderTopColor: #404040;</code><br><code>borderBottomColor: #404040;</code></td>
   </tr>
   <tr>
     <td><code>border-y-neutral-800</code></td>
-    <td><code>borderTopColor: #262626;</code>
-<code>borderBottomColor: #262626;</code></td>
+    <td><code>borderTopColor: #262626;</code><br><code>borderBottomColor: #262626;</code></td>
   </tr>
   <tr>
     <td><code>border-y-neutral-900</code></td>
-    <td><code>borderTopColor: #171717;</code>
-<code>borderBottomColor: #171717;</code></td>
+    <td><code>borderTopColor: #171717;</code><br><code>borderBottomColor: #171717;</code></td>
   </tr>
   <tr>
     <td><code>border-y-neutral-950</code></td>
-    <td><code>borderTopColor: #0A0A0A;</code>
-<code>borderBottomColor: #0A0A0A;</code></td>
+    <td><code>borderTopColor: #0A0A0A;</code><br><code>borderBottomColor: #0A0A0A;</code></td>
   </tr>
   <tr>
     <td><code>border-y-orange-100</code></td>
-    <td><code>borderTopColor: #FFEDD5;</code>
-<code>borderBottomColor: #FFEDD5;</code></td>
+    <td><code>borderTopColor: #FFEDD5;</code><br><code>borderBottomColor: #FFEDD5;</code></td>
   </tr>
   <tr>
     <td><code>border-y-orange-200</code></td>
-    <td><code>borderTopColor: #FED7AA;</code>
-<code>borderBottomColor: #FED7AA;</code></td>
+    <td><code>borderTopColor: #FED7AA;</code><br><code>borderBottomColor: #FED7AA;</code></td>
   </tr>
   <tr>
     <td><code>border-y-orange-300</code></td>
-    <td><code>borderTopColor: #FDBA74;</code>
-<code>borderBottomColor: #FDBA74;</code></td>
+    <td><code>borderTopColor: #FDBA74;</code><br><code>borderBottomColor: #FDBA74;</code></td>
   </tr>
   <tr>
     <td><code>border-y-orange-400</code></td>
-    <td><code>borderTopColor: #FB923C;</code>
-<code>borderBottomColor: #FB923C;</code></td>
+    <td><code>borderTopColor: #FB923C;</code><br><code>borderBottomColor: #FB923C;</code></td>
   </tr>
   <tr>
     <td><code>border-y-orange-50</code></td>
-    <td><code>borderTopColor: #FFF7ED;</code>
-<code>borderBottomColor: #FFF7ED;</code></td>
+    <td><code>borderTopColor: #FFF7ED;</code><br><code>borderBottomColor: #FFF7ED;</code></td>
   </tr>
   <tr>
     <td><code>border-y-orange-500</code></td>
-    <td><code>borderTopColor: #F97316;</code>
-<code>borderBottomColor: #F97316;</code></td>
+    <td><code>borderTopColor: #F97316;</code><br><code>borderBottomColor: #F97316;</code></td>
   </tr>
   <tr>
     <td><code>border-y-orange-600</code></td>
-    <td><code>borderTopColor: #EA580C;</code>
-<code>borderBottomColor: #EA580C;</code></td>
+    <td><code>borderTopColor: #EA580C;</code><br><code>borderBottomColor: #EA580C;</code></td>
   </tr>
   <tr>
     <td><code>border-y-orange-700</code></td>
-    <td><code>borderTopColor: #C2410C;</code>
-<code>borderBottomColor: #C2410C;</code></td>
+    <td><code>borderTopColor: #C2410C;</code><br><code>borderBottomColor: #C2410C;</code></td>
   </tr>
   <tr>
     <td><code>border-y-orange-800</code></td>
-    <td><code>borderTopColor: #9A3412;</code>
-<code>borderBottomColor: #9A3412;</code></td>
+    <td><code>borderTopColor: #9A3412;</code><br><code>borderBottomColor: #9A3412;</code></td>
   </tr>
   <tr>
     <td><code>border-y-orange-900</code></td>
-    <td><code>borderTopColor: #7C2D12;</code>
-<code>borderBottomColor: #7C2D12;</code></td>
+    <td><code>borderTopColor: #7C2D12;</code><br><code>borderBottomColor: #7C2D12;</code></td>
   </tr>
   <tr>
     <td><code>border-y-orange-950</code></td>
-    <td><code>borderTopColor: #431407;</code>
-<code>borderBottomColor: #431407;</code></td>
+    <td><code>borderTopColor: #431407;</code><br><code>borderBottomColor: #431407;</code></td>
   </tr>
   <tr>
     <td><code>border-y-pink-100</code></td>
-    <td><code>borderTopColor: #FCE7F3;</code>
-<code>borderBottomColor: #FCE7F3;</code></td>
+    <td><code>borderTopColor: #FCE7F3;</code><br><code>borderBottomColor: #FCE7F3;</code></td>
   </tr>
   <tr>
     <td><code>border-y-pink-200</code></td>
-    <td><code>borderTopColor: #FBCFE8;</code>
-<code>borderBottomColor: #FBCFE8;</code></td>
+    <td><code>borderTopColor: #FBCFE8;</code><br><code>borderBottomColor: #FBCFE8;</code></td>
   </tr>
   <tr>
     <td><code>border-y-pink-300</code></td>
-    <td><code>borderTopColor: #F9A8D4;</code>
-<code>borderBottomColor: #F9A8D4;</code></td>
+    <td><code>borderTopColor: #F9A8D4;</code><br><code>borderBottomColor: #F9A8D4;</code></td>
   </tr>
   <tr>
     <td><code>border-y-pink-400</code></td>
-    <td><code>borderTopColor: #F472B6;</code>
-<code>borderBottomColor: #F472B6;</code></td>
+    <td><code>borderTopColor: #F472B6;</code><br><code>borderBottomColor: #F472B6;</code></td>
   </tr>
   <tr>
     <td><code>border-y-pink-50</code></td>
-    <td><code>borderTopColor: #FDF2F8;</code>
-<code>borderBottomColor: #FDF2F8;</code></td>
+    <td><code>borderTopColor: #FDF2F8;</code><br><code>borderBottomColor: #FDF2F8;</code></td>
   </tr>
   <tr>
     <td><code>border-y-pink-500</code></td>
-    <td><code>borderTopColor: #EC4899;</code>
-<code>borderBottomColor: #EC4899;</code></td>
+    <td><code>borderTopColor: #EC4899;</code><br><code>borderBottomColor: #EC4899;</code></td>
   </tr>
   <tr>
     <td><code>border-y-pink-600</code></td>
-    <td><code>borderTopColor: #DB2777;</code>
-<code>borderBottomColor: #DB2777;</code></td>
+    <td><code>borderTopColor: #DB2777;</code><br><code>borderBottomColor: #DB2777;</code></td>
   </tr>
   <tr>
     <td><code>border-y-pink-700</code></td>
-    <td><code>borderTopColor: #BE185D;</code>
-<code>borderBottomColor: #BE185D;</code></td>
+    <td><code>borderTopColor: #BE185D;</code><br><code>borderBottomColor: #BE185D;</code></td>
   </tr>
   <tr>
     <td><code>border-y-pink-800</code></td>
-    <td><code>borderTopColor: #9D174D;</code>
-<code>borderBottomColor: #9D174D;</code></td>
+    <td><code>borderTopColor: #9D174D;</code><br><code>borderBottomColor: #9D174D;</code></td>
   </tr>
   <tr>
     <td><code>border-y-pink-900</code></td>
-    <td><code>borderTopColor: #831843;</code>
-<code>borderBottomColor: #831843;</code></td>
+    <td><code>borderTopColor: #831843;</code><br><code>borderBottomColor: #831843;</code></td>
   </tr>
   <tr>
     <td><code>border-y-pink-950</code></td>
-    <td><code>borderTopColor: #500724;</code>
-<code>borderBottomColor: #500724;</code></td>
+    <td><code>borderTopColor: #500724;</code><br><code>borderBottomColor: #500724;</code></td>
   </tr>
   <tr>
     <td><code>border-y-purple-100</code></td>
-    <td><code>borderTopColor: #F3E8FF;</code>
-<code>borderBottomColor: #F3E8FF;</code></td>
+    <td><code>borderTopColor: #F3E8FF;</code><br><code>borderBottomColor: #F3E8FF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-purple-200</code></td>
-    <td><code>borderTopColor: #E9D5FF;</code>
-<code>borderBottomColor: #E9D5FF;</code></td>
+    <td><code>borderTopColor: #E9D5FF;</code><br><code>borderBottomColor: #E9D5FF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-purple-300</code></td>
-    <td><code>borderTopColor: #D8B4FE;</code>
-<code>borderBottomColor: #D8B4FE;</code></td>
+    <td><code>borderTopColor: #D8B4FE;</code><br><code>borderBottomColor: #D8B4FE;</code></td>
   </tr>
   <tr>
     <td><code>border-y-purple-400</code></td>
-    <td><code>borderTopColor: #C084FC;</code>
-<code>borderBottomColor: #C084FC;</code></td>
+    <td><code>borderTopColor: #C084FC;</code><br><code>borderBottomColor: #C084FC;</code></td>
   </tr>
   <tr>
     <td><code>border-y-purple-50</code></td>
-    <td><code>borderTopColor: #FAF5FF;</code>
-<code>borderBottomColor: #FAF5FF;</code></td>
+    <td><code>borderTopColor: #FAF5FF;</code><br><code>borderBottomColor: #FAF5FF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-purple-500</code></td>
-    <td><code>borderTopColor: #A855F7;</code>
-<code>borderBottomColor: #A855F7;</code></td>
+    <td><code>borderTopColor: #A855F7;</code><br><code>borderBottomColor: #A855F7;</code></td>
   </tr>
   <tr>
     <td><code>border-y-purple-600</code></td>
-    <td><code>borderTopColor: #9333EA;</code>
-<code>borderBottomColor: #9333EA;</code></td>
+    <td><code>borderTopColor: #9333EA;</code><br><code>borderBottomColor: #9333EA;</code></td>
   </tr>
   <tr>
     <td><code>border-y-purple-700</code></td>
-    <td><code>borderTopColor: #7E22CE;</code>
-<code>borderBottomColor: #7E22CE;</code></td>
+    <td><code>borderTopColor: #7E22CE;</code><br><code>borderBottomColor: #7E22CE;</code></td>
   </tr>
   <tr>
     <td><code>border-y-purple-800</code></td>
-    <td><code>borderTopColor: #6B21A8;</code>
-<code>borderBottomColor: #6B21A8;</code></td>
+    <td><code>borderTopColor: #6B21A8;</code><br><code>borderBottomColor: #6B21A8;</code></td>
   </tr>
   <tr>
     <td><code>border-y-purple-900</code></td>
-    <td><code>borderTopColor: #581C87;</code>
-<code>borderBottomColor: #581C87;</code></td>
+    <td><code>borderTopColor: #581C87;</code><br><code>borderBottomColor: #581C87;</code></td>
   </tr>
   <tr>
     <td><code>border-y-purple-950</code></td>
-    <td><code>borderTopColor: #3B0764;</code>
-<code>borderBottomColor: #3B0764;</code></td>
+    <td><code>borderTopColor: #3B0764;</code><br><code>borderBottomColor: #3B0764;</code></td>
   </tr>
   <tr>
     <td><code>border-y-red-100</code></td>
-    <td><code>borderTopColor: #FEE2E2;</code>
-<code>borderBottomColor: #FEE2E2;</code></td>
+    <td><code>borderTopColor: #FEE2E2;</code><br><code>borderBottomColor: #FEE2E2;</code></td>
   </tr>
   <tr>
     <td><code>border-y-red-200</code></td>
-    <td><code>borderTopColor: #FECACA;</code>
-<code>borderBottomColor: #FECACA;</code></td>
+    <td><code>borderTopColor: #FECACA;</code><br><code>borderBottomColor: #FECACA;</code></td>
   </tr>
   <tr>
     <td><code>border-y-red-300</code></td>
-    <td><code>borderTopColor: #FCA5A5;</code>
-<code>borderBottomColor: #FCA5A5;</code></td>
+    <td><code>borderTopColor: #FCA5A5;</code><br><code>borderBottomColor: #FCA5A5;</code></td>
   </tr>
   <tr>
     <td><code>border-y-red-400</code></td>
-    <td><code>borderTopColor: #F87171;</code>
-<code>borderBottomColor: #F87171;</code></td>
+    <td><code>borderTopColor: #F87171;</code><br><code>borderBottomColor: #F87171;</code></td>
   </tr>
   <tr>
     <td><code>border-y-red-50</code></td>
-    <td><code>borderTopColor: #FEF2F2;</code>
-<code>borderBottomColor: #FEF2F2;</code></td>
+    <td><code>borderTopColor: #FEF2F2;</code><br><code>borderBottomColor: #FEF2F2;</code></td>
   </tr>
   <tr>
     <td><code>border-y-red-500</code></td>
-    <td><code>borderTopColor: #EF4444;</code>
-<code>borderBottomColor: #EF4444;</code></td>
+    <td><code>borderTopColor: #EF4444;</code><br><code>borderBottomColor: #EF4444;</code></td>
   </tr>
   <tr>
     <td><code>border-y-red-600</code></td>
-    <td><code>borderTopColor: #DC2626;</code>
-<code>borderBottomColor: #DC2626;</code></td>
+    <td><code>borderTopColor: #DC2626;</code><br><code>borderBottomColor: #DC2626;</code></td>
   </tr>
   <tr>
     <td><code>border-y-red-700</code></td>
-    <td><code>borderTopColor: #B91C1C;</code>
-<code>borderBottomColor: #B91C1C;</code></td>
+    <td><code>borderTopColor: #B91C1C;</code><br><code>borderBottomColor: #B91C1C;</code></td>
   </tr>
   <tr>
     <td><code>border-y-red-800</code></td>
-    <td><code>borderTopColor: #991B1B;</code>
-<code>borderBottomColor: #991B1B;</code></td>
+    <td><code>borderTopColor: #991B1B;</code><br><code>borderBottomColor: #991B1B;</code></td>
   </tr>
   <tr>
     <td><code>border-y-red-900</code></td>
-    <td><code>borderTopColor: #7F1D1D;</code>
-<code>borderBottomColor: #7F1D1D;</code></td>
+    <td><code>borderTopColor: #7F1D1D;</code><br><code>borderBottomColor: #7F1D1D;</code></td>
   </tr>
   <tr>
     <td><code>border-y-red-950</code></td>
-    <td><code>borderTopColor: #450A0A;</code>
-<code>borderBottomColor: #450A0A;</code></td>
+    <td><code>borderTopColor: #450A0A;</code><br><code>borderBottomColor: #450A0A;</code></td>
   </tr>
   <tr>
     <td><code>border-y-rose-100</code></td>
-    <td><code>borderTopColor: #FFE4E6;</code>
-<code>borderBottomColor: #FFE4E6;</code></td>
+    <td><code>borderTopColor: #FFE4E6;</code><br><code>borderBottomColor: #FFE4E6;</code></td>
   </tr>
   <tr>
     <td><code>border-y-rose-200</code></td>
-    <td><code>borderTopColor: #FECDD3;</code>
-<code>borderBottomColor: #FECDD3;</code></td>
+    <td><code>borderTopColor: #FECDD3;</code><br><code>borderBottomColor: #FECDD3;</code></td>
   </tr>
   <tr>
     <td><code>border-y-rose-300</code></td>
-    <td><code>borderTopColor: #FDA4AF;</code>
-<code>borderBottomColor: #FDA4AF;</code></td>
+    <td><code>borderTopColor: #FDA4AF;</code><br><code>borderBottomColor: #FDA4AF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-rose-400</code></td>
-    <td><code>borderTopColor: #FB7185;</code>
-<code>borderBottomColor: #FB7185;</code></td>
+    <td><code>borderTopColor: #FB7185;</code><br><code>borderBottomColor: #FB7185;</code></td>
   </tr>
   <tr>
     <td><code>border-y-rose-50</code></td>
-    <td><code>borderTopColor: #FFF1F2;</code>
-<code>borderBottomColor: #FFF1F2;</code></td>
+    <td><code>borderTopColor: #FFF1F2;</code><br><code>borderBottomColor: #FFF1F2;</code></td>
   </tr>
   <tr>
     <td><code>border-y-rose-500</code></td>
-    <td><code>borderTopColor: #F43F5E;</code>
-<code>borderBottomColor: #F43F5E;</code></td>
+    <td><code>borderTopColor: #F43F5E;</code><br><code>borderBottomColor: #F43F5E;</code></td>
   </tr>
   <tr>
     <td><code>border-y-rose-600</code></td>
-    <td><code>borderTopColor: #E11D48;</code>
-<code>borderBottomColor: #E11D48;</code></td>
+    <td><code>borderTopColor: #E11D48;</code><br><code>borderBottomColor: #E11D48;</code></td>
   </tr>
   <tr>
     <td><code>border-y-rose-700</code></td>
-    <td><code>borderTopColor: #BE123C;</code>
-<code>borderBottomColor: #BE123C;</code></td>
+    <td><code>borderTopColor: #BE123C;</code><br><code>borderBottomColor: #BE123C;</code></td>
   </tr>
   <tr>
     <td><code>border-y-rose-800</code></td>
-    <td><code>borderTopColor: #9F1239;</code>
-<code>borderBottomColor: #9F1239;</code></td>
+    <td><code>borderTopColor: #9F1239;</code><br><code>borderBottomColor: #9F1239;</code></td>
   </tr>
   <tr>
     <td><code>border-y-rose-900</code></td>
-    <td><code>borderTopColor: #881337;</code>
-<code>borderBottomColor: #881337;</code></td>
+    <td><code>borderTopColor: #881337;</code><br><code>borderBottomColor: #881337;</code></td>
   </tr>
   <tr>
     <td><code>border-y-rose-950</code></td>
-    <td><code>borderTopColor: #4C0519;</code>
-<code>borderBottomColor: #4C0519;</code></td>
+    <td><code>borderTopColor: #4C0519;</code><br><code>borderBottomColor: #4C0519;</code></td>
   </tr>
   <tr>
     <td><code>border-y-sky-100</code></td>
-    <td><code>borderTopColor: #E0F2FE;</code>
-<code>borderBottomColor: #E0F2FE;</code></td>
+    <td><code>borderTopColor: #E0F2FE;</code><br><code>borderBottomColor: #E0F2FE;</code></td>
   </tr>
   <tr>
     <td><code>border-y-sky-200</code></td>
-    <td><code>borderTopColor: #BAE6FD;</code>
-<code>borderBottomColor: #BAE6FD;</code></td>
+    <td><code>borderTopColor: #BAE6FD;</code><br><code>borderBottomColor: #BAE6FD;</code></td>
   </tr>
   <tr>
     <td><code>border-y-sky-300</code></td>
-    <td><code>borderTopColor: #7DD3FC;</code>
-<code>borderBottomColor: #7DD3FC;</code></td>
+    <td><code>borderTopColor: #7DD3FC;</code><br><code>borderBottomColor: #7DD3FC;</code></td>
   </tr>
   <tr>
     <td><code>border-y-sky-400</code></td>
-    <td><code>borderTopColor: #38BDF8;</code>
-<code>borderBottomColor: #38BDF8;</code></td>
+    <td><code>borderTopColor: #38BDF8;</code><br><code>borderBottomColor: #38BDF8;</code></td>
   </tr>
   <tr>
     <td><code>border-y-sky-50</code></td>
-    <td><code>borderTopColor: #F0F9FF;</code>
-<code>borderBottomColor: #F0F9FF;</code></td>
+    <td><code>borderTopColor: #F0F9FF;</code><br><code>borderBottomColor: #F0F9FF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-sky-500</code></td>
-    <td><code>borderTopColor: #0EA5E9;</code>
-<code>borderBottomColor: #0EA5E9;</code></td>
+    <td><code>borderTopColor: #0EA5E9;</code><br><code>borderBottomColor: #0EA5E9;</code></td>
   </tr>
   <tr>
     <td><code>border-y-sky-600</code></td>
-    <td><code>borderTopColor: #0284C7;</code>
-<code>borderBottomColor: #0284C7;</code></td>
+    <td><code>borderTopColor: #0284C7;</code><br><code>borderBottomColor: #0284C7;</code></td>
   </tr>
   <tr>
     <td><code>border-y-sky-700</code></td>
-    <td><code>borderTopColor: #0369A1;</code>
-<code>borderBottomColor: #0369A1;</code></td>
+    <td><code>borderTopColor: #0369A1;</code><br><code>borderBottomColor: #0369A1;</code></td>
   </tr>
   <tr>
     <td><code>border-y-sky-800</code></td>
-    <td><code>borderTopColor: #075985;</code>
-<code>borderBottomColor: #075985;</code></td>
+    <td><code>borderTopColor: #075985;</code><br><code>borderBottomColor: #075985;</code></td>
   </tr>
   <tr>
     <td><code>border-y-sky-900</code></td>
-    <td><code>borderTopColor: #0C4A6E;</code>
-<code>borderBottomColor: #0C4A6E;</code></td>
+    <td><code>borderTopColor: #0C4A6E;</code><br><code>borderBottomColor: #0C4A6E;</code></td>
   </tr>
   <tr>
     <td><code>border-y-sky-950</code></td>
-    <td><code>borderTopColor: #082F49;</code>
-<code>borderBottomColor: #082F49;</code></td>
+    <td><code>borderTopColor: #082F49;</code><br><code>borderBottomColor: #082F49;</code></td>
   </tr>
   <tr>
     <td><code>border-y-slate-100</code></td>
-    <td><code>borderTopColor: #F1F5F9;</code>
-<code>borderBottomColor: #F1F5F9;</code></td>
+    <td><code>borderTopColor: #F1F5F9;</code><br><code>borderBottomColor: #F1F5F9;</code></td>
   </tr>
   <tr>
     <td><code>border-y-slate-200</code></td>
-    <td><code>borderTopColor: #E2E8F0;</code>
-<code>borderBottomColor: #E2E8F0;</code></td>
+    <td><code>borderTopColor: #E2E8F0;</code><br><code>borderBottomColor: #E2E8F0;</code></td>
   </tr>
   <tr>
     <td><code>border-y-slate-300</code></td>
-    <td><code>borderTopColor: #CBD5E1;</code>
-<code>borderBottomColor: #CBD5E1;</code></td>
+    <td><code>borderTopColor: #CBD5E1;</code><br><code>borderBottomColor: #CBD5E1;</code></td>
   </tr>
   <tr>
     <td><code>border-y-slate-400</code></td>
-    <td><code>borderTopColor: #94A3B8;</code>
-<code>borderBottomColor: #94A3B8;</code></td>
+    <td><code>borderTopColor: #94A3B8;</code><br><code>borderBottomColor: #94A3B8;</code></td>
   </tr>
   <tr>
     <td><code>border-y-slate-50</code></td>
-    <td><code>borderTopColor: #F8FAFC;</code>
-<code>borderBottomColor: #F8FAFC;</code></td>
+    <td><code>borderTopColor: #F8FAFC;</code><br><code>borderBottomColor: #F8FAFC;</code></td>
   </tr>
   <tr>
     <td><code>border-y-slate-500</code></td>
-    <td><code>borderTopColor: #64748B;</code>
-<code>borderBottomColor: #64748B;</code></td>
+    <td><code>borderTopColor: #64748B;</code><br><code>borderBottomColor: #64748B;</code></td>
   </tr>
   <tr>
     <td><code>border-y-slate-600</code></td>
-    <td><code>borderTopColor: #475569;</code>
-<code>borderBottomColor: #475569;</code></td>
+    <td><code>borderTopColor: #475569;</code><br><code>borderBottomColor: #475569;</code></td>
   </tr>
   <tr>
     <td><code>border-y-slate-700</code></td>
-    <td><code>borderTopColor: #334155;</code>
-<code>borderBottomColor: #334155;</code></td>
+    <td><code>borderTopColor: #334155;</code><br><code>borderBottomColor: #334155;</code></td>
   </tr>
   <tr>
     <td><code>border-y-slate-800</code></td>
-    <td><code>borderTopColor: #1E293B;</code>
-<code>borderBottomColor: #1E293B;</code></td>
+    <td><code>borderTopColor: #1E293B;</code><br><code>borderBottomColor: #1E293B;</code></td>
   </tr>
   <tr>
     <td><code>border-y-slate-900</code></td>
-    <td><code>borderTopColor: #0F172A;</code>
-<code>borderBottomColor: #0F172A;</code></td>
+    <td><code>borderTopColor: #0F172A;</code><br><code>borderBottomColor: #0F172A;</code></td>
   </tr>
   <tr>
     <td><code>border-y-slate-950</code></td>
-    <td><code>borderTopColor: #020617;</code>
-<code>borderBottomColor: #020617;</code></td>
+    <td><code>borderTopColor: #020617;</code><br><code>borderBottomColor: #020617;</code></td>
   </tr>
   <tr>
     <td><code>border-y-stone-100</code></td>
-    <td><code>borderTopColor: #F5F5F4;</code>
-<code>borderBottomColor: #F5F5F4;</code></td>
+    <td><code>borderTopColor: #F5F5F4;</code><br><code>borderBottomColor: #F5F5F4;</code></td>
   </tr>
   <tr>
     <td><code>border-y-stone-200</code></td>
-    <td><code>borderTopColor: #E7E5E4;</code>
-<code>borderBottomColor: #E7E5E4;</code></td>
+    <td><code>borderTopColor: #E7E5E4;</code><br><code>borderBottomColor: #E7E5E4;</code></td>
   </tr>
   <tr>
     <td><code>border-y-stone-300</code></td>
-    <td><code>borderTopColor: #D6D3D1;</code>
-<code>borderBottomColor: #D6D3D1;</code></td>
+    <td><code>borderTopColor: #D6D3D1;</code><br><code>borderBottomColor: #D6D3D1;</code></td>
   </tr>
   <tr>
     <td><code>border-y-stone-400</code></td>
-    <td><code>borderTopColor: #A8A29E;</code>
-<code>borderBottomColor: #A8A29E;</code></td>
+    <td><code>borderTopColor: #A8A29E;</code><br><code>borderBottomColor: #A8A29E;</code></td>
   </tr>
   <tr>
     <td><code>border-y-stone-50</code></td>
-    <td><code>borderTopColor: #FAFAF9;</code>
-<code>borderBottomColor: #FAFAF9;</code></td>
+    <td><code>borderTopColor: #FAFAF9;</code><br><code>borderBottomColor: #FAFAF9;</code></td>
   </tr>
   <tr>
     <td><code>border-y-stone-500</code></td>
-    <td><code>borderTopColor: #78716C;</code>
-<code>borderBottomColor: #78716C;</code></td>
+    <td><code>borderTopColor: #78716C;</code><br><code>borderBottomColor: #78716C;</code></td>
   </tr>
   <tr>
     <td><code>border-y-stone-600</code></td>
-    <td><code>borderTopColor: #57534E;</code>
-<code>borderBottomColor: #57534E;</code></td>
+    <td><code>borderTopColor: #57534E;</code><br><code>borderBottomColor: #57534E;</code></td>
   </tr>
   <tr>
     <td><code>border-y-stone-700</code></td>
-    <td><code>borderTopColor: #44403C;</code>
-<code>borderBottomColor: #44403C;</code></td>
+    <td><code>borderTopColor: #44403C;</code><br><code>borderBottomColor: #44403C;</code></td>
   </tr>
   <tr>
     <td><code>border-y-stone-800</code></td>
-    <td><code>borderTopColor: #292524;</code>
-<code>borderBottomColor: #292524;</code></td>
+    <td><code>borderTopColor: #292524;</code><br><code>borderBottomColor: #292524;</code></td>
   </tr>
   <tr>
     <td><code>border-y-stone-900</code></td>
-    <td><code>borderTopColor: #1C1917;</code>
-<code>borderBottomColor: #1C1917;</code></td>
+    <td><code>borderTopColor: #1C1917;</code><br><code>borderBottomColor: #1C1917;</code></td>
   </tr>
   <tr>
     <td><code>border-y-stone-950</code></td>
-    <td><code>borderTopColor: #0C0A09;</code>
-<code>borderBottomColor: #0C0A09;</code></td>
+    <td><code>borderTopColor: #0C0A09;</code><br><code>borderBottomColor: #0C0A09;</code></td>
   </tr>
   <tr>
     <td><code>border-y-teal-100</code></td>
-    <td><code>borderTopColor: #CCFBF1;</code>
-<code>borderBottomColor: #CCFBF1;</code></td>
+    <td><code>borderTopColor: #CCFBF1;</code><br><code>borderBottomColor: #CCFBF1;</code></td>
   </tr>
   <tr>
     <td><code>border-y-teal-200</code></td>
-    <td><code>borderTopColor: #99F6E4;</code>
-<code>borderBottomColor: #99F6E4;</code></td>
+    <td><code>borderTopColor: #99F6E4;</code><br><code>borderBottomColor: #99F6E4;</code></td>
   </tr>
   <tr>
     <td><code>border-y-teal-300</code></td>
-    <td><code>borderTopColor: #5EEAD4;</code>
-<code>borderBottomColor: #5EEAD4;</code></td>
+    <td><code>borderTopColor: #5EEAD4;</code><br><code>borderBottomColor: #5EEAD4;</code></td>
   </tr>
   <tr>
     <td><code>border-y-teal-400</code></td>
-    <td><code>borderTopColor: #2DD4BF;</code>
-<code>borderBottomColor: #2DD4BF;</code></td>
+    <td><code>borderTopColor: #2DD4BF;</code><br><code>borderBottomColor: #2DD4BF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-teal-50</code></td>
-    <td><code>borderTopColor: #F0FDFA;</code>
-<code>borderBottomColor: #F0FDFA;</code></td>
+    <td><code>borderTopColor: #F0FDFA;</code><br><code>borderBottomColor: #F0FDFA;</code></td>
   </tr>
   <tr>
     <td><code>border-y-teal-500</code></td>
-    <td><code>borderTopColor: #14B8A6;</code>
-<code>borderBottomColor: #14B8A6;</code></td>
+    <td><code>borderTopColor: #14B8A6;</code><br><code>borderBottomColor: #14B8A6;</code></td>
   </tr>
   <tr>
     <td><code>border-y-teal-600</code></td>
-    <td><code>borderTopColor: #0D9488;</code>
-<code>borderBottomColor: #0D9488;</code></td>
+    <td><code>borderTopColor: #0D9488;</code><br><code>borderBottomColor: #0D9488;</code></td>
   </tr>
   <tr>
     <td><code>border-y-teal-700</code></td>
-    <td><code>borderTopColor: #0F766E;</code>
-<code>borderBottomColor: #0F766E;</code></td>
+    <td><code>borderTopColor: #0F766E;</code><br><code>borderBottomColor: #0F766E;</code></td>
   </tr>
   <tr>
     <td><code>border-y-teal-800</code></td>
-    <td><code>borderTopColor: #115E59;</code>
-<code>borderBottomColor: #115E59;</code></td>
+    <td><code>borderTopColor: #115E59;</code><br><code>borderBottomColor: #115E59;</code></td>
   </tr>
   <tr>
     <td><code>border-y-teal-900</code></td>
-    <td><code>borderTopColor: #134E4A;</code>
-<code>borderBottomColor: #134E4A;</code></td>
+    <td><code>borderTopColor: #134E4A;</code><br><code>borderBottomColor: #134E4A;</code></td>
   </tr>
   <tr>
     <td><code>border-y-teal-950</code></td>
-    <td><code>borderTopColor: #042F2E;</code>
-<code>borderBottomColor: #042F2E;</code></td>
+    <td><code>borderTopColor: #042F2E;</code><br><code>borderBottomColor: #042F2E;</code></td>
   </tr>
   <tr>
     <td><code>border-y-transparent</code></td>
-    <td><code>borderTopColor: transparent;</code>
-<code>borderBottomColor: transparent;</code></td>
+    <td><code>borderTopColor: transparent;</code><br><code>borderBottomColor: transparent;</code></td>
   </tr>
   <tr>
     <td><code>border-y-violet-100</code></td>
-    <td><code>borderTopColor: #EDE9FE;</code>
-<code>borderBottomColor: #EDE9FE;</code></td>
+    <td><code>borderTopColor: #EDE9FE;</code><br><code>borderBottomColor: #EDE9FE;</code></td>
   </tr>
   <tr>
     <td><code>border-y-violet-200</code></td>
-    <td><code>borderTopColor: #DDD6FE;</code>
-<code>borderBottomColor: #DDD6FE;</code></td>
+    <td><code>borderTopColor: #DDD6FE;</code><br><code>borderBottomColor: #DDD6FE;</code></td>
   </tr>
   <tr>
     <td><code>border-y-violet-300</code></td>
-    <td><code>borderTopColor: #C4B5FD;</code>
-<code>borderBottomColor: #C4B5FD;</code></td>
+    <td><code>borderTopColor: #C4B5FD;</code><br><code>borderBottomColor: #C4B5FD;</code></td>
   </tr>
   <tr>
     <td><code>border-y-violet-400</code></td>
-    <td><code>borderTopColor: #A78BFA;</code>
-<code>borderBottomColor: #A78BFA;</code></td>
+    <td><code>borderTopColor: #A78BFA;</code><br><code>borderBottomColor: #A78BFA;</code></td>
   </tr>
   <tr>
     <td><code>border-y-violet-50</code></td>
-    <td><code>borderTopColor: #F5F3FF;</code>
-<code>borderBottomColor: #F5F3FF;</code></td>
+    <td><code>borderTopColor: #F5F3FF;</code><br><code>borderBottomColor: #F5F3FF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-violet-500</code></td>
-    <td><code>borderTopColor: #8B5CF6;</code>
-<code>borderBottomColor: #8B5CF6;</code></td>
+    <td><code>borderTopColor: #8B5CF6;</code><br><code>borderBottomColor: #8B5CF6;</code></td>
   </tr>
   <tr>
     <td><code>border-y-violet-600</code></td>
-    <td><code>borderTopColor: #7C3AED;</code>
-<code>borderBottomColor: #7C3AED;</code></td>
+    <td><code>borderTopColor: #7C3AED;</code><br><code>borderBottomColor: #7C3AED;</code></td>
   </tr>
   <tr>
     <td><code>border-y-violet-700</code></td>
-    <td><code>borderTopColor: #6D28D9;</code>
-<code>borderBottomColor: #6D28D9;</code></td>
+    <td><code>borderTopColor: #6D28D9;</code><br><code>borderBottomColor: #6D28D9;</code></td>
   </tr>
   <tr>
     <td><code>border-y-violet-800</code></td>
-    <td><code>borderTopColor: #5B21B6;</code>
-<code>borderBottomColor: #5B21B6;</code></td>
+    <td><code>borderTopColor: #5B21B6;</code><br><code>borderBottomColor: #5B21B6;</code></td>
   </tr>
   <tr>
     <td><code>border-y-violet-900</code></td>
-    <td><code>borderTopColor: #4C1D95;</code>
-<code>borderBottomColor: #4C1D95;</code></td>
+    <td><code>borderTopColor: #4C1D95;</code><br><code>borderBottomColor: #4C1D95;</code></td>
   </tr>
   <tr>
     <td><code>border-y-violet-950</code></td>
-    <td><code>borderTopColor: #2E1065;</code>
-<code>borderBottomColor: #2E1065;</code></td>
+    <td><code>borderTopColor: #2E1065;</code><br><code>borderBottomColor: #2E1065;</code></td>
   </tr>
   <tr>
     <td><code>border-y-white</code></td>
-    <td><code>borderTopColor: #FFFFFF;</code>
-<code>borderBottomColor: #FFFFFF;</code></td>
+    <td><code>borderTopColor: #FFFFFF;</code><br><code>borderBottomColor: #FFFFFF;</code></td>
   </tr>
   <tr>
     <td><code>border-y-yellow-100</code></td>
-    <td><code>borderTopColor: #FEF9C3;</code>
-<code>borderBottomColor: #FEF9C3;</code></td>
+    <td><code>borderTopColor: #FEF9C3;</code><br><code>borderBottomColor: #FEF9C3;</code></td>
   </tr>
   <tr>
     <td><code>border-y-yellow-200</code></td>
-    <td><code>borderTopColor: #FEF08A;</code>
-<code>borderBottomColor: #FEF08A;</code></td>
+    <td><code>borderTopColor: #FEF08A;</code><br><code>borderBottomColor: #FEF08A;</code></td>
   </tr>
   <tr>
     <td><code>border-y-yellow-300</code></td>
-    <td><code>borderTopColor: #FDE047;</code>
-<code>borderBottomColor: #FDE047;</code></td>
+    <td><code>borderTopColor: #FDE047;</code><br><code>borderBottomColor: #FDE047;</code></td>
   </tr>
   <tr>
     <td><code>border-y-yellow-400</code></td>
-    <td><code>borderTopColor: #FACC15;</code>
-<code>borderBottomColor: #FACC15;</code></td>
+    <td><code>borderTopColor: #FACC15;</code><br><code>borderBottomColor: #FACC15;</code></td>
   </tr>
   <tr>
     <td><code>border-y-yellow-50</code></td>
-    <td><code>borderTopColor: #FEFCE8;</code>
-<code>borderBottomColor: #FEFCE8;</code></td>
+    <td><code>borderTopColor: #FEFCE8;</code><br><code>borderBottomColor: #FEFCE8;</code></td>
   </tr>
   <tr>
     <td><code>border-y-yellow-500</code></td>
-    <td><code>borderTopColor: #EAB308;</code>
-<code>borderBottomColor: #EAB308;</code></td>
+    <td><code>borderTopColor: #EAB308;</code><br><code>borderBottomColor: #EAB308;</code></td>
   </tr>
   <tr>
     <td><code>border-y-yellow-600</code></td>
-    <td><code>borderTopColor: #CA8A04;</code>
-<code>borderBottomColor: #CA8A04;</code></td>
+    <td><code>borderTopColor: #CA8A04;</code><br><code>borderBottomColor: #CA8A04;</code></td>
   </tr>
   <tr>
     <td><code>border-y-yellow-700</code></td>
-    <td><code>borderTopColor: #A16207;</code>
-<code>borderBottomColor: #A16207;</code></td>
+    <td><code>borderTopColor: #A16207;</code><br><code>borderBottomColor: #A16207;</code></td>
   </tr>
   <tr>
     <td><code>border-y-yellow-800</code></td>
-    <td><code>borderTopColor: #854D0E;</code>
-<code>borderBottomColor: #854D0E;</code></td>
+    <td><code>borderTopColor: #854D0E;</code><br><code>borderBottomColor: #854D0E;</code></td>
   </tr>
   <tr>
     <td><code>border-y-yellow-900</code></td>
-    <td><code>borderTopColor: #713F12;</code>
-<code>borderBottomColor: #713F12;</code></td>
+    <td><code>borderTopColor: #713F12;</code><br><code>borderBottomColor: #713F12;</code></td>
   </tr>
   <tr>
     <td><code>border-y-yellow-950</code></td>
-    <td><code>borderTopColor: #422006;</code>
-<code>borderBottomColor: #422006;</code></td>
+    <td><code>borderTopColor: #422006;</code><br><code>borderBottomColor: #422006;</code></td>
   </tr>
   <tr>
     <td><code>border-y-zinc-100</code></td>
-    <td><code>borderTopColor: #F4F4F5;</code>
-<code>borderBottomColor: #F4F4F5;</code></td>
+    <td><code>borderTopColor: #F4F4F5;</code><br><code>borderBottomColor: #F4F4F5;</code></td>
   </tr>
   <tr>
     <td><code>border-y-zinc-200</code></td>
-    <td><code>borderTopColor: #E4E4E7;</code>
-<code>borderBottomColor: #E4E4E7;</code></td>
+    <td><code>borderTopColor: #E4E4E7;</code><br><code>borderBottomColor: #E4E4E7;</code></td>
   </tr>
   <tr>
     <td><code>border-y-zinc-300</code></td>
-    <td><code>borderTopColor: #D4D4D8;</code>
-<code>borderBottomColor: #D4D4D8;</code></td>
+    <td><code>borderTopColor: #D4D4D8;</code><br><code>borderBottomColor: #D4D4D8;</code></td>
   </tr>
   <tr>
     <td><code>border-y-zinc-400</code></td>
-    <td><code>borderTopColor: #A1A1AA;</code>
-<code>borderBottomColor: #A1A1AA;</code></td>
+    <td><code>borderTopColor: #A1A1AA;</code><br><code>borderBottomColor: #A1A1AA;</code></td>
   </tr>
   <tr>
     <td><code>border-y-zinc-50</code></td>
-    <td><code>borderTopColor: #FAFAFA;</code>
-<code>borderBottomColor: #FAFAFA;</code></td>
+    <td><code>borderTopColor: #FAFAFA;</code><br><code>borderBottomColor: #FAFAFA;</code></td>
   </tr>
   <tr>
     <td><code>border-y-zinc-500</code></td>
-    <td><code>borderTopColor: #71717A;</code>
-<code>borderBottomColor: #71717A;</code></td>
+    <td><code>borderTopColor: #71717A;</code><br><code>borderBottomColor: #71717A;</code></td>
   </tr>
   <tr>
     <td><code>border-y-zinc-600</code></td>
-    <td><code>borderTopColor: #52525B;</code>
-<code>borderBottomColor: #52525B;</code></td>
+    <td><code>borderTopColor: #52525B;</code><br><code>borderBottomColor: #52525B;</code></td>
   </tr>
   <tr>
     <td><code>border-y-zinc-700</code></td>
-    <td><code>borderTopColor: #3F3F46;</code>
-<code>borderBottomColor: #3F3F46;</code></td>
+    <td><code>borderTopColor: #3F3F46;</code><br><code>borderBottomColor: #3F3F46;</code></td>
   </tr>
   <tr>
     <td><code>border-y-zinc-800</code></td>
-    <td><code>borderTopColor: #27272A;</code>
-<code>borderBottomColor: #27272A;</code></td>
+    <td><code>borderTopColor: #27272A;</code><br><code>borderBottomColor: #27272A;</code></td>
   </tr>
   <tr>
     <td><code>border-y-zinc-900</code></td>
-    <td><code>borderTopColor: #18181B;</code>
-<code>borderBottomColor: #18181B;</code></td>
+    <td><code>borderTopColor: #18181B;</code><br><code>borderBottomColor: #18181B;</code></td>
   </tr>
   <tr>
     <td><code>border-y-zinc-950</code></td>
-    <td><code>borderTopColor: #09090B;</code>
-<code>borderBottomColor: #09090B;</code></td>
+    <td><code>borderTopColor: #09090B;</code><br><code>borderBottomColor: #09090B;</code></td>
   </tr>
   <tr>
     <td><code>border-b-amber-100</code></td>
@@ -30238,313 +29163,251 @@
   </tr>
   <tr>
     <td><code>px-0</code></td>
-    <td><code>paddingLeft: 0px;</code>
-<code>paddingRight: 0px;</code></td>
+    <td><code>paddingLeft: 0px;</code><br><code>paddingRight: 0px;</code></td>
   </tr>
   <tr>
     <td><code>px-1</code></td>
-    <td><code>paddingLeft: 0.25rem;</code>
-<code>paddingRight: 0.25rem;</code></td>
+    <td><code>paddingLeft: 0.25rem;</code><br><code>paddingRight: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>px-10</code></td>
-    <td><code>paddingLeft: 2.5rem;</code>
-<code>paddingRight: 2.5rem;</code></td>
+    <td><code>paddingLeft: 2.5rem;</code><br><code>paddingRight: 2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>px-11</code></td>
-    <td><code>paddingLeft: 2.75rem;</code>
-<code>paddingRight: 2.75rem;</code></td>
+    <td><code>paddingLeft: 2.75rem;</code><br><code>paddingRight: 2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>px-12</code></td>
-    <td><code>paddingLeft: 3rem;</code>
-<code>paddingRight: 3rem;</code></td>
+    <td><code>paddingLeft: 3rem;</code><br><code>paddingRight: 3rem;</code></td>
   </tr>
   <tr>
     <td><code>px-14</code></td>
-    <td><code>paddingLeft: 3.5rem;</code>
-<code>paddingRight: 3.5rem;</code></td>
+    <td><code>paddingLeft: 3.5rem;</code><br><code>paddingRight: 3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>px-16</code></td>
-    <td><code>paddingLeft: 4rem;</code>
-<code>paddingRight: 4rem;</code></td>
+    <td><code>paddingLeft: 4rem;</code><br><code>paddingRight: 4rem;</code></td>
   </tr>
   <tr>
     <td><code>px-2</code></td>
-    <td><code>paddingLeft: 0.5rem;</code>
-<code>paddingRight: 0.5rem;</code></td>
+    <td><code>paddingLeft: 0.5rem;</code><br><code>paddingRight: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>px-20</code></td>
-    <td><code>paddingLeft: 5rem;</code>
-<code>paddingRight: 5rem;</code></td>
+    <td><code>paddingLeft: 5rem;</code><br><code>paddingRight: 5rem;</code></td>
   </tr>
   <tr>
     <td><code>px-24</code></td>
-    <td><code>paddingLeft: 6rem;</code>
-<code>paddingRight: 6rem;</code></td>
+    <td><code>paddingLeft: 6rem;</code><br><code>paddingRight: 6rem;</code></td>
   </tr>
   <tr>
     <td><code>px-28</code></td>
-    <td><code>paddingLeft: 7rem;</code>
-<code>paddingRight: 7rem;</code></td>
+    <td><code>paddingLeft: 7rem;</code><br><code>paddingRight: 7rem;</code></td>
   </tr>
   <tr>
     <td><code>px-3</code></td>
-    <td><code>paddingLeft: 0.75rem;</code>
-<code>paddingRight: 0.75rem;</code></td>
+    <td><code>paddingLeft: 0.75rem;</code><br><code>paddingRight: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>px-32</code></td>
-    <td><code>paddingLeft: 8rem;</code>
-<code>paddingRight: 8rem;</code></td>
+    <td><code>paddingLeft: 8rem;</code><br><code>paddingRight: 8rem;</code></td>
   </tr>
   <tr>
     <td><code>px-36</code></td>
-    <td><code>paddingLeft: 9rem;</code>
-<code>paddingRight: 9rem;</code></td>
+    <td><code>paddingLeft: 9rem;</code><br><code>paddingRight: 9rem;</code></td>
   </tr>
   <tr>
     <td><code>px-4</code></td>
-    <td><code>paddingLeft: 1rem;</code>
-<code>paddingRight: 1rem;</code></td>
+    <td><code>paddingLeft: 1rem;</code><br><code>paddingRight: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>px-40</code></td>
-    <td><code>paddingLeft: 10rem;</code>
-<code>paddingRight: 10rem;</code></td>
+    <td><code>paddingLeft: 10rem;</code><br><code>paddingRight: 10rem;</code></td>
   </tr>
   <tr>
     <td><code>px-44</code></td>
-    <td><code>paddingLeft: 11rem;</code>
-<code>paddingRight: 11rem;</code></td>
+    <td><code>paddingLeft: 11rem;</code><br><code>paddingRight: 11rem;</code></td>
   </tr>
   <tr>
     <td><code>px-48</code></td>
-    <td><code>paddingLeft: 12rem;</code>
-<code>paddingRight: 12rem;</code></td>
+    <td><code>paddingLeft: 12rem;</code><br><code>paddingRight: 12rem;</code></td>
   </tr>
   <tr>
     <td><code>px-5</code></td>
-    <td><code>paddingLeft: 1.25rem;</code>
-<code>paddingRight: 1.25rem;</code></td>
+    <td><code>paddingLeft: 1.25rem;</code><br><code>paddingRight: 1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>px-52</code></td>
-    <td><code>paddingLeft: 13rem;</code>
-<code>paddingRight: 13rem;</code></td>
+    <td><code>paddingLeft: 13rem;</code><br><code>paddingRight: 13rem;</code></td>
   </tr>
   <tr>
     <td><code>px-56</code></td>
-    <td><code>paddingLeft: 14rem;</code>
-<code>paddingRight: 14rem;</code></td>
+    <td><code>paddingLeft: 14rem;</code><br><code>paddingRight: 14rem;</code></td>
   </tr>
   <tr>
     <td><code>px-6</code></td>
-    <td><code>paddingLeft: 1.5rem;</code>
-<code>paddingRight: 1.5rem;</code></td>
+    <td><code>paddingLeft: 1.5rem;</code><br><code>paddingRight: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>px-60</code></td>
-    <td><code>paddingLeft: 15rem;</code>
-<code>paddingRight: 15rem;</code></td>
+    <td><code>paddingLeft: 15rem;</code><br><code>paddingRight: 15rem;</code></td>
   </tr>
   <tr>
     <td><code>px-64</code></td>
-    <td><code>paddingLeft: 16rem;</code>
-<code>paddingRight: 16rem;</code></td>
+    <td><code>paddingLeft: 16rem;</code><br><code>paddingRight: 16rem;</code></td>
   </tr>
   <tr>
     <td><code>px-7</code></td>
-    <td><code>paddingLeft: 1.75rem;</code>
-<code>paddingRight: 1.75rem;</code></td>
+    <td><code>paddingLeft: 1.75rem;</code><br><code>paddingRight: 1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>px-72</code></td>
-    <td><code>paddingLeft: 18rem;</code>
-<code>paddingRight: 18rem;</code></td>
+    <td><code>paddingLeft: 18rem;</code><br><code>paddingRight: 18rem;</code></td>
   </tr>
   <tr>
     <td><code>px-8</code></td>
-    <td><code>paddingLeft: 2rem;</code>
-<code>paddingRight: 2rem;</code></td>
+    <td><code>paddingLeft: 2rem;</code><br><code>paddingRight: 2rem;</code></td>
   </tr>
   <tr>
     <td><code>px-80</code></td>
-    <td><code>paddingLeft: 20rem;</code>
-<code>paddingRight: 20rem;</code></td>
+    <td><code>paddingLeft: 20rem;</code><br><code>paddingRight: 20rem;</code></td>
   </tr>
   <tr>
     <td><code>px-9</code></td>
-    <td><code>paddingLeft: 2.25rem;</code>
-<code>paddingRight: 2.25rem;</code></td>
+    <td><code>paddingLeft: 2.25rem;</code><br><code>paddingRight: 2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>px-96</code></td>
-    <td><code>paddingLeft: 24rem;</code>
-<code>paddingRight: 24rem;</code></td>
+    <td><code>paddingLeft: 24rem;</code><br><code>paddingRight: 24rem;</code></td>
   </tr>
   <tr>
     <td><code>px-px</code></td>
-    <td><code>paddingLeft: 1px;</code>
-<code>paddingRight: 1px;</code></td>
+    <td><code>paddingLeft: 1px;</code><br><code>paddingRight: 1px;</code></td>
   </tr>
   <tr>
     <td><code>py-0</code></td>
-    <td><code>paddingTop: 0px;</code>
-<code>paddingBottom: 0px;</code></td>
+    <td><code>paddingTop: 0px;</code><br><code>paddingBottom: 0px;</code></td>
   </tr>
   <tr>
     <td><code>py-1</code></td>
-    <td><code>paddingTop: 0.25rem;</code>
-<code>paddingBottom: 0.25rem;</code></td>
+    <td><code>paddingTop: 0.25rem;</code><br><code>paddingBottom: 0.25rem;</code></td>
   </tr>
   <tr>
     <td><code>py-10</code></td>
-    <td><code>paddingTop: 2.5rem;</code>
-<code>paddingBottom: 2.5rem;</code></td>
+    <td><code>paddingTop: 2.5rem;</code><br><code>paddingBottom: 2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>py-11</code></td>
-    <td><code>paddingTop: 2.75rem;</code>
-<code>paddingBottom: 2.75rem;</code></td>
+    <td><code>paddingTop: 2.75rem;</code><br><code>paddingBottom: 2.75rem;</code></td>
   </tr>
   <tr>
     <td><code>py-12</code></td>
-    <td><code>paddingTop: 3rem;</code>
-<code>paddingBottom: 3rem;</code></td>
+    <td><code>paddingTop: 3rem;</code><br><code>paddingBottom: 3rem;</code></td>
   </tr>
   <tr>
     <td><code>py-14</code></td>
-    <td><code>paddingTop: 3.5rem;</code>
-<code>paddingBottom: 3.5rem;</code></td>
+    <td><code>paddingTop: 3.5rem;</code><br><code>paddingBottom: 3.5rem;</code></td>
   </tr>
   <tr>
     <td><code>py-16</code></td>
-    <td><code>paddingTop: 4rem;</code>
-<code>paddingBottom: 4rem;</code></td>
+    <td><code>paddingTop: 4rem;</code><br><code>paddingBottom: 4rem;</code></td>
   </tr>
   <tr>
     <td><code>py-2</code></td>
-    <td><code>paddingTop: 0.5rem;</code>
-<code>paddingBottom: 0.5rem;</code></td>
+    <td><code>paddingTop: 0.5rem;</code><br><code>paddingBottom: 0.5rem;</code></td>
   </tr>
   <tr>
     <td><code>py-20</code></td>
-    <td><code>paddingTop: 5rem;</code>
-<code>paddingBottom: 5rem;</code></td>
+    <td><code>paddingTop: 5rem;</code><br><code>paddingBottom: 5rem;</code></td>
   </tr>
   <tr>
     <td><code>py-24</code></td>
-    <td><code>paddingTop: 6rem;</code>
-<code>paddingBottom: 6rem;</code></td>
+    <td><code>paddingTop: 6rem;</code><br><code>paddingBottom: 6rem;</code></td>
   </tr>
   <tr>
     <td><code>py-28</code></td>
-    <td><code>paddingTop: 7rem;</code>
-<code>paddingBottom: 7rem;</code></td>
+    <td><code>paddingTop: 7rem;</code><br><code>paddingBottom: 7rem;</code></td>
   </tr>
   <tr>
     <td><code>py-3</code></td>
-    <td><code>paddingTop: 0.75rem;</code>
-<code>paddingBottom: 0.75rem;</code></td>
+    <td><code>paddingTop: 0.75rem;</code><br><code>paddingBottom: 0.75rem;</code></td>
   </tr>
   <tr>
     <td><code>py-32</code></td>
-    <td><code>paddingTop: 8rem;</code>
-<code>paddingBottom: 8rem;</code></td>
+    <td><code>paddingTop: 8rem;</code><br><code>paddingBottom: 8rem;</code></td>
   </tr>
   <tr>
     <td><code>py-36</code></td>
-    <td><code>paddingTop: 9rem;</code>
-<code>paddingBottom: 9rem;</code></td>
+    <td><code>paddingTop: 9rem;</code><br><code>paddingBottom: 9rem;</code></td>
   </tr>
   <tr>
     <td><code>py-4</code></td>
-    <td><code>paddingTop: 1rem;</code>
-<code>paddingBottom: 1rem;</code></td>
+    <td><code>paddingTop: 1rem;</code><br><code>paddingBottom: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>py-40</code></td>
-    <td><code>paddingTop: 10rem;</code>
-<code>paddingBottom: 10rem;</code></td>
+    <td><code>paddingTop: 10rem;</code><br><code>paddingBottom: 10rem;</code></td>
   </tr>
   <tr>
     <td><code>py-44</code></td>
-    <td><code>paddingTop: 11rem;</code>
-<code>paddingBottom: 11rem;</code></td>
+    <td><code>paddingTop: 11rem;</code><br><code>paddingBottom: 11rem;</code></td>
   </tr>
   <tr>
     <td><code>py-48</code></td>
-    <td><code>paddingTop: 12rem;</code>
-<code>paddingBottom: 12rem;</code></td>
+    <td><code>paddingTop: 12rem;</code><br><code>paddingBottom: 12rem;</code></td>
   </tr>
   <tr>
     <td><code>py-5</code></td>
-    <td><code>paddingTop: 1.25rem;</code>
-<code>paddingBottom: 1.25rem;</code></td>
+    <td><code>paddingTop: 1.25rem;</code><br><code>paddingBottom: 1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>py-52</code></td>
-    <td><code>paddingTop: 13rem;</code>
-<code>paddingBottom: 13rem;</code></td>
+    <td><code>paddingTop: 13rem;</code><br><code>paddingBottom: 13rem;</code></td>
   </tr>
   <tr>
     <td><code>py-56</code></td>
-    <td><code>paddingTop: 14rem;</code>
-<code>paddingBottom: 14rem;</code></td>
+    <td><code>paddingTop: 14rem;</code><br><code>paddingBottom: 14rem;</code></td>
   </tr>
   <tr>
     <td><code>py-6</code></td>
-    <td><code>paddingTop: 1.5rem;</code>
-<code>paddingBottom: 1.5rem;</code></td>
+    <td><code>paddingTop: 1.5rem;</code><br><code>paddingBottom: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>py-60</code></td>
-    <td><code>paddingTop: 15rem;</code>
-<code>paddingBottom: 15rem;</code></td>
+    <td><code>paddingTop: 15rem;</code><br><code>paddingBottom: 15rem;</code></td>
   </tr>
   <tr>
     <td><code>py-64</code></td>
-    <td><code>paddingTop: 16rem;</code>
-<code>paddingBottom: 16rem;</code></td>
+    <td><code>paddingTop: 16rem;</code><br><code>paddingBottom: 16rem;</code></td>
   </tr>
   <tr>
     <td><code>py-7</code></td>
-    <td><code>paddingTop: 1.75rem;</code>
-<code>paddingBottom: 1.75rem;</code></td>
+    <td><code>paddingTop: 1.75rem;</code><br><code>paddingBottom: 1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>py-72</code></td>
-    <td><code>paddingTop: 18rem;</code>
-<code>paddingBottom: 18rem;</code></td>
+    <td><code>paddingTop: 18rem;</code><br><code>paddingBottom: 18rem;</code></td>
   </tr>
   <tr>
     <td><code>py-8</code></td>
-    <td><code>paddingTop: 2rem;</code>
-<code>paddingBottom: 2rem;</code></td>
+    <td><code>paddingTop: 2rem;</code><br><code>paddingBottom: 2rem;</code></td>
   </tr>
   <tr>
     <td><code>py-80</code></td>
-    <td><code>paddingTop: 20rem;</code>
-<code>paddingBottom: 20rem;</code></td>
+    <td><code>paddingTop: 20rem;</code><br><code>paddingBottom: 20rem;</code></td>
   </tr>
   <tr>
     <td><code>py-9</code></td>
-    <td><code>paddingTop: 2.25rem;</code>
-<code>paddingBottom: 2.25rem;</code></td>
+    <td><code>paddingTop: 2.25rem;</code><br><code>paddingBottom: 2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>py-96</code></td>
-    <td><code>paddingTop: 24rem;</code>
-<code>paddingBottom: 24rem;</code></td>
+    <td><code>paddingTop: 24rem;</code><br><code>paddingBottom: 24rem;</code></td>
   </tr>
   <tr>
     <td><code>py-px</code></td>
-    <td><code>paddingTop: 1px;</code>
-<code>paddingBottom: 1px;</code></td>
+    <td><code>paddingTop: 1px;</code><br><code>paddingBottom: 1px;</code></td>
   </tr>
   <tr>
     <td><code>pb-0</code></td>
@@ -31608,68 +30471,55 @@
   </tr>
   <tr>
     <td><code>text-2xl</code></td>
-    <td><code>fontSize: 1.5rem;</code>
-<code>lineHeight: 2rem;</code></td>
+    <td><code>fontSize: 1.5rem;</code><br><code>lineHeight: 2rem;</code></td>
   </tr>
   <tr>
     <td><code>text-3xl</code></td>
-    <td><code>fontSize: 1.875rem;</code>
-<code>lineHeight: 2.25rem;</code></td>
+    <td><code>fontSize: 1.875rem;</code><br><code>lineHeight: 2.25rem;</code></td>
   </tr>
   <tr>
     <td><code>text-4xl</code></td>
-    <td><code>fontSize: 2.25rem;</code>
-<code>lineHeight: 2.5rem;</code></td>
+    <td><code>fontSize: 2.25rem;</code><br><code>lineHeight: 2.5rem;</code></td>
   </tr>
   <tr>
     <td><code>text-5xl</code></td>
-    <td><code>fontSize: 3rem;</code>
-<code>lineHeight: 1;</code></td>
+    <td><code>fontSize: 3rem;</code><br><code>lineHeight: 1;</code></td>
   </tr>
   <tr>
     <td><code>text-6xl</code></td>
-    <td><code>fontSize: 3.75rem;</code>
-<code>lineHeight: 1;</code></td>
+    <td><code>fontSize: 3.75rem;</code><br><code>lineHeight: 1;</code></td>
   </tr>
   <tr>
     <td><code>text-7xl</code></td>
-    <td><code>fontSize: 4.5rem;</code>
-<code>lineHeight: 1;</code></td>
+    <td><code>fontSize: 4.5rem;</code><br><code>lineHeight: 1;</code></td>
   </tr>
   <tr>
     <td><code>text-8xl</code></td>
-    <td><code>fontSize: 6rem;</code>
-<code>lineHeight: 1;</code></td>
+    <td><code>fontSize: 6rem;</code><br><code>lineHeight: 1;</code></td>
   </tr>
   <tr>
     <td><code>text-9xl</code></td>
-    <td><code>fontSize: 8rem;</code>
-<code>lineHeight: 1;</code></td>
+    <td><code>fontSize: 8rem;</code><br><code>lineHeight: 1;</code></td>
   </tr>
   <tr>
     <td><code>text-base</code></td>
-    <td><code>fontSize: 1rem;</code>
-<code>lineHeight: 1.5rem;</code></td>
+    <td><code>fontSize: 1rem;</code><br><code>lineHeight: 1.5rem;</code></td>
   </tr>
   <tr>
     <td><code>text-lg</code></td>
-    <td><code>fontSize: 1.125rem;</code>
-<code>lineHeight: 1.75rem;</code></td>
+    <td><code>fontSize: 1.125rem;</code><br><code>lineHeight: 1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>text-sm</code></td>
-    <td><code>fontSize: 0.875rem;</code>
-<code>lineHeight: 1.25rem;</code></td>
+    <td><code>fontSize: 0.875rem;</code><br><code>lineHeight: 1.25rem;</code></td>
   </tr>
   <tr>
     <td><code>text-xl</code></td>
-    <td><code>fontSize: 1.25rem;</code>
-<code>lineHeight: 1.75rem;</code></td>
+    <td><code>fontSize: 1.25rem;</code><br><code>lineHeight: 1.75rem;</code></td>
   </tr>
   <tr>
     <td><code>text-xs</code></td>
-    <td><code>fontSize: 0.75rem;</code>
-<code>lineHeight: 1rem;</code></td>
+    <td><code>fontSize: 0.75rem;</code><br><code>lineHeight: 1rem;</code></td>
   </tr>
   <tr>
     <td><code>font-black</code></td>
@@ -34021,13 +32871,11 @@
   </tr>
   <tr>
     <td><code>antialiased</code></td>
-    <td><code>WebkitFontSmoothing: antialiased;</code>
-<code>MozOsxFontSmoothing: grayscale;</code></td>
+    <td><code>WebkitFontSmoothing: antialiased;</code><br><code>MozOsxFontSmoothing: grayscale;</code></td>
   </tr>
   <tr>
     <td><code>subpixel-antialiased</code></td>
-    <td><code>WebkitFontSmoothing: auto;</code>
-<code>MozOsxFontSmoothing: auto;</code></td>
+    <td><code>WebkitFontSmoothing: auto;</code><br><code>MozOsxFontSmoothing: auto;</code></td>
   </tr>
   <tr>
     <td><code>caret-amber-100</code></td>
@@ -37251,8 +36099,7 @@
   </tr>
   <tr>
     <td><code>outline-none</code></td>
-    <td><code>outline: 2px solid transparent;</code>
-<code>outlineOffset: 2px;</code></td>
+    <td><code>outline: 2px solid transparent;</code><br><code>outlineOffset: 2px;</code></td>
   </tr>
   <tr>
     <td><code>outline</code></td>
@@ -40664,386 +39511,307 @@
   </tr>
   <tr>
     <td><code>backdrop-blur</code></td>
-    <td><code>WebkitBackdropFilter: blur(8px)                        ;</code>
-<code>backdropFilter: blur(8px)                        ;</code></td>
+    <td><code>WebkitBackdropFilter: blur(8px)                        ;</code><br><code>backdropFilter: blur(8px)                        ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-blur-0</code></td>
-    <td><code>WebkitBackdropFilter: blur(0)                        ;</code>
-<code>backdropFilter: blur(0)                        ;</code></td>
+    <td><code>WebkitBackdropFilter: blur(0)                        ;</code><br><code>backdropFilter: blur(0)                        ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-blur-2xl</code></td>
-    <td><code>WebkitBackdropFilter: blur(40px)                        ;</code>
-<code>backdropFilter: blur(40px)                        ;</code></td>
+    <td><code>WebkitBackdropFilter: blur(40px)                        ;</code><br><code>backdropFilter: blur(40px)                        ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-blur-3xl</code></td>
-    <td><code>WebkitBackdropFilter: blur(64px)                        ;</code>
-<code>backdropFilter: blur(64px)                        ;</code></td>
+    <td><code>WebkitBackdropFilter: blur(64px)                        ;</code><br><code>backdropFilter: blur(64px)                        ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-blur-lg</code></td>
-    <td><code>WebkitBackdropFilter: blur(16px)                        ;</code>
-<code>backdropFilter: blur(16px)                        ;</code></td>
+    <td><code>WebkitBackdropFilter: blur(16px)                        ;</code><br><code>backdropFilter: blur(16px)                        ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-blur-md</code></td>
-    <td><code>WebkitBackdropFilter: blur(12px)                        ;</code>
-<code>backdropFilter: blur(12px)                        ;</code></td>
+    <td><code>WebkitBackdropFilter: blur(12px)                        ;</code><br><code>backdropFilter: blur(12px)                        ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-blur-none</code></td>
-    <td><code>WebkitBackdropFilter:                           ;</code>
-<code>backdropFilter:                           ;</code></td>
+    <td><code>WebkitBackdropFilter:                           ;</code><br><code>backdropFilter:                           ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-blur-sm</code></td>
-    <td><code>WebkitBackdropFilter: blur(4px)                        ;</code>
-<code>backdropFilter: blur(4px)                        ;</code></td>
+    <td><code>WebkitBackdropFilter: blur(4px)                        ;</code><br><code>backdropFilter: blur(4px)                        ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-blur-xl</code></td>
-    <td><code>WebkitBackdropFilter: blur(24px)                        ;</code>
-<code>backdropFilter: blur(24px)                        ;</code></td>
+    <td><code>WebkitBackdropFilter: blur(24px)                        ;</code><br><code>backdropFilter: blur(24px)                        ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-brightness-0</code></td>
-    <td><code>WebkitBackdropFilter:    brightness(0)                     ;</code>
-<code>backdropFilter:    brightness(0)                     ;</code></td>
+    <td><code>WebkitBackdropFilter:    brightness(0)                     ;</code><br><code>backdropFilter:    brightness(0)                     ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-brightness-100</code></td>
-    <td><code>WebkitBackdropFilter:    brightness(1)                     ;</code>
-<code>backdropFilter:    brightness(1)                     ;</code></td>
+    <td><code>WebkitBackdropFilter:    brightness(1)                     ;</code><br><code>backdropFilter:    brightness(1)                     ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-brightness-105</code></td>
-    <td><code>WebkitBackdropFilter:    brightness(1.05)                     ;</code>
-<code>backdropFilter:    brightness(1.05)                     ;</code></td>
+    <td><code>WebkitBackdropFilter:    brightness(1.05)                     ;</code><br><code>backdropFilter:    brightness(1.05)                     ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-brightness-110</code></td>
-    <td><code>WebkitBackdropFilter:    brightness(1.1)                     ;</code>
-<code>backdropFilter:    brightness(1.1)                     ;</code></td>
+    <td><code>WebkitBackdropFilter:    brightness(1.1)                     ;</code><br><code>backdropFilter:    brightness(1.1)                     ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-brightness-125</code></td>
-    <td><code>WebkitBackdropFilter:    brightness(1.25)                     ;</code>
-<code>backdropFilter:    brightness(1.25)                     ;</code></td>
+    <td><code>WebkitBackdropFilter:    brightness(1.25)                     ;</code><br><code>backdropFilter:    brightness(1.25)                     ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-brightness-150</code></td>
-    <td><code>WebkitBackdropFilter:    brightness(1.5)                     ;</code>
-<code>backdropFilter:    brightness(1.5)                     ;</code></td>
+    <td><code>WebkitBackdropFilter:    brightness(1.5)                     ;</code><br><code>backdropFilter:    brightness(1.5)                     ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-brightness-200</code></td>
-    <td><code>WebkitBackdropFilter:    brightness(2)                     ;</code>
-<code>backdropFilter:    brightness(2)                     ;</code></td>
+    <td><code>WebkitBackdropFilter:    brightness(2)                     ;</code><br><code>backdropFilter:    brightness(2)                     ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-brightness-50</code></td>
-    <td><code>WebkitBackdropFilter:    brightness(.5)                     ;</code>
-<code>backdropFilter:    brightness(.5)                     ;</code></td>
+    <td><code>WebkitBackdropFilter:    brightness(.5)                     ;</code><br><code>backdropFilter:    brightness(.5)                     ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-brightness-75</code></td>
-    <td><code>WebkitBackdropFilter:    brightness(.75)                     ;</code>
-<code>backdropFilter:    brightness(.75)                     ;</code></td>
+    <td><code>WebkitBackdropFilter:    brightness(.75)                     ;</code><br><code>backdropFilter:    brightness(.75)                     ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-brightness-90</code></td>
-    <td><code>WebkitBackdropFilter:    brightness(.9)                     ;</code>
-<code>backdropFilter:    brightness(.9)                     ;</code></td>
+    <td><code>WebkitBackdropFilter:    brightness(.9)                     ;</code><br><code>backdropFilter:    brightness(.9)                     ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-brightness-95</code></td>
-    <td><code>WebkitBackdropFilter:    brightness(.95)                     ;</code>
-<code>backdropFilter:    brightness(.95)                     ;</code></td>
+    <td><code>WebkitBackdropFilter:    brightness(.95)                     ;</code><br><code>backdropFilter:    brightness(.95)                     ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-contrast-0</code></td>
-    <td><code>WebkitBackdropFilter:       contrast(0)                  ;</code>
-<code>backdropFilter:       contrast(0)                  ;</code></td>
+    <td><code>WebkitBackdropFilter:       contrast(0)                  ;</code><br><code>backdropFilter:       contrast(0)                  ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-contrast-100</code></td>
-    <td><code>WebkitBackdropFilter:       contrast(1)                  ;</code>
-<code>backdropFilter:       contrast(1)                  ;</code></td>
+    <td><code>WebkitBackdropFilter:       contrast(1)                  ;</code><br><code>backdropFilter:       contrast(1)                  ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-contrast-125</code></td>
-    <td><code>WebkitBackdropFilter:       contrast(1.25)                  ;</code>
-<code>backdropFilter:       contrast(1.25)                  ;</code></td>
+    <td><code>WebkitBackdropFilter:       contrast(1.25)                  ;</code><br><code>backdropFilter:       contrast(1.25)                  ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-contrast-150</code></td>
-    <td><code>WebkitBackdropFilter:       contrast(1.5)                  ;</code>
-<code>backdropFilter:       contrast(1.5)                  ;</code></td>
+    <td><code>WebkitBackdropFilter:       contrast(1.5)                  ;</code><br><code>backdropFilter:       contrast(1.5)                  ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-contrast-200</code></td>
-    <td><code>WebkitBackdropFilter:       contrast(2)                  ;</code>
-<code>backdropFilter:       contrast(2)                  ;</code></td>
+    <td><code>WebkitBackdropFilter:       contrast(2)                  ;</code><br><code>backdropFilter:       contrast(2)                  ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-contrast-50</code></td>
-    <td><code>WebkitBackdropFilter:       contrast(.5)                  ;</code>
-<code>backdropFilter:       contrast(.5)                  ;</code></td>
+    <td><code>WebkitBackdropFilter:       contrast(.5)                  ;</code><br><code>backdropFilter:       contrast(.5)                  ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-contrast-75</code></td>
-    <td><code>WebkitBackdropFilter:       contrast(.75)                  ;</code>
-<code>backdropFilter:       contrast(.75)                  ;</code></td>
+    <td><code>WebkitBackdropFilter:       contrast(.75)                  ;</code><br><code>backdropFilter:       contrast(.75)                  ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-grayscale</code></td>
-    <td><code>WebkitBackdropFilter:          grayscale(100%)               ;</code>
-<code>backdropFilter:          grayscale(100%)               ;</code></td>
+    <td><code>WebkitBackdropFilter:          grayscale(100%)               ;</code><br><code>backdropFilter:          grayscale(100%)               ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-grayscale-0</code></td>
-    <td><code>WebkitBackdropFilter:          grayscale(0)               ;</code>
-<code>backdropFilter:          grayscale(0)               ;</code></td>
+    <td><code>WebkitBackdropFilter:          grayscale(0)               ;</code><br><code>backdropFilter:          grayscale(0)               ;</code></td>
   </tr>
   <tr>
     <td><code>-backdrop-hue-rotate-0</code></td>
-    <td><code>WebkitBackdropFilter:             hue-rotate(-0deg)            ;</code>
-<code>backdropFilter:             hue-rotate(-0deg)            ;</code></td>
+    <td><code>WebkitBackdropFilter:             hue-rotate(-0deg)            ;</code><br><code>backdropFilter:             hue-rotate(-0deg)            ;</code></td>
   </tr>
   <tr>
     <td><code>-backdrop-hue-rotate-15</code></td>
-    <td><code>WebkitBackdropFilter:             hue-rotate(-15deg)            ;</code>
-<code>backdropFilter:             hue-rotate(-15deg)            ;</code></td>
+    <td><code>WebkitBackdropFilter:             hue-rotate(-15deg)            ;</code><br><code>backdropFilter:             hue-rotate(-15deg)            ;</code></td>
   </tr>
   <tr>
     <td><code>-backdrop-hue-rotate-180</code></td>
-    <td><code>WebkitBackdropFilter:             hue-rotate(-180deg)            ;</code>
-<code>backdropFilter:             hue-rotate(-180deg)            ;</code></td>
+    <td><code>WebkitBackdropFilter:             hue-rotate(-180deg)            ;</code><br><code>backdropFilter:             hue-rotate(-180deg)            ;</code></td>
   </tr>
   <tr>
     <td><code>-backdrop-hue-rotate-30</code></td>
-    <td><code>WebkitBackdropFilter:             hue-rotate(-30deg)            ;</code>
-<code>backdropFilter:             hue-rotate(-30deg)            ;</code></td>
+    <td><code>WebkitBackdropFilter:             hue-rotate(-30deg)            ;</code><br><code>backdropFilter:             hue-rotate(-30deg)            ;</code></td>
   </tr>
   <tr>
     <td><code>-backdrop-hue-rotate-60</code></td>
-    <td><code>WebkitBackdropFilter:             hue-rotate(-60deg)            ;</code>
-<code>backdropFilter:             hue-rotate(-60deg)            ;</code></td>
+    <td><code>WebkitBackdropFilter:             hue-rotate(-60deg)            ;</code><br><code>backdropFilter:             hue-rotate(-60deg)            ;</code></td>
   </tr>
   <tr>
     <td><code>-backdrop-hue-rotate-90</code></td>
-    <td><code>WebkitBackdropFilter:             hue-rotate(-90deg)            ;</code>
-<code>backdropFilter:             hue-rotate(-90deg)            ;</code></td>
+    <td><code>WebkitBackdropFilter:             hue-rotate(-90deg)            ;</code><br><code>backdropFilter:             hue-rotate(-90deg)            ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-hue-rotate-0</code></td>
-    <td><code>WebkitBackdropFilter:             hue-rotate(0deg)            ;</code>
-<code>backdropFilter:             hue-rotate(0deg)            ;</code></td>
+    <td><code>WebkitBackdropFilter:             hue-rotate(0deg)            ;</code><br><code>backdropFilter:             hue-rotate(0deg)            ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-hue-rotate-15</code></td>
-    <td><code>WebkitBackdropFilter:             hue-rotate(15deg)            ;</code>
-<code>backdropFilter:             hue-rotate(15deg)            ;</code></td>
+    <td><code>WebkitBackdropFilter:             hue-rotate(15deg)            ;</code><br><code>backdropFilter:             hue-rotate(15deg)            ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-hue-rotate-180</code></td>
-    <td><code>WebkitBackdropFilter:             hue-rotate(180deg)            ;</code>
-<code>backdropFilter:             hue-rotate(180deg)            ;</code></td>
+    <td><code>WebkitBackdropFilter:             hue-rotate(180deg)            ;</code><br><code>backdropFilter:             hue-rotate(180deg)            ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-hue-rotate-30</code></td>
-    <td><code>WebkitBackdropFilter:             hue-rotate(30deg)            ;</code>
-<code>backdropFilter:             hue-rotate(30deg)            ;</code></td>
+    <td><code>WebkitBackdropFilter:             hue-rotate(30deg)            ;</code><br><code>backdropFilter:             hue-rotate(30deg)            ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-hue-rotate-60</code></td>
-    <td><code>WebkitBackdropFilter:             hue-rotate(60deg)            ;</code>
-<code>backdropFilter:             hue-rotate(60deg)            ;</code></td>
+    <td><code>WebkitBackdropFilter:             hue-rotate(60deg)            ;</code><br><code>backdropFilter:             hue-rotate(60deg)            ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-hue-rotate-90</code></td>
-    <td><code>WebkitBackdropFilter:             hue-rotate(90deg)            ;</code>
-<code>backdropFilter:             hue-rotate(90deg)            ;</code></td>
+    <td><code>WebkitBackdropFilter:             hue-rotate(90deg)            ;</code><br><code>backdropFilter:             hue-rotate(90deg)            ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-invert</code></td>
-    <td><code>WebkitBackdropFilter:                invert(100%)         ;</code>
-<code>backdropFilter:                invert(100%)         ;</code></td>
+    <td><code>WebkitBackdropFilter:                invert(100%)         ;</code><br><code>backdropFilter:                invert(100%)         ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-invert-0</code></td>
-    <td><code>WebkitBackdropFilter:                invert(0)         ;</code>
-<code>backdropFilter:                invert(0)         ;</code></td>
+    <td><code>WebkitBackdropFilter:                invert(0)         ;</code><br><code>backdropFilter:                invert(0)         ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-0</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0)      ;</code>
-<code>backdropFilter:                   opacity(0)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0)      ;</code><br><code>backdropFilter:                   opacity(0)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-10</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.1)      ;</code>
-<code>backdropFilter:                   opacity(0.1)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.1)      ;</code><br><code>backdropFilter:                   opacity(0.1)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-100</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(1)      ;</code>
-<code>backdropFilter:                   opacity(1)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(1)      ;</code><br><code>backdropFilter:                   opacity(1)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-15</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.15)      ;</code>
-<code>backdropFilter:                   opacity(0.15)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.15)      ;</code><br><code>backdropFilter:                   opacity(0.15)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-20</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.2)      ;</code>
-<code>backdropFilter:                   opacity(0.2)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.2)      ;</code><br><code>backdropFilter:                   opacity(0.2)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-25</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.25)      ;</code>
-<code>backdropFilter:                   opacity(0.25)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.25)      ;</code><br><code>backdropFilter:                   opacity(0.25)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-30</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.3)      ;</code>
-<code>backdropFilter:                   opacity(0.3)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.3)      ;</code><br><code>backdropFilter:                   opacity(0.3)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-35</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.35)      ;</code>
-<code>backdropFilter:                   opacity(0.35)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.35)      ;</code><br><code>backdropFilter:                   opacity(0.35)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-40</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.4)      ;</code>
-<code>backdropFilter:                   opacity(0.4)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.4)      ;</code><br><code>backdropFilter:                   opacity(0.4)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-45</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.45)      ;</code>
-<code>backdropFilter:                   opacity(0.45)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.45)      ;</code><br><code>backdropFilter:                   opacity(0.45)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-5</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.05)      ;</code>
-<code>backdropFilter:                   opacity(0.05)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.05)      ;</code><br><code>backdropFilter:                   opacity(0.05)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-50</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.5)      ;</code>
-<code>backdropFilter:                   opacity(0.5)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.5)      ;</code><br><code>backdropFilter:                   opacity(0.5)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-55</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.55)      ;</code>
-<code>backdropFilter:                   opacity(0.55)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.55)      ;</code><br><code>backdropFilter:                   opacity(0.55)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-60</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.6)      ;</code>
-<code>backdropFilter:                   opacity(0.6)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.6)      ;</code><br><code>backdropFilter:                   opacity(0.6)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-65</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.65)      ;</code>
-<code>backdropFilter:                   opacity(0.65)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.65)      ;</code><br><code>backdropFilter:                   opacity(0.65)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-70</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.7)      ;</code>
-<code>backdropFilter:                   opacity(0.7)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.7)      ;</code><br><code>backdropFilter:                   opacity(0.7)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-75</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.75)      ;</code>
-<code>backdropFilter:                   opacity(0.75)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.75)      ;</code><br><code>backdropFilter:                   opacity(0.75)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-80</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.8)      ;</code>
-<code>backdropFilter:                   opacity(0.8)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.8)      ;</code><br><code>backdropFilter:                   opacity(0.8)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-85</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.85)      ;</code>
-<code>backdropFilter:                   opacity(0.85)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.85)      ;</code><br><code>backdropFilter:                   opacity(0.85)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-90</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.9)      ;</code>
-<code>backdropFilter:                   opacity(0.9)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.9)      ;</code><br><code>backdropFilter:                   opacity(0.9)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-opacity-95</code></td>
-    <td><code>WebkitBackdropFilter:                   opacity(0.95)      ;</code>
-<code>backdropFilter:                   opacity(0.95)      ;</code></td>
+    <td><code>WebkitBackdropFilter:                   opacity(0.95)      ;</code><br><code>backdropFilter:                   opacity(0.95)      ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-saturate-0</code></td>
-    <td><code>WebkitBackdropFilter:                      saturate(0)   ;</code>
-<code>backdropFilter:                      saturate(0)   ;</code></td>
+    <td><code>WebkitBackdropFilter:                      saturate(0)   ;</code><br><code>backdropFilter:                      saturate(0)   ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-saturate-100</code></td>
-    <td><code>WebkitBackdropFilter:                      saturate(1)   ;</code>
-<code>backdropFilter:                      saturate(1)   ;</code></td>
+    <td><code>WebkitBackdropFilter:                      saturate(1)   ;</code><br><code>backdropFilter:                      saturate(1)   ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-saturate-150</code></td>
-    <td><code>WebkitBackdropFilter:                      saturate(1.5)   ;</code>
-<code>backdropFilter:                      saturate(1.5)   ;</code></td>
+    <td><code>WebkitBackdropFilter:                      saturate(1.5)   ;</code><br><code>backdropFilter:                      saturate(1.5)   ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-saturate-200</code></td>
-    <td><code>WebkitBackdropFilter:                      saturate(2)   ;</code>
-<code>backdropFilter:                      saturate(2)   ;</code></td>
+    <td><code>WebkitBackdropFilter:                      saturate(2)   ;</code><br><code>backdropFilter:                      saturate(2)   ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-saturate-50</code></td>
-    <td><code>WebkitBackdropFilter:                      saturate(.5)   ;</code>
-<code>backdropFilter:                      saturate(.5)   ;</code></td>
+    <td><code>WebkitBackdropFilter:                      saturate(.5)   ;</code><br><code>backdropFilter:                      saturate(.5)   ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-sepia</code></td>
-    <td><code>WebkitBackdropFilter:                         sepia(100%);</code>
-<code>backdropFilter:                         sepia(100%);</code></td>
+    <td><code>WebkitBackdropFilter:                         sepia(100%);</code><br><code>backdropFilter:                         sepia(100%);</code></td>
   </tr>
   <tr>
     <td><code>backdrop-sepia-0</code></td>
-    <td><code>WebkitBackdropFilter:                         sepia(0);</code>
-<code>backdropFilter:                         sepia(0);</code></td>
+    <td><code>WebkitBackdropFilter:                         sepia(0);</code><br><code>backdropFilter:                         sepia(0);</code></td>
   </tr>
   <tr>
     <td><code>backdrop-filter</code></td>
-    <td><code>WebkitBackdropFilter:                           ;</code>
-<code>backdropFilter:                           ;</code></td>
+    <td><code>WebkitBackdropFilter:                           ;</code><br><code>backdropFilter:                           ;</code></td>
   </tr>
   <tr>
     <td><code>backdrop-filter-none</code></td>
-    <td><code>WebkitBackdropFilter: none;</code>
-<code>backdropFilter: none;</code></td>
+    <td><code>WebkitBackdropFilter: none;</code><br><code>backdropFilter: none;</code></td>
   </tr>
   <tr>
     <td><code>transition</code></td>
-    <td><code>transitionProperty: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;</code>
-<code>transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1);</code>
-<code>transitionDuration: 150ms;</code></td>
+    <td><code>transitionProperty: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;</code><br><code>transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1);</code><br><code>transitionDuration: 150ms;</code></td>
   </tr>
   <tr>
     <td><code>transition-all</code></td>
-    <td><code>transitionProperty: all;</code>
-<code>transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1);</code>
-<code>transitionDuration: 150ms;</code></td>
+    <td><code>transitionProperty: all;</code><br><code>transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1);</code><br><code>transitionDuration: 150ms;</code></td>
   </tr>
   <tr>
     <td><code>transition-colors</code></td>
-    <td><code>transitionProperty: color, background-color, border-color, text-decoration-color, fill, stroke;</code>
-<code>transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1);</code>
-<code>transitionDuration: 150ms;</code></td>
+    <td><code>transitionProperty: color, background-color, border-color, text-decoration-color, fill, stroke;</code><br><code>transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1);</code><br><code>transitionDuration: 150ms;</code></td>
   </tr>
   <tr>
     <td><code>transition-none</code></td>
@@ -41051,21 +39819,15 @@
   </tr>
   <tr>
     <td><code>transition-opacity</code></td>
-    <td><code>transitionProperty: opacity;</code>
-<code>transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1);</code>
-<code>transitionDuration: 150ms;</code></td>
+    <td><code>transitionProperty: opacity;</code><br><code>transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1);</code><br><code>transitionDuration: 150ms;</code></td>
   </tr>
   <tr>
     <td><code>transition-shadow</code></td>
-    <td><code>transitionProperty: box-shadow;</code>
-<code>transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1);</code>
-<code>transitionDuration: 150ms;</code></td>
+    <td><code>transitionProperty: box-shadow;</code><br><code>transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1);</code><br><code>transitionDuration: 150ms;</code></td>
   </tr>
   <tr>
     <td><code>transition-transform</code></td>
-    <td><code>transitionProperty: transform;</code>
-<code>transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1);</code>
-<code>transitionDuration: 150ms;</code></td>
+    <td><code>transitionProperty: transform;</code><br><code>transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1);</code><br><code>transitionDuration: 150ms;</code></td>
   </tr>
   <tr>
     <td><code>delay-0</code></td>

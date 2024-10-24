@@ -17,7 +17,7 @@ for (const [className, styles] of Object.entries(utilities)) {
   // Prepare the styles string with <br> tags for line breaks
   const stylesList = Object.entries(styles)
     .map(([prop, value]) => `<code>${prop}: ${value};</code>`)
-    .join('\n'); // Use <br> tag for line breaks
+    .join('<br>'); // Use <br> tag for line breaks
 
   // Add the row to the HTML table
   markdownContent += '  <tr>\n';

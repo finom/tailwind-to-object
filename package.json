@@ -4,6 +4,7 @@
   "description": "Convert Tailwind classNames into CSS objects",
   "main": "dist/index.js",
   "scripts": {
+    "ncu": "npm-check-updates -u && npm i",
     "test": "npm run build && ts-node test",
     "prettier": "prettier --write \"**/*.ts\"",
     "build": "npm run tailwind-generate && npm run doc-generate && tsc",
