@@ -57,7 +57,7 @@ export default function tailwindToObject(selector: string) {
       }
       if (s.includes('[')) {
         const property = s.split('-[')[0].replace('.', '') as keyof typeof arbitrarySupportedClasses;
-        const properyValue = s.match(/(?<=\[)[^\][]*(?=])/g)?.[0];
+        const properyValue = s.match(/(?<=\[)[^\][]*(?=])/g)?.[0]?.replace(/_/g, ' ');
         const value = arbitrarySupportedClasses[property];
         if (value) {
           Object.assign(styleAttr, {
