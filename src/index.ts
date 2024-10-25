@@ -17,6 +17,8 @@ function mapValues<T, U>(
   return result;
 }
 
+const isColor = (value: string) => value.startsWith('rgb(') || value.startsWith('rgba(') || value.startsWith('#');
+
 const arbitrarySupportedClasses = {
   pt: 'padding-top',
   pb: 'padding-bottom',
@@ -35,10 +37,10 @@ const arbitrarySupportedClasses = {
   left: 'left',
   right: 'right',
   bg: 'background',
-  text: (value: string) => value.startsWith('rgb') || value.startsWith('#') ? 'text-color' : 'font-size',
+  text: (value: string) => isColor(value) ? 'text-color' : 'font-size',
   'min-w': 'min-width',
   'max-w': 'max-width',
-  border: (value: string) => value.startsWith('rgb') || value.startsWith('#') ? 'border-color' : 'border-width',
+  border: (value: string) => isColor(value) ? 'border-color' : 'border-width',
 };
 
 export default function tailwindToObject(className: string) {
