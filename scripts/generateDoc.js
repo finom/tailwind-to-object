@@ -20,7 +20,9 @@ markdownContent += '  </tr>\n';
 for (const [className, styles] of Object.entries(utilities)) {
   // Prepare the styles string with <br> tags for line breaks
   const stylesList = Object.entries(styles)
-    .map(([prop, value]) => `<code>${prop}: ${value};</code> ${value.startsWith('#') ? `<img src="https://img.shields.io/badge/-${value.replace(/^#/, '')}-${value.replace(/^#/, '')}?style=flat-square">` : ''}`)
+    .map(([prop, value]) => `
+    <code>${prop}: ${value};</code> ${value.startsWith('#') ? `\n<img alt="${value}" src="https://img.shields.io/badge/-${value.replace(/^#/, '')}-${value.replace(/^#/, '')}?style=flat-square" />` : ''}
+  `)
     .join('<br>'); // Use <br> tag for line breaks
 
   // Add the row to the HTML table
