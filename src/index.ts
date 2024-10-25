@@ -38,7 +38,7 @@ const arbitrarySupportedClasses = {
   text: (value: string) => value.startsWith('rgb') || value.startsWith('#') ? 'text-color' : 'font-size',
   'min-w': 'min-width',
   'max-w': 'max-width',
-  border: 'border-width',
+  border: (value: string) => value.startsWith('rgb') || value.startsWith('#') ? 'border-color' : 'border-width',
 };
 
 export default function tailwindToObject(className: string) {
