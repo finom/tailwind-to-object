@@ -41,11 +41,11 @@ const arbitrarySupportedClasses = {
   border: 'border-width',
 };
 
-export default function tailwindToObject(selector: string) {
-  if (!selector) return {};
+export default function tailwindToObject(className: string) {
+  if (!className) return {};
   const styleAttr = {};
 
-  selector
+  className
     .trim()
     .split(/\s+/)
     .forEach((s) => {
@@ -64,12 +64,12 @@ export default function tailwindToObject(selector: string) {
             [camelCase(typeof value === 'function' ? value(properyValue ?? '') : value)]: properyValue + (important ? ' !important' : ''),
           });
         } else {
-          throw new Error(`No style found for selector: ${s}`);
+          throw new Error(`No style found for class: ${s}`);
         }
       } else {
         const style = generatedStyles[s as keyof typeof generatedStyles];
         if (!style) {
-          throw new Error(`No style found for selector: ${s}`);
+          throw new Error(`No style found for class: ${s}`);
         }
 
         Object.assign(
