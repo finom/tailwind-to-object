@@ -1,6 +1,6 @@
 {
   "name": "tailwind-to-object",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "Convert Tailwind class names into a CSS object",
   "main": "./dist/index.js",
   "scripts": {
