@@ -19,7 +19,7 @@ function mapValues<T, U>(
 
 const isColor = (value: string) => value.startsWith('rgb(') || value.startsWith('rgba(') || value.startsWith('#');
 
-const arbitrarySupportedClasses = {
+const supportedLiteralClasses = {
   pt: 'padding-top',
   pb: 'padding-bottom',
   pl: 'padding-left',
@@ -32,12 +32,13 @@ const arbitrarySupportedClasses = {
   mr: 'margin-right',
   w: 'width',
   h: 'height',
+  inset: 'inset',
   top: 'top',
   bottom: 'bottom',
   left: 'left',
   right: 'right',
   bg: 'background',
-  text: (value: string) => isColor(value) ? 'text-color' : 'font-size',
+  text: (value: string) => isColor(value) ? 'color' : 'font-size',
   'min-w': 'min-width',
   'max-w': 'max-width',
   border: (value: string) => isColor(value) ? 'border-color' : 'border-width',
@@ -58,9 +59,9 @@ export default function tailwindToObject(className: string) {
         s = s.slice(1);
       }
       if (s.includes('[')) {
-        const property = s.split('-[')[0].replace('.', '') as keyof typeof arbitrarySupportedClasses;
+        const property = s.split('-[')[0].replace('.', '') as keyof typeof supportedLiteralClasses;
         const properyValue = s.match(/(?<=\[)[^\][]*(?=])/g)?.[0]?.replace(/_/g, ' ');
-        const value = arbitrarySupportedClasses[property];
+        const value = supportedLiteralClasses[property];
         if (value) {
           Object.assign(styleAttr, {
             [camelCase(typeof value === 'function' ? value(properyValue ?? '') : value)]: properyValue + (important ? ' !important' : ''),

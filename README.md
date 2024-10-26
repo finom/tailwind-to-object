@@ -80,15 +80,37 @@ import { ComponentProps, createElement } from 'react';
 import { twMerge } from 'tailwind-merge';
 import tailwindToObject from 'tailwind-to-object';
 
+// put your custom classes here
+const classesToReplace = {
+  'my-custom-class': 'text-[#FF0000] bg-white',
+  // since the function doesn't use Tailwind config, you may want to define custom font sizes here
+  'text-sm': 'text-[14px]', 
+};
+
+const replaceClasses = (classNames: string[]) => {
+  const classesToBeApplied = [];
+
+  for (const cls of classNames) {
+    if (classesToReplace[cls as keyof typeof classesToReplace]) {
+      classesToBeApplied.push(classesToReplace[cls as keyof typeof classesToReplace]);
+    } else {
+      classesToBeApplied.push(cls);
+    }
+  }
+
+  return classesToBeApplied;
+};
+
 function createTag<T extends keyof JSX.IntrinsicElements>(tag: T) {
-  const component = ({ className, style, ...rest }: ComponentProps<T>) =>
-    createElement(tag, {
-      style: {
-        ...(className ? tailwindToObject(twMerge(className)) : {}),
-        ...(style ?? {}),
-      },
+  const component = ({ className, style, ...rest }: ComponentProps<T>) => {
+    const classNames = replaceClasses(className?.trim().split(/\s+/) ?? []);
+
+    const tailwindStyle = classNames.length ? tailwindToObject(twMerge(...classNames)) : {};
+    return createElement(tag, {
+      style: { ...tailwindStyle, ...(style ?? {}) },
       ...rest,
     });
+  };
 
   component.displayName = tag;
 
@@ -126,9 +148,9 @@ Now you can use the new components like that:
 ```tsx
 import { Div } from './tailwindComponents';
 // ...
-<Div className="mt-6 leading-6 bg-red-400 font-semibold" style={{ ...someOtherStyles }}>
+<Div className="mt-6 leading-6 font-semibold my-custom-class" style={{ ...someOtherStyles }}>
     Hello World
 </Div>
 ```
 
-By default, if Tailwind class is not supported, `tailwindToObject` is going to throw an error. If you need support of other classes you can create your custom function that wraps `tailwindToObject`.
+Note that, by default, if Tailwind class is not supported, `tailwindToObject` is going to throw an error. 
