@@ -21,7 +21,7 @@ for (const [className, styles] of Object.entries(utilities)) {
   // Prepare the styles string with <br> tags for line breaks
   const stylesList = Object.entries(styles)
     .map(([prop, value]) => `
-    <code>${prop}: ${value};</code> ${value.startsWith('#') || value.startsWith('rgba(') ? `\n<span style="background: ${value}; display: inline-block; vertical-align: middle; width: 80px; height: 20px; border-radius: 4px; border: 1px solid #f0f0f0" />` : ''}
+    <code>${prop}: ${value};</code> ${value.startsWith('#') || value.startsWith('rgba(') ? `\n<span style="background: ${value}; display: inline-block; vertical-align: middle; width: 80px; height: 21px; border-radius: 4px; border: 1px solid #f0f0f0" />` : ''}
   `)
     .join('<br>'); // Use <br> tag for line breaks
 
