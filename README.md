@@ -41,6 +41,7 @@ const style = tailwindToObject(`
   border-[5px] 
   -top-4
   w-[calc(100%_-_100px)]
+  h-1/2
 `);
 
 console.log(style);
@@ -65,7 +66,9 @@ console.log(style);
     // -top-4
     top: '-1rem',
     // w-[calc(100%_-_100px)]
-    width: 'calc(100% - 100px)'
+    width: 'calc(100% - 100px)',
+    // h-1/2
+    height: '50%',
 }
 */
 ```

@@ -22,6 +22,18 @@ function rgbToHex(r, g, b) {
   );
 }
 
+// Add the unescape function
+function unescapeCssIdentifier(ident) {
+  return ident.replace(/\\([0-9a-fA-F]{1,6} ?|.)/g, function(match, escape) {
+    if (escape.length === 1) {
+      return escape;
+    } else {
+      const codePoint = parseInt(escape.trim(), 16);
+      return String.fromCodePoint(codePoint);
+    }
+  });
+}
+
 fs.readFile(path.join(__dirname, 'output.css'), 'utf8', (err, css) => {
   if (err) throw err;
 
@@ -51,10 +63,10 @@ fs.readFile(path.join(__dirname, 'output.css'), 'utf8', (err, css) => {
         if (
           selector.startsWith('.') &&
           !selector.includes(':') && // Exclude variants
-          !selector.includes('[') && // Exclude arbitrary values
-          !selector.includes('\\') // Exclude escaped characters
+          !selector.includes('[')    // Exclude arbitrary values
+          // Removed the exclusion of escaped characters
         ) {
-          const className = selector.slice(1); // Remove the '.'
+          const className = unescapeCssIdentifier(selector.slice(1)); // Remove the '.' and unescape
 
           const classVariables = { ...defaultVariables };
           const declarations = {};
@@ -106,7 +118,7 @@ fs.readFile(path.join(__dirname, 'output.css'), 'utf8', (err, css) => {
               resolvedValue = hexColor;
             }
 
-            // **Convert property name to camelCase**
+            // Convert property name to camelCase
             const camelCaseProp = toCamelCase(prop);
 
             resolvedDeclarations[camelCaseProp] = resolvedValue;
@@ -116,7 +128,10 @@ fs.readFile(path.join(__dirname, 'output.css'), 'utf8', (err, css) => {
         }
       });
 
-      utilityStyles = Object.fromEntries(Object.entries(utilityStyles).filter(([, value]) => Object.keys(value).length > 0));
+      // Filter out any utility styles that have no declarations
+      utilityStyles = Object.fromEntries(
+        Object.entries(utilityStyles).filter(([, value]) => Object.keys(value).length > 0)
+      );
 
       fs.writeFile(
         path.join(__dirname, '../src/generated.json'),
