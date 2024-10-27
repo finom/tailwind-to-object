@@ -36,7 +36,7 @@ for (const [className, styles] of Object.entries(utilities)) {
 markdownContent += '</table>\n';
 
 // Write the markdown content to a file
-fs.writeFile('supported-classes-x.md', markdownContent, (err) => {
+fs.writeFile('supported-classes.md', markdownContent, (err) => {
   if (err) throw err;
-  console.log('Markdown file has been generated: supported-classes.html');
+  console.log('Markdown file has been generated: supported-classes.md');
 });
