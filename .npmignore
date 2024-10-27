@@ -4,3 +4,5 @@ tailwind.config.js
 test.js
 tsconfig.json
 .github
+assets
+.github
