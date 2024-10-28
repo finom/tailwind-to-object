@@ -11,7 +11,7 @@
     "build": "npm run tailwind-generate && npm run doc-generate && tsc",
     "tailwind-compile": "npx tailwindcss -i ./generate/input.css -o ./generate/output.css --no-autoprefixer",
     "tailwind-generate": "npm run tailwind-compile && ts-node ./generate/generateTailwindStyles.ts",
-    "doc-generate": "ts-node ./scripts/generateDoc.js",
+    "doc-generate": "ts-node ./scripts/generateDoc.ts",
     "patch": "npm run unit && npm version patch && npm run build && npm publish && git push && git push --tags",
     "minor": "npm run unit && npm version minor && npm run build && npm publish && git push && git push --tags",
     "BREAKING-major": "npm run unit && npm version major && npm run build && npm publish && git push && git push --tags"
