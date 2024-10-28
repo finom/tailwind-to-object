@@ -7,7 +7,7 @@
   <img width="600" alt="Tailwind to Object" src="./assets/dark.png">
 </picture>
  <br />
- <strong>Tailwind for email libraries</strong>
+ <strong>Tailwind for email rendering</strong>
 <br /><br />
 <a href="https://www.npmjs.com/package/tailwind-to-object"><img src="https://badge.fury.io/js/tailwind-to-object.svg" alt="npm version" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg" alt="TypeScript" /></a>
