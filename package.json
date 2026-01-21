@@ -9,7 +9,7 @@
     "unit": "ts-node test",
     "prettier": "prettier --write \"**/*.ts\"",
     "build": "npm run tailwind-generate && npm run doc-generate && tsc",
-    "tailwind-compile": "npx tailwindcss -i ./generate/input.css -o ./generate/output.css --no-autoprefixer",
+    "tailwind-compile": "npx @tailwindcss/cli -i ./generate/input.css -o ./generate/output.css --no-autoprefixer",
     "tailwind-generate": "npm run tailwind-compile && ts-node ./generate/generateTailwindStyles.ts",
     "doc-generate": "ts-node ./scripts/generateDoc.ts",
     "patch": "npm run unit && npm version patch && npm run build && npm publish && git push && git push --tags",
@@ -39,9 +39,10 @@
   },
   "homepage": "https://github.com/finom/tailwind-to-object#readme",
   "devDependencies": {
-    "postcss": "^8.4.47",
+    "@tailwindcss/cli": "^4.1.11",
+    "postcss": "^8.5.6",
     "postcss-js": "^4.0.1",
-    "prettier": "3.3.3",
+    "prettier": "3.6.2",
     "ts-node": "^10.9.2"
   }
 }
