@@ -87,12 +87,17 @@ fs.readFile(
             for (const [prop, value] of Object.entries(declarations)) {
               let resolvedValue = value;
 
-              // Replace variables in the value
+              // Replace variables in the value. Tailwind >= 3.4.15 emits a
+              // fallback inside the reference, e.g. var(--tw-text-opacity, 1),
+              // so the fallback has to be accepted and used when the variable
+              // itself is not declared on the class.
               resolvedValue = resolvedValue.replace(
-                /var\((--[\w-]+)\)/g,
-                (match: string, varName: string) => {
+                /var\((--[\w-]+)(?:\s*,\s*([^()]*))?\)/g,
+                (match: string, varName: string, fallback?: string) => {
                   if (classVariables[varName] !== undefined) {
                     return classVariables[varName];
+                  } else if (fallback !== undefined) {
+                    return fallback.trim();
                   } else {
                     return match; // Leave the variable as is if not found
                   }
