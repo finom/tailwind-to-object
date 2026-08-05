@@ -126,6 +126,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-config.bat
-temp_auto_push.bat
-temp_interactive_push.bat
