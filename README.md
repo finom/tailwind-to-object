@@ -1,4 +1,5 @@
 
+
 <p align="center">
    <br />
 <picture>
@@ -26,7 +27,7 @@ yarn add tailwind-to-object
 
 ### tailwindToObject
 
-Accepts a space-delimited string of Tailwind classes as the only argument and returns an object of camel-cased styles.
+Accepts a space-delimited string of Tailwind classes as the only argument and returns an object of camel-cased styles. An empty class string returns an empty object.
 
 ```ts
 import tailwindToObject from 'tailwind-to-object';
@@ -156,4 +157,4 @@ import { Div } from './tailwindComponents';
 </Div>
 ```
 
-Note that, by default, if Tailwind class is not supported, `tailwindToObject` is going to throw an error. 
+Note that, by default, if Tailwind class is not supported, `tailwindToObject` is going to throw an error.
